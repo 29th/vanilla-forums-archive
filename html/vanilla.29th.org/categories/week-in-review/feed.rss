@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Week in Review — 29th Infantry Division</title>
+        <link>https://vanilla.29th.org/</link>
+        <pubDate>Wed, 05 Nov 2025 07:15:52 +0000</pubDate>
+        <language>en</language>
+            <description>Week in Review — 29th Infantry Division</description>
+    <atom:link href="https://vanilla.29th.org/categories/week-in-review/feed.rss" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Date from YYYY-MMM-DD to YYYY-MMM-DD</title>
+        <link>https://vanilla.29th.org/discussion/4803/date-from-yyyy-mmm-dd-to-yyyy-mmm-dd</link>
+        <pubDate>Tue, 30 Jun 2015 04:51:06 +0000</pubDate>
+        <category>Week in Review</category>
+        <dc:creator>Cpt. Hill [Ret.]</dc:creator>
+        <guid isPermaLink="false">4803@/discussions</guid>
+        <description><![CDATA[<p>Placeholder,<br />
+WIP<br />
+More data forthcoming. . .</p>
+
+<h1>Eadem nunc mea adversum te oratio est.</h1>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt.&nbsp;<strong>Id Sextilius factum negabat.</strong>&nbsp;Putabam equidem satis, inquit, me dixisse.&nbsp;<mark>Duo Reges: constructio interrete.</mark>&nbsp;<mark>Easdemne res?</mark>&nbsp;<em>Itaque fecimus.</em>&nbsp;Aderamus nos quidem adolescentes, sed multi amplissimi viri, quorum nemo censuit plus Fadiae dandum, quam posset ad eam lege Voconia pervenire. Facit enim ille duo seiuncta ultima bonorum, quae ut essent vera, coniungi debuerunt; Nam si quae sunt aliae, falsum est omnis animi voluptates esse e corporis societate. Duo enim genera quae erant, fecit tria.</p>
+
+<p>Quis enim confidit semper sibi illud stabile et firmum permansurum, quod fragile et caducum sit? Haec et tu ita posuisti, et verba vestra sunt. Est igitur officium eius generis, quod nec in bonis ponatur nec in contrariis. Non perfecti autem homines et tamen ingeniis excellentibus praediti excitantur saepe gloria, quae habet speciem honestatis et similitudinem. Itaque nostrum est-quod nostrum dico, artis est-ad ea principia, quae accepimus. Sed utrum hortandus es nobis, Luci, inquit, an etiam tua sponte propensus es? Quasi ego id curem, quid ille aiat aut neget. In qua quid est boni praeter summam voluptatem, et eam sempiternam?&nbsp;<mark>Videamus animi partes, quarum est conspectus illustrior;</mark>&nbsp;Si quidem, inquit, tollerem, sed relinquo. Atqui iste locus est, Piso, tibi etiam atque etiam confirmandus, inquam;</p>
+
+<ul>
+    <li>Primum in nostrane potestate est, quid meminerimus?</li>
+    <li>Vestri haec verecundius, illi fortasse constantius.</li>
+    <li>Eademne, quae restincta siti?</li>
+    <li>Is es profecto tu.</li>
+</ul>
+
+<p>At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides. Non enim quaero quid verum, sed quid cuique dicendum sit.&nbsp;<a rel="nofollow" href="http://loripsum.net/">Age sane, inquam.</a>&nbsp;<strong>At enim hic etiam dolore.</strong>&nbsp;Est autem etiam actio quaedam corporis, quae motus et status naturae congruentis tenet; Sed ad haec, nisi molestum est, habeo quae velim.&nbsp;<a rel="nofollow" href="http://loripsum.net/">De illis, cum volemus.</a>&nbsp;Nisi enim id faceret, cur Plato Aegyptum peragravit, ut a sacerdotibus barbaris numeros et caelestia acciperet? Qua exposita scire cupio quae causa sit, cur Zeno ab hac antiqua constitutione desciverit, quidnam horum ab eo non sit probatum; Huius, Lyco, oratione locuples, rebus ipsis ielunior.</p>
+]]>
+        </description>
+    </item>
+   </channel>
+</rss>
