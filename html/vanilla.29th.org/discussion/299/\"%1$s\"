@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Insurgency — 29th Infantry Division</title>
+  <link rel="stylesheet" href="../../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="insurgency" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="Insurgency" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussion/299/insurgency" />
+  <meta name="description" property="og:description" content="Just seen the standalone, bought it, and I love it. It's a great game. Anyone else play? I have trouble staying alive some times lol." />
+  <meta property="og:image" content="https://vanilla.29th.org/uploads/OS9LZL2PF3NE.png" />
+  <meta name="twitter:description" content="Just seen the standalone, bought it, and I love it. It's a great game. Anyone else play? I have trouble staying alive some times lol." />
+  <meta name="twitter:card" content="summary" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","DiscussionID":"299","Category":"Other Games","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussion\/299\/\\\"%1$s\\\"","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"LastCommentID":91216,"Vanilla_Comments_AutoRefresh":0,"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"299","DiscussionStub":"","Page":"\"%1$s","3":"\""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../../js/library/jquery.js?v=3.3"></script>
+  <script src="../../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../../js/global.js?v=3.3"></script>
+  <script src="../../js/flyouts.js?v=3.3"></script>
+  <script src="../../js/library/jquery.autosize.min.js?v=3.3"></script>
+  <script src="../../applications/vanilla/js/autosave.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/discussion.js?v=3.0"></script>
+  <script src="../../plugins/Spoilers/js/spoilers.js?v=1.3"></script>
+  <script src="../../plugins/Quotes/js/quotes.js?v=1.9"></script>
+  <script src="../../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../../js/embed_local.js?v=3.3"></script>
+  <script src="../../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <script type="application/ld+json">{"headline":"Insurgency","description":"Just seen the standalone, bought it, and I love it. It's a great game. Anyone else play? I have trouble staying alive some times lol. I play with a couple buddy's and we try and use team work. I just like to win. Hit me up sometime if your down for a game.","discussionUrl":"https:\/\/vanilla.29th.org\/discussion\/299\/insurgency","dateCreated":"2015-01-06 03:41:41","author":{"@context":"https:\/\/schema.org","@type":"Person","name":"PFC Stear","image":"https:\/\/vanilla.29th.org\/uploads\/userpics\/304\/nYHLIBEKDPTLG.jpg","url":"https:\/\/vanilla.29th.org\/profile\/PFC%20Stear"},"@context":"https:\/\/schema.org","@type":"DiscussionForumPosting"}</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Section-Discussion Section-Category-other-games sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../../categories" class="">Categories</a></li>
+                <li><a href="../../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-off-topic-forum"><a href="../../categories/off-topic-forum" itemprop="url"><span itemprop="title">Off-Topic Forum</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-other-games Last"><a href="../../categories/other-games" itemprop="url"><span itemprop="title">Other Games</span></a></span> </span></span></span>
+                    <div class="MessageList Discussion"><!-- Page Title -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h1>Insurgency</h1></div>
+
+<div id="Discussion_299" class="Item ItemDiscussion">
+    <div class="Discussion">
+        <div class="Item-Header DiscussionHeader">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="PFC Stear" href="https://vanilla.29th.org/profile/PFC%20Stear" class="PhotoWrap"><img src="../../uploads/userpics/304/nYHLIBEKDPTLG.jpg" alt="PFC Stear" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Stear" class="Username">PFC Stear</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                <a href="insurgency" class="Permalink" rel="nofollow"><time title="January 6, 2015 3:41AM" datetime="2015-01-06T03:41:41+00:00">January 2015</time></a>            </span>
+                <span class="MItem"> <span title="Edited January 22, 2015 8:19PM by 2Lt. Bergstrom." class="DateUpdated">edited January 2015</span> </span>                 <span class="MItem Category"> in <a href="../../categories/other-games">Other Games</a></span>             </div>
+        </div>
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message userContent">
+                    Just seen the standalone, bought it, and I love it. It's a great game. Anyone else play? I have trouble staying alive some times lol. I play with a couple buddy's and we try and use team work. I just like to win. Hit me up sometime if your down for a game.                 </div>
+                <div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="CommentsWrap"><span class="BeforeCommentHeading"></span><div class="DataBox DataBox-Comments"><h2 class="CommentHeading">Comments</h2>    <ul class="MessageList DataList Comments">
+                <li class="Item Alt ItemComment" id="Comment_4578">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Walker [Ret.]" href="https://vanilla.29th.org/profile/Cpt.%20Walker%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/523/nF3VIJR6LVN5C.png" alt="Cpt. Walker [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Walker%20%5BRet.%5D" class="Username">Cpt. Walker [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4578/#Comment_4578" class="Permalink" name="Item_1" rel="nofollow"><time title="February 17, 2015 2:05AM" datetime="2015-02-17T02:05:19+00:00">February 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>A lot of the Charlie boys have it as well as officers. Indeed a fun game.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_5076">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Nelson" href="https://vanilla.29th.org/profile/Cpt.%20Nelson" class="PhotoWrap"><img src="../../uploads/userpics/999/n85UA7QAW8250.jpg" alt="Cpt. Nelson" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Nelson" class="Username">Cpt. Nelson</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/5076/#Comment_5076" class="Permalink" name="Item_2" rel="nofollow"><time title="February 24, 2015 12:01AM" datetime="2015-02-24T00:01:29+00:00">February 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I play all the time!  loves it.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_5293">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Moe [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Moe%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/805/n848STMD5KILF.jpg" alt="PFC Moe [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Moe%20%5BRet.%5D" class="Username">PFC Moe [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/5293/#Comment_5293" class="Permalink" name="Item_3" rel="nofollow"><time title="February 26, 2015 3:39AM" datetime="2015-02-26T03:39:25+00:00">February 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Haven't played in a while, but it is great.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_10120">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Private Tom M. Kane" href="https://vanilla.29th.org/profile/Private%20Tom%20M.%20Kane" class="PhotoWrap"><img src="../../uploads/userpics/546/nO7FZPP0PYSGR.jpg" alt="Private Tom M. Kane" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Private%20Tom%20M.%20Kane" class="Username">Private Tom M. Kane</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/10120/#Comment_10120" class="Permalink" name="Item_4" rel="nofollow"><time title="April 23, 2015 3:59AM" datetime="2015-04-23T03:59:22+00:00">April 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Great game. I actually met the developers in PAX East '14. Great bunch of guys. I got it.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_14675">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Stear" href="https://vanilla.29th.org/profile/PFC%20Stear" class="PhotoWrap"><img src="../../uploads/userpics/304/nYHLIBEKDPTLG.jpg" alt="PFC Stear" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Stear" class="Username">PFC Stear</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14675/#Comment_14675" class="Permalink" name="Item_5" rel="nofollow"><time title="June 15, 2015 7:15AM" datetime="2015-06-15T07:15:55+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>If you don't own Insurgency now is a great time to get it! its only $4 on Steam.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_19192">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC House [Ret.]" href="https://vanilla.29th.org/profile/PFC%20House%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/845/n14A6P0PMZEOX.jpg" alt="PFC House [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20House%20%5BRet.%5D" class="Username">PFC House [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/19192/#Comment_19192" class="Permalink" name="Item_6" rel="nofollow"><time title="July 28, 2015 8:46PM" datetime="2015-07-28T20:46:09+00:00">July 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I wanna bring this topic back to life. I love Insurgency, really fun game, I found a couple coop servers that allow 10+ players to the server. Custom maps, awesome loadouts (two primaries, two secondaries, unlimited supply points, etc) I'd like to start a 29th Insurgency group to get some guys together for these coop missions.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_19299">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Andersson [Ret.]" href="https://vanilla.29th.org/profile/T4%20Andersson%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/181/nKEGXNQWUBUPJ.jpg" alt="T4 Andersson [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Andersson%20%5BRet.%5D" class="Username">T4 Andersson [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/19299/#Comment_19299" class="Permalink" name="Item_7" rel="nofollow"><time title="July 29, 2015 10:12PM" datetime="2015-07-29T22:12:30+00:00">July 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>While I don't really want to play on pub maps, I'd certainly be up for some 29th action. PM me if you get a group going!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_29600">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Recruit Mathias V. Olsen" href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="PhotoWrap"><img src="../../uploads/userpics/980/n4MJJTMBE87OD.jpg" alt="Recruit Mathias V. Olsen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="Username">Recruit Mathias V. Olsen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/29600/#Comment_29600" class="Permalink" name="Item_8" rel="nofollow"><time title="November 1, 2015 6:53PM" datetime="2015-11-01T18:53:45+00:00">November 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I just bought it on Humble bundle + 3 other games for 1$, great game.<br />
+So if anyone is gonna make a playing sesion, do not hesitate to contact me!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_33864">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="SSgt. Vandewalle" href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="PhotoWrap"><img src="../../uploads/userpics/852/nS8B61HLAWPPK.png" alt="SSgt. Vandewalle" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="Username">SSgt. Vandewalle</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/33864/#Comment_33864" class="Permalink" name="Item_9" rel="nofollow"><time title="December 9, 2015 10:05PM" datetime="2015-12-09T22:05:08+00:00">December 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/PFC%20Olsen" rel="nofollow">@PFC Olsen</a> said:<br />
+  I just bought it on Humble bundle + 3 other games for 1$, great game.<br />
+  So if anyone is gonna make a playing sesion, do not hesitate to contact me!</p>
+</div></blockquote>
+
+<p>I did just the same!<br />
+<img src="http://puu.sh/lPBXE/82dd0b118a.jpg" alt="enter image description here" title="enter image title here" /><br />
+I don't like playing it alone, so defenatelly hit me up one time!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_33887">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Thomas" href="https://vanilla.29th.org/profile/PFC%20Thomas" class="PhotoWrap"><img src="../../uploads/userpics/657/nKIE8CTV46CT2.png" alt="PFC Thomas" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Thomas" class="Username">PFC Thomas</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/33887/#Comment_33887" class="Permalink" name="Item_10" rel="nofollow"><time title="December 10, 2015 2:25AM" datetime="2015-12-10T02:25:19+00:00">December 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Hit me up too!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_38318">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Orhan" href="https://vanilla.29th.org/profile/T4%20Orhan" class="PhotoWrap"><img src="../../uploads/userpics/541/n8I48UDNA2XCW.jpg" alt="T4 Orhan" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Orhan" class="Username">T4 Orhan</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38318/#Comment_38318" class="Permalink" name="Item_11" rel="nofollow"><time title="January 20, 2016 4:08PM" datetime="2016-01-20T16:08:03+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Well, there is a community mod project "Day of Infamy" currently undergoing for Insurgency, might be interesting...</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-Kjqm9CE3jUw?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=Kjqm9CE3jUw"><img src="https://img.youtube.com/vi/Kjqm9CE3jUw/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_38752">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Sotirov [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Sotirov%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/207/nC31L5EXREIIW.jpg" alt="PFC Sotirov [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Sotirov%20%5BRet.%5D" class="Username">PFC Sotirov [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38752/#Comment_38752" class="Permalink" name="Item_12" rel="nofollow"><time title="January 24, 2016 4:13PM" datetime="2016-01-24T16:13:43+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Day of Infamy is cool but pretty laggy and buggy as of now. It crashes all the time when I play <img class="emoji" src="../../resources/emoji/confused.png" title=":/" alt=":/" height="20" /></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_38753">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Recruit Mathias V. Olsen" href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="PhotoWrap"><img src="../../uploads/userpics/980/n4MJJTMBE87OD.jpg" alt="Recruit Mathias V. Olsen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="Username">Recruit Mathias V. Olsen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38753/#Comment_38753" class="Permalink" name="Item_13" rel="nofollow"><time title="January 24, 2016 4:27PM" datetime="2016-01-24T16:27:24+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I've been playing a bit of Day Of Infamy, and I would say it's decent, considering it's the actual game devs who are making this mod.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_38849">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Sotirov [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Sotirov%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/207/nC31L5EXREIIW.jpg" alt="PFC Sotirov [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Sotirov%20%5BRet.%5D" class="Username">PFC Sotirov [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38849/#Comment_38849" class="Permalink" name="Item_14" rel="nofollow"><time title="January 25, 2016 7:46AM" datetime="2016-01-25T07:46:23+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>It would be awesome if we did a public scrim on Insurgency, are you guys down?</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_38858">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Andersson [Ret.]" href="https://vanilla.29th.org/profile/T4%20Andersson%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/181/nKEGXNQWUBUPJ.jpg" alt="T4 Andersson [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Andersson%20%5BRet.%5D" class="Username">T4 Andersson [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38858/#Comment_38858" class="Permalink" name="Item_15" rel="nofollow"><time title="January 25, 2016 11:32AM" datetime="2016-01-25T11:32:29+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Pretty sure none of the pubbers will listen. I like the game well enough but the community is atrocious.</p>
+
+<p>It might be cool to hold an informal drill on Day of Infamy though!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_38861">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Recruit Mathias V. Olsen" href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="PhotoWrap"><img src="../../uploads/userpics/980/n4MJJTMBE87OD.jpg" alt="Recruit Mathias V. Olsen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="Username">Recruit Mathias V. Olsen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38861/#Comment_38861" class="Permalink" name="Item_16" rel="nofollow"><time title="January 25, 2016 12:21PM" datetime="2016-01-25T12:21:21+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I'm pretty sure it's really hard to establish a public scrim, since we would need a server to have the scrim on since we cannot just take over a server, and we would need quite alot of people, would be cool though and I would sure like to join.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_38864">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Sotirov [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Sotirov%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/207/nC31L5EXREIIW.jpg" alt="PFC Sotirov [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Sotirov%20%5BRet.%5D" class="Username">PFC Sotirov [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38864/#Comment_38864" class="Permalink" name="Item_17" rel="nofollow"><time title="January 25, 2016 1:51PM" datetime="2016-01-25T13:51:04+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I mean, we can either take over an empty server or host it. I'm pretty sure you can host your own dedicated server so that could work. PFC Andersson I meant having a 29th members only match, no pubbers. Day of Infanmy is not stable enough for a drill IMO, ppl would crash all the time. Well guys, I'll experiment with hosting servers and let you know if it works. The ideas are cool, let's get a group and make it happen!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_39330">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Recruit Mathias V. Olsen" href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="PhotoWrap"><img src="../../uploads/userpics/980/n4MJJTMBE87OD.jpg" alt="Recruit Mathias V. Olsen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Recruit%20Mathias%20V.%20Olsen" class="Username">Recruit Mathias V. Olsen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/39330/#Comment_39330" class="Permalink" name="Item_18" rel="nofollow"><time title="January 28, 2016 4:48PM" datetime="2016-01-28T16:48:32+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I don't believe we would take over an empty server, since it would not be very nice to the guy hosting it, though hosting our selfs would be cool, but we would need quite alot to make it worth it I believe.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_54393">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Alan" href="https://vanilla.29th.org/profile/PFC%20Alan" class="PhotoWrap"><img src="../../uploads/userpics/444/n18ZK2GEKR52E.jpg" alt="PFC Alan" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Alan" class="Username">PFC Alan</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/54393/#Comment_54393" class="Permalink" name="Item_19" rel="nofollow"><time title="May 31, 2016 11:46AM" datetime="2016-05-31T11:46:27+00:00">May 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><a href="http://store.steampowered.com/app/222880/" rel="nofollow">http://store.steampowered.com/app/222880/</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_66033">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Krussnik [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Krussnik%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/668/n6DMSQCLR3DXR.jpg" alt="PFC Krussnik [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Krussnik%20%5BRet.%5D" class="Username">PFC Krussnik [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/66033/#Comment_66033" class="Permalink" name="Item_20" rel="nofollow"><time title="September 15, 2016 8:52PM" datetime="2016-09-15T20:52:31+00:00">September 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>So many derka derka muhajmed jihad have been said In this game.<br />
+I have this installed.</p>
+
+<p>WILLING TO PLAY INSURGENCY. HIT ME UP.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_91210">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Bishop [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Bishop%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/163/nGABPDL20VPEU.jpg" alt="PFC Bishop [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Bishop%20%5BRet.%5D" class="Username">PFC Bishop [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/91210/#Comment_91210" class="Permalink" name="Item_21" rel="nofollow"><time title="July 1, 2017 9:46PM" datetime="2017-07-01T21:46:14+00:00">July 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><a rel="nofollow" href="https://www.youtube.com/watch?v=VSnjGUSDY80">Dumpin loads on some terries</a><br />
+Please let me know if you are interested in playing. I know I'm late to the party but I'm having tons of fun in this game.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_91216">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Alan" href="https://vanilla.29th.org/profile/PFC%20Alan" class="PhotoWrap"><img src="../../uploads/userpics/444/n18ZK2GEKR52E.jpg" alt="PFC Alan" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Alan" class="Username">PFC Alan</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/91216/#Comment_91216" class="Permalink" name="Item_22" rel="nofollow"><time title="July 1, 2017 10:45PM" datetime="2017-07-01T22:45:03+00:00">July 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><a href="https://vanilla.29th.org/profile/PFC%20Bishop" rel="nofollow">@PFC Bishop</a> i play sometimes</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+</div><div class="P PagerWrap"></div></div>                <div class="Foot Closed">
+                    <div class="Note Closed SignInOrRegister"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F299%2F%5C%22%251%24s%5C%22%3F" class="Popup">Sign In</a> or <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F299%2F%5C%22%251%24s%5C%22%3F">Register</a> to comment.                    </div>
+                                    </div>
+            
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F299%2F%5C%22%251%24s%5C%22" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F299%2F%5C%22%251%24s%5C%22" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions"><a href="../../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="../../discussions/participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Category-public-discussion" ><a href="../../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Active Category-other-games" ><a href="../../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Category-29th-id-a3-operation-atavist" ><a href="../../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>

@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>29th ID Operations Corps Presents: Dagger Operations — 29th Infantry Division</title>
+  <link rel="stylesheet" href="../../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="29th-id-operations-corps-presents-dagger-operations" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="29th ID Operations Corps Presents: Dagger Operations" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussion/15299/29th-id-operations-corps-presents-dagger-operations" />
+  <meta name="description" property="og:description" content="29th Operations Corps Presents Dagger Operations Overview" />
+  <meta name="twitter:image" property="og:image" content="http://images.akamai.steamusercontent.com/ugc/365183629910463110/6D060F9BA3CB14C61E873D02AF3B9BAEC2F4E508/" />
+  <meta name="twitter:image" property="og:image" content="http://images.akamai.steamusercontent.com/ugc/365183629910317986/9E06034BF5BE96D7B25140CB2C63AD500CA8734C/" />
+  <meta name="twitter:image" property="og:image" content="http://images.akamai.steamusercontent.com/ugc/365183629910318131/B09CB77025A4F71B7D952C5260F5F6B7A702F5D0/" />
+  <meta name="twitter:description" content="29th Operations Corps Presents Dagger Operations Overview" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","DiscussionID":"15299","Category":"Public Discussion","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussion\/15299\/\\\"%1$s\\\"","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"LastCommentID":72824,"Vanilla_Comments_AutoRefresh":0,"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"15299","DiscussionStub":"","Page":"\"%1$s","3":"\""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../../js/library/jquery.js?v=3.3"></script>
+  <script src="../../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../../js/global.js?v=3.3"></script>
+  <script src="../../js/flyouts.js?v=3.3"></script>
+  <script src="../../js/library/jquery.autosize.min.js?v=3.3"></script>
+  <script src="../../applications/vanilla/js/autosave.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/discussion.js?v=3.0"></script>
+  <script src="../../plugins/Spoilers/js/spoilers.js?v=1.3"></script>
+  <script src="../../plugins/Quotes/js/quotes.js?v=1.9"></script>
+  <script src="../../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../../js/embed_local.js?v=3.3"></script>
+  <script src="../../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <script type="application/ld+json">{"headline":"29th ID Operations Corps Presents: Dagger Operations","description":"29th Operations Corps Presents Dagger Operations Overview In the early hours of the 21st of April, an event that would come to be known as the Night of the Red Sky would see the Island of Altis begin to be torn apart in a Civil War that left no corner of the island untouched. As NATO forces, backing the current Government,\u2026","discussionUrl":"https:\/\/vanilla.29th.org\/discussion\/15299\/29th-id-operations-corps-presents-dagger-operations","dateCreated":"2016-11-08 19:52:02","author":{"@context":"https:\/\/schema.org","@type":"Person","name":"T4 Phariss [Ret.]","image":"https:\/\/vanilla.29th.org\/uploads\/userpics\/775\/n2O2SEEB5R5ZN.jpg","url":"https:\/\/vanilla.29th.org\/profile\/T4%20Phariss%20%5BRet.%5D"},"@context":"https:\/\/schema.org","@type":"DiscussionForumPosting"}</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Section-Discussion Section-Category-public-discussion sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../../categories" class="">Categories</a></li>
+                <li><a href="../../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-public-discussion Last"><a href="../../categories/public-discussion" itemprop="url"><span itemprop="title">Public Discussion</span></a></span> </span></span>
+                    <div class="MessageList Discussion"><!-- Page Title -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h1>29th ID Operations Corps Presents: Dagger Operations</h1></div>
+
+<div id="Discussion_15299" class="Item ItemDiscussion">
+    <div class="Discussion">
+        <div class="Item-Header DiscussionHeader">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="T4 Phariss [Ret.]" href="https://vanilla.29th.org/profile/T4%20Phariss%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/775/n2O2SEEB5R5ZN.jpg" alt="T4 Phariss [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Phariss%20%5BRet.%5D" class="Username">T4 Phariss [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                <a href="29th-id-operations-corps-presents-dagger-operations" class="Permalink" rel="nofollow"><time title="November 8, 2016 7:52PM" datetime="2016-11-08T19:52:02+00:00">November 2016</time></a>            </span>
+                <span class="MItem"> <span title="Edited November 18, 2016 11:48PM by Cpt. Hill [Ret.]." class="DateUpdated">edited November 2016</span> </span>                 <span class="MItem Category"> in <a href="../../categories/public-discussion">Public Discussion</a></span>             </div>
+        </div>
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message userContent">
+                    <p></p><div style="text-align: center;">
+
+<h2>29th Operations Corps</h2>
+
+<p></p></div><br /><br /><br />
+<div style="text-align: center;">
+
+<h3>Presents</h3>
+
+<p></p></div><br /><br /><br />
+<div style="text-align: center;">
+
+<h1>Dagger Operations</h1>
+
+<p></p></div>
+
+<p></p><div style="text-align: center;">
+
+<h3>Overview</h3>
+
+<p></p></div>
+
+<p>In the early hours of the 21st of April, an event that would come to be known as the <em>Night of the Red Sky</em> would see the Island of Altis begin to be torn apart in a Civil War that left no corner of the island untouched. As NATO forces, backing the current Government, clash with CSAT forces, backing a military coup, members of the Dagger Inc. Private Military Corporation found themselves in the middle of it all.</p>
+
+<p>Under contract by US Armed Forces, the PMC managed to successfully remove key VIPs, namely US Officials including the Ambassador, to safety. As the conflict escalated, however, orders from the Company head had the contractors fleeing to the South East end of the Island, where they captured and held an abandoned airfield. With a stalemate in the North and much to be done, Dagger Inc. has left their local branch to their own devices, with orders only to make a name for the company while making profit. Securing some assets, the contractors stand ready to make their impact in the coming days of the conflict.</p>
+
+<p></p><div style="text-align: center;">
+
+<h3>The Situation</h3>
+
+<p></p></div>
+
+<p><strong>Map of Altis with 'known' entities</strong></p>
+
+<p><img src="http://images.akamai.steamusercontent.com/ugc/365183629910463110/6D060F9BA3CB14C61E873D02AF3B9BAEC2F4E508/" alt="Altis 22 April" title="Altis 22 April" /></p>
+
+<p>Left to their devices, the Contractors have secured a number of assets to be used in the pursuit of profit. While certainly limited, there are sure to be opportunities to improve- especially with payment from the successful mission evacuating the VIPs.</p>
+
+<p><strong>Feres Airfield, home of Dagger Incorporated</strong><br />
+<img src="http://images.akamai.steamusercontent.com/ugc/365183629910317986/9E06034BF5BE96D7B25140CB2C63AD500CA8734C/" alt="Feres Airfield" title="Feres Airfield" /></p>
+
+<p>With the diplomatic situation in complete deterioration, this conflict is looking to be a long one, and assets are limited… but contracts are not. With effective management of risk versus reward, the PMC is sure to become a force to be reckoned with.</p>
+
+<p>Money earned can be used not only for ammunition and fuel (which are certainly vital) but too for improvements to the airfield- including rebuilding of sectors damaged in the initial attack. Improving the Feres Airfield will certainly grant boons in the coming weeks…</p>
+
+<p><em>An area that could use some repair?</em><br />
+<img src="http://images.akamai.steamusercontent.com/ugc/365183629910318131/B09CB77025A4F71B7D952C5260F5F6B7A702F5D0/" alt="Ruined Fortification" title="Ruined Fortification" /></p>
+
+<p></p><div style="text-align: center;">
+
+<h3>General Game Information</h3>
+
+<p></p></div>
+
+<p><em>Dagger Operations</em> is a <strong>public Zeus-guided 2 hour (sometimes more) Campaign in Arma 3</strong> that will take place <strong>every two weeks on Saturdays at 6pm EST</strong>. This campaign is very much open ended, but keep in mind that the choices made by you, the players, will have very real consequence. Your actions will impact your reputation with various factions on the island, what assets are available to purchase, and who stands to gain advantage on the battlefield of Altis. Some features of this campaign include Dynamic Equipment Tracking, where any assets lost or gained (including payment) will be recorded and maintained for the next game. Further, infantry respawns will be left with the ammunition they had prior- there will be an emphasis on a need for <em>logistical efficiency</em>...</p>
+
+<p></p><div style="text-align: center;">
+
+<h3>Teamspeak Information</h3>
+
+<p></p></div>
+
+<p>It is encouraged that all who participate join us on our Teamspeak server.</p>
+
+<p><strong>Server:</strong> 63.251.20.99:35750<br />
+<strong>Password:</strong> 29th</p>
+
+<p></p><div style="text-align: center;">
+
+<h3>Server Information</h3>
+
+<p></p></div>
+
+<p>Dagger operations will be held on the <strong>29th Infantry Division Battalion Server</strong>. There will be <strong>No Password</strong>, and below you'll find the IP.</p>
+
+<p><strong>IP Address:</strong> 192.223.27.178:2302</p>
+
+<p></p><div style="text-align: center;">
+
+<h3>Mod Information</h3>
+
+<p></p></div>
+
+<p>This Campaign will include two <em>required</em> mods and a host of optional mods.</p>
+
+<h1>Required Mods</h1>
+
+<table>
+<thead>
+<tr>
+  <th>Mod Name</th>
+  <th>Mod Version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>CBA_A3</td>
+  <td>3.1.1.161012</td>
+</tr>
+<tr>
+  <td>ACE 3</td>
+  <td>3.8.1</td>
+</tr>
+</tbody>
+</table>
+
+<h1>Optional Mods</h1>
+
+<table>
+<thead>
+<tr>
+  <th>Mod Name</th>
+  <th>Mod Line Input</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Compass and Watch Enlarger</td>
+  <td>-<a href="https://vanilla.29th.org/profile/compasfix" rel="nofollow">@compasfix</a></td>
+</tr>
+<tr>
+  <td>Weapon Safety</td>
+  <td>-<a href="https://vanilla.29th.org/profile/safety" rel="nofollow">@safety</a></td>
+</tr>
+<tr>
+  <td>ShackTac Group Indicators</td>
+  <td>-<a href="https://vanilla.29th.org/profile/st_gi" rel="nofollow">@st_gi</a></td>
+</tr>
+<tr>
+  <td>ShackTac Map Autobrightness</td>
+  <td>-<a href="https://vanilla.29th.org/profile/st_map_autobrightness" rel="nofollow">@st_map_autobrightness</a></td>
+</tr>
+<tr>
+  <td>ShackTac FireTeam HUD</td>
+  <td>-<a href="https://vanilla.29th.org/profile/st_hud" rel="nofollow">@st_hud</a></td>
+</tr>
+<tr>
+  <td>ShackTac Name Tags</td>
+  <td>-<a href="https://vanilla.29th.org/profile/st_nametags" rel="nofollow">@st_nametags</a></td>
+</tr>
+<tr>
+  <td>ShackTac Stamina Bar</td>
+  <td>-<a href="https://vanilla.29th.org/profile/st_stamina_bar" rel="nofollow">@st_stamina_bar</a></td>
+</tr>
+<tr>
+  <td>Tao Folding Map</td>
+  <td>-<a href="https://vanilla.29th.org/profile/tao_foldmap_a3" rel="nofollow">@tao_foldmap_a3</a></td>
+</tr>
+<tr>
+  <td>VTS Simple Gesture</td>
+  <td>-<a href="https://vanilla.29th.org/profile/VTS_Gesture" rel="nofollow">@VTS_Gesture</a></td>
+</tr>
+<tr>
+  <td>VTS Simple Weapon Resting</td>
+  <td>-<a href="https://vanilla.29th.org/profile/VTS_weaponResting" rel="nofollow">@VTS_weaponResting</a></td>
+</tr>
+<tr>
+  <td>Adjustable Full Screen Night Vision Goggles</td>
+  <td>-<a href="https://vanilla.29th.org/profile/lsd_nvg" rel="nofollow">@lsd_nvg</a></td>
+</tr>
+<tr>
+  <td>BCH Map Contour</td>
+  <td>-<a href="https://vanilla.29th.org/profile/bch_map_contour" rel="nofollow">@bch_map_contour</a></td>
+</tr>
+<tr>
+  <td>Head Range Plus</td>
+  <td>-<a href="https://vanilla.29th.org/profile/hrp" rel="nofollow">@hrp</a></td>
+</tr>
+</tbody>
+</table>
+
+<h3>Check this thread for updates, including upcoming game dates, After-Action Reports from previous events, and current listings of assets!</h3>
+                </div>
+                <div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="CommentsWrap"><span class="BeforeCommentHeading"></span><div class="DataBox DataBox-Comments"><h2 class="CommentHeading">Comments</h2>    <ul class="MessageList DataList Comments">
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_71673">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Phariss [Ret.]" href="https://vanilla.29th.org/profile/T4%20Phariss%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/775/n2O2SEEB5R5ZN.jpg" alt="T4 Phariss [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Phariss%20%5BRet.%5D" class="Username">T4 Phariss [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/71673/#Comment_71673" class="Permalink" name="Item_1" rel="nofollow"><time title="November 8, 2016 8:00PM" datetime="2016-11-08T20:00:25+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p></p><div style="text-align: center;">
+
+<h1>Upcoming Game</h1>
+
+<p></p></div>
+
+<p><strong>Next Official Game:</strong> 19 NOV 2016, 1800 EST</p>
+
+<hr />
+
+<p>There will also be an unofficial test session on 12 NOV, at the same time.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_71674">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Phariss [Ret.]" href="https://vanilla.29th.org/profile/T4%20Phariss%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/775/n2O2SEEB5R5ZN.jpg" alt="T4 Phariss [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Phariss%20%5BRet.%5D" class="Username">T4 Phariss [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/71674/#Comment_71674" class="Permalink" name="Item_2" rel="nofollow"><time title="November 8, 2016 8:05PM" datetime="2016-11-08T20:05:07+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p></p><div style="text-align: center;">
+
+<h1>Current Assets</h1>
+
+<p></p></div>
+
+<p><strong>Monetary:</strong> $100,000</p>
+
+<p><strong>Vehicles:</strong></p>
+
+<p>2x Fennek (1 armed, M2 .50)<br />
+2x Kamaz Transport Trucks<br />
+1x Kamaz Ammo<br />
+1x Kamaz Repair<br />
+1x Kamaz Fuel<br />
+1x Pandur 2 APC<br />
+1x Wildcat, unarmed</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_71752">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Warner" href="https://vanilla.29th.org/profile/T4%20Warner" class="PhotoWrap"><img src="../../uploads/userpics/530/nGK9ER8VDFPVM.png" alt="T4 Warner" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Warner" class="Username">T4 Warner</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/71752/#Comment_71752" class="Permalink" name="Item_3" rel="nofollow"><time title="November 9, 2016 3:51PM" datetime="2016-11-09T15:51:54+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>This looks DOOOOOOOPE</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_71786">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Thomas" href="https://vanilla.29th.org/profile/PFC%20Thomas" class="PhotoWrap"><img src="../../uploads/userpics/657/nKIE8CTV46CT2.png" alt="PFC Thomas" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Thomas" class="Username">PFC Thomas</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/71786/#Comment_71786" class="Permalink" name="Item_4" rel="nofollow"><time title="November 9, 2016 8:58PM" datetime="2016-11-09T20:58:22+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Get this to all people who has Arma, this needs to become YUUUUGE!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_71955">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Sgt. E. Murray" href="https://vanilla.29th.org/profile/Sgt.%20E.%20Murray" class="PhotoWrap"><img src="../../uploads/userpics/823/n1TOXSA6L8WCZ.jpg" alt="Sgt. E. Murray" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Sgt.%20E.%20Murray" class="Username">Sgt. E. Murray</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/71955/#Comment_71955" class="Permalink" name="Item_5" rel="nofollow"><time title="November 11, 2016 1:41PM" datetime="2016-11-11T13:41:52+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Really looking forward to this guys, i know you put time and effort into it</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment Banned" id="Comment_72459">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Private, First Class Miller R. Weston (Banned)" href="https://vanilla.29th.org/profile/Private%2C%20First%20Class%20Miller%20R.%20Weston" class="PhotoWrap Banned"><img src="https://images.v-cdn.net/banned_large.png" alt="Private, First Class Miller R. Weston" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Private%2C%20First%20Class%20Miller%20R.%20Weston" class="Username">Private, First Class Miller R. Weston</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/72459/#Comment_72459" class="Permalink" name="Item_6" rel="nofollow"><time title="November 16, 2016 3:06PM" datetime="2016-11-16T15:06:32+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I would love to come, but unfortunately I can't make it as I have my weekend reserved for something else.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_72823">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Vercruyssen [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Vercruyssen%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/347/nJVOIZ5VJ6REK.jpg" alt="PFC Vercruyssen [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Vercruyssen%20%5BRet.%5D" class="Username">PFC Vercruyssen [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/72823/#Comment_72823" class="Permalink" name="Item_7" rel="nofollow"><time title="November 19, 2016 10:08PM" datetime="2016-11-19T22:08:45+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>amazing work looks to be fun</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_72824">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Hill [Ret.]" href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/266/nJK3VFY28A506.png" alt="Cpt. Hill [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="Username">Cpt. Hill [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/72824/#Comment_72824" class="Permalink" name="Item_8" rel="nofollow"><time title="November 19, 2016 10:44PM" datetime="2016-11-19T22:44:39+00:00">November 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>This starts in 17 minutes.  Come and join us. 11 people slotted in so far with likely ~15 or so more joining as I type.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+</div><div class="P PagerWrap"></div></div>            <div class="Foot Closed">
+                <div class="Note Closed">This discussion has been closed.</div>
+            </div>
+        
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F15299%2F%5C%22%251%24s%5C%22" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F15299%2F%5C%22%251%24s%5C%22" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions"><a href="../../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="../../discussions/participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Active Category-public-discussion" ><a href="../../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Category-other-games" ><a href="../../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Category-29th-id-a3-operation-atavist" ><a href="../../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>

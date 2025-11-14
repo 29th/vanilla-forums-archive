@@ -1,0 +1,1189 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Operation Atavist ~The Story So Far~ — 29th Infantry Division</title>
+  <link rel="stylesheet" href="../../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="operation-atavist-the-story-so-far" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="Operation Atavist ~The Story So Far~" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussion/1399/operation-atavist-the-story-so-far" />
+  <meta name="description" property="og:description" content="Operation Atavist As the political situation in the eastern european country of Vasaria worsens, the local government has requested NATO intervention." />
+  <meta name="twitter:image" property="og:image" content="http://cloud-4.steamusercontent.com/ugc/532884566887080293/7924803D16938E610186F64B8299952FC0891379/" />
+  <meta name="twitter:image" property="og:image" content="http://cloud-4.steamusercontent.com/ugc/532884566887074339/CDF32CBBB3269B8CF226A9373BFD5058CF7092B4/" />
+  <meta name="twitter:image" property="og:image" content="http://cloud-4.steamusercontent.com/ugc/532884566883365087/6734C3BADA3B9348D2B6962E1F0B8298E16A91A9/" />
+  <meta name="twitter:image" property="og:image" content="http://cloud-4.steamusercontent.com/ugc/532884566883366240/38E0AB2FB6BDF1C8B27DDC1C8A1E1FB9290480A2/" />
+  <meta name="twitter:image" property="og:image" content="http://cloud-4.steamusercontent.com/ugc/532884566887083243/78C7B3A818C71263F57BB8B239CA10B69EBAECB5/" />
+  <meta name="twitter:description" content="Operation Atavist As the political situation in the eastern european country of Vasaria worsens, the local government has requested NATO intervention." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","DiscussionID":"1399","Category":"29th ID A3 Charlie Operations","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussion\/1399\/\\\"%1$s\\\"","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"LastCommentID":49899,"Vanilla_Comments_AutoRefresh":0,"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"1399","DiscussionStub":"","Page":"\"%1$s","3":"\""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../../js/library/jquery.js?v=3.3"></script>
+  <script src="../../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../../js/global.js?v=3.3"></script>
+  <script src="../../js/flyouts.js?v=3.3"></script>
+  <script src="../../js/library/jquery.autosize.min.js?v=3.3"></script>
+  <script src="../../applications/vanilla/js/autosave.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/discussion.js?v=3.0"></script>
+  <script src="../../plugins/Spoilers/js/spoilers.js?v=1.3"></script>
+  <script src="../../plugins/Quotes/js/quotes.js?v=1.9"></script>
+  <script src="../../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../../js/embed_local.js?v=3.3"></script>
+  <script src="../../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <script type="application/ld+json">{"headline":"Operation Atavist ~The Story So Far~","description":"Operation Atavist As the political situation in the eastern european country of Vasaria worsens, the local government has requested NATO intervention. Rebels have seized large portions of the country and the NATO friendly government seems on the verge of collapse. The UN Security Council has been unable to do more than to\u2026","discussionUrl":"https:\/\/vanilla.29th.org\/discussion\/1399\/operation-atavist-the-story-so-far","dateCreated":"2015-02-09 04:30:46","author":{"@context":"https:\/\/schema.org","@type":"Person","name":"FSgt. Balzer [Ret.]","image":"https:\/\/vanilla.29th.org\/uploads\/userpics\/466\/nD9V9NN855KAJ.png","url":"https:\/\/vanilla.29th.org\/profile\/FSgt.%20Balzer%20%5BRet.%5D"},"@context":"https:\/\/schema.org","@type":"DiscussionForumPosting"}</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Section-Discussion Section-Category-29th-id-a3-operation-atavist sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../../categories" class="">Categories</a></li>
+                <li><a href="../../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-29th-id-a3-operation-atavist Last"><a href="../../categories/29th-id-a3-operation-atavist" itemprop="url"><span itemprop="title">29th ID A3 Charlie Operations</span></a></span> </span></span>
+                    <div class="MessageList Discussion"><!-- Page Title -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h1>Operation Atavist ~The Story So Far~</h1></div>
+
+<div id="Discussion_1399" class="Item ItemDiscussion">
+    <div class="Discussion">
+        <div class="Item-Header DiscussionHeader">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                <a href="operation-atavist-the-story-so-far" class="Permalink" rel="nofollow"><time title="February 9, 2015 4:30AM" datetime="2015-02-09T04:30:46+00:00">February 2015</time></a>            </span>
+                <span class="MItem"> <span title="Edited April 24, 2016 4:41AM by Cpt. Hill [Ret.]." class="DateUpdated">edited April 2016</span> </span>                 <span class="MItem Category"> in <a href="../../categories/29th-id-a3-operation-atavist">29th ID A3 Charlie Operations</a></span>             </div>
+        </div>
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message userContent">
+                    <p></p><div style="text-align: center;">
+
+<h2><strong>Operation Atavist</strong></h2>
+
+<p></p></div><br />
+<br />
+As the political situation in the eastern european country of Vasaria worsens, the local government has requested NATO intervention. Rebels have seized large portions of the country and the NATO friendly government seems on the verge of collapse. The UN Security Council has been unable to do more than to demand hostilities in Vesaria to cease. Russian and China have both blocked a proposal to send in a NATO peace keeping force, claiming it as a would destabilize the situation more than it already is.
+
+<p>The Vasaria Freedom Party(VFP) is an enigma, its origins and funding are a not clear. Its xenophobic and nationalistic propaganda are extreme, yet also at odds with the multinational make up of its armed fighters. A mixture of captured government equipment and modern military tech of Russian, Chinese, North Korean and Iranian origin are unexplained. Only the North Korean government has made any statements of support for the rebel movement. Western intelligence agencies claim this rebel movement is being funded by multiple terrorist organizations and foreign Intelligence agencies. The VFP's speed, organization and ruthlessness have been surprising. No photos or video of the groups leader exist, even the leaders true name is unknown. Reports of Russian military "advisers" have not been confirmed on the ground, and have been denied by the Russia's ambassador to the U.N. What has been confirmed are multiple mass killings and other atrocities that are U.S. and British Intelligence say they confirm through satellite intelligence.</p>
+
+<p>With NATO unable to assist directly with lethal aid, the government is begging the international community for help. While western nations seek peace talks, there has been no response from the rebels. The situation seems to be getting worse. Western intelligence agencies deny supplying lethal aid to the government, stating only humanitarian aid has been approved by all western governments. Reports of western PMC's such as the 25th ARAIG in Vasaria's Capital only seem to make the situation more complex.  A PMC unit as large and as well equipped as the 25th could greatly improve the government's situation on the ground.  The Vasarian Defense Minister Jan Kubek denied the 25th ARAIG had been hired by his government.  Maj. Brown and 1st Lt. Jones of the 25th ARAIG command team have been photographed coming and going from the defense ministry.  A convoy containing the bulk of the 25th ARAIG has allegedly been spotted moving north from the capital east towards the Vasarian province of Bystrica.</p>
+
+<p>Bystrica, last of the eastern provinces not in rebel hands, was seized last month in a lightning campaign by the Charlovi Battalion.  The unit was a loyal government formation, which marched out of barracks last month to join the rebellion.  In recent years the Charlovi Battalion was deployed to the middle east in a combat role with NATO.  This was part of a NATO training and review program.  The program was to train and evaluate Vasaria and its military, for NATO membership.  It is alleged that the Charlovi Battalion was ordered to Barracks, after refusing to act against local rebels.  Soon after the Charlovi Battalion seized a local radio station, broadcast accusations of crimes and atrocities by the Vasarian Government.  When the rogue unit seized Bystrica, government units fled after reports of the units efficiency and brutality.</p>
+
+<hr />
+
+<h1>What is this?</h1>
+
+<p>Operation Atavist for Arma3 will be a on going single life(realism),elite(first person only), TvT event.  The Charlie Company of the 29th Infantry Division is working with the 25th ARAIG to create this regular event.  An event which is story driven, with goals, rewards and consequences.  Units will take turns on OpFor and Bluefor for 3 month rotation.  The rotation will give enough time for units to take part in complex multi-mission operations.  While at the same time taking turns as liberating forces and brutal forces of repression.  Charlie Company of the 29th ID will start as a brutal rebel force,<em>the Charlovi Battalion</em>, while the 25th ARAIG begins Operation Atavist as a PMC hired to free lands seized by <em>the Charlovi Battalion</em>.  While Units will be playing "baddies" on Opfor and "heros" on Bluefor, scenarios will be designed to create a balanced fight where units can put their training to test.  29th Members wish your Battalion mates good luck for their first outing in Operation Atavist.  Arma3 thrives on events like these, now lets see what happens when the 29th teams up with the 25th ARAIG.</p>
+
+<hr />
+
+<p>Charlie Company Preparing for Operation Atavist:<br />
+<img src="http://cloud-4.steamusercontent.com/ugc/532884566887080293/7924803D16938E610186F64B8299952FC0891379/" alt="enter image description here" title="enter image title here" /><br />
+<img src="http://cloud-4.steamusercontent.com/ugc/532884566887074339/CDF32CBBB3269B8CF226A9373BFD5058CF7092B4/" alt="enter image description here" title="enter image title here" /><br />
+<img src="http://cloud-4.steamusercontent.com/ugc/532884566883365087/6734C3BADA3B9348D2B6962E1F0B8298E16A91A9/" alt="enter image description here" title="enter image title here" /><br />
+<img src="http://cloud-4.steamusercontent.com/ugc/532884566883366240/38E0AB2FB6BDF1C8B27DDC1C8A1E1FB9290480A2/" alt="enter image description here" title="enter image title here" /><br />
+<img src="http://cloud-4.steamusercontent.com/ugc/532884566887083243/78C7B3A818C71263F57BB8B239CA10B69EBAECB5/" alt="enter image description here" title="enter image title here" /></p>
+                </div>
+                <div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="CommentsWrap"><span class="BeforeCommentHeading"></span><div class="DataBox DataBox-Comments"><h2 class="CommentHeading">Comments</h2>    <ul class="MessageList DataList Comments">
+                <li class="Item Alt ItemComment" id="Comment_4218">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4218/#Comment_4218" class="Permalink" name="Item_1" rel="nofollow"><time title="February 13, 2015 4:17AM" datetime="2015-02-13T04:17:04+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:13AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><em>FROM: C:\Users\AmbdrJohnSinclair\Documents\GovNotes\VASARIA\vasjournal.doc</em></p>
+
+<h4>SITUATION IN VASARIA - July 1, 2015</h4>
+
+<p>Following the death of the new President in a plane crash, the cause of which is as yet unknown, and the resultant turmoil the Parliament has been thrown into, it is this Ambassador’s  opinion that the situation in Vasaria is “heading south”.</p>
+
+<h4>FACTIONS</h4>
+
+<p>As of right now there are three major factions on the ground. The GOVERNMENT HARDLINERS are a reaction to the chaos. They’re clamping down as hard as they can on the population, partly out of fear for loss of the corrupt status quo, and partly because overwhelming violence is how Vasarians seem to operate when faced with something new (Please refer to my previous documents here regarding the Embassy Dinner when Minister Yerzoff tried to steal my wife and struck me - I highly recommended full military intervention then but was ignored).</p>
+
+<p>The VASARIA FREEDOM PARTY (VFP) is the other danger. They are a political force of an inexplicable kind. In the months leading up to the President’s death there was a tourist boom as it seemed thousands of travelers were arriving from all over. I’ve never seen so many foreigners in one small country! Then suddenly those foreigners are an army. In the next few days there will be a statement regarding their objectives but so far the fight has been blissfully distant, though I hear the Eastern provinces are aflame. I imagine our secret agents and satellites will have a better clue.</p>
+
+<p>The citizens are the third faction. Sadly the refugee situation is huge and are totally caught between these two forces and it’s really kinda sad. I wish there was something we could do, but I know our Government back home is already in trouble with the ongoing election scandal of it’s own. Sometimes it’s nice to be in a war zone.</p>
+
+<h4>FOLLOW UP ON SITUATION IN VASARIA - July 4, 2015</h4>
+
+<p>Everyone is talking about it. The VFP have hammered the world with their media campaign and nothing will ever be the same again. Since it’s happened Sam in IT has this look, when he’s fixing my web browser today for example, where his eyes kind of glaze over for a moment. I can tell he’s thinking about it.</p>
+
+<p>I suppose I should say my thoughts on the VFP announcement.</p>
+
+<p>My father was not a Luddite and I used the internet and computers quite a bit. I posted on news blogs in the comments section and developed more than a few rivalries and online friendships. I’m media savvy and post to my own twitter account <a href="https://vanilla.29th.org/profile/AmbassadorSinclair" rel="nofollow">@AmbassadorSinclair</a></p>
+
+<p>What the Vasarian Freedom Party wants to do is insane. And it might work.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_4219">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4219/#Comment_4219" class="Permalink" name="Item_2" rel="nofollow"><time title="February 13, 2015 4:18AM" datetime="2015-02-13T04:18:19+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:15AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h3>BRIEFING NOTES FOR SENATOR PAULSON - August 19, 2015</h3>
+
+<h4>Vasarian Freedom Party</h4>
+
+<p>Following up your previous request regarding the VFP I’ve compiled a short memo. <br />
+Based in an online world, the VFP structure is one of tiered rank and responsibility but mobile like none seen before. Clear cut and with excellent communication, the VFP is a hydra of many heads. The international makeup of their ample force shows us that. The likelihood of a Fifth Column developing in any nation is high due to the anti status quo message and global economic issues. That it has existed this long without drawing the attention of Intelligence Agencies is frankly shocking and there has been a backlash against them in our own governments. “The Vasarian Scare” they’re calling it. The Oversight Committee talked yesterday of conducting an investigation into the Intelligence budgets for the internet.</p>
+
+<p>Talking Point: $4trillion gone into developing resources to combat internet terrorism and not even a “heads-up”.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_4220">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4220/#Comment_4220" class="Permalink" name="Item_3" rel="nofollow"><time title="February 13, 2015 4:18AM" datetime="2015-02-13T04:18:58+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:22AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h3>ROCKETS FALL IN CHERNARUS AS iNATION TAKES SHAPE</h3>
+
+<p>By: Sven Giametti <br />
+Vice News</p>
+
+<p>The world’s first crowd sourced nation is beginning to take shape in East Vasaria. An estimated fifty thousand fighters descended on Vasaria three months ago, some of them meeting for the first time. Handshakes were tossed around along with the hand grenades as it seemed old friends and new were being made in the ongoing war zone. The zealous idealism exhibited by the force is a shock in a countryside that seems so dreary. It is without a doubt the most eclectic revolution I’ve ever seen or heard of. The forces of the VFP relax listening to a huge variety of music and speak in dozens of languages. It almost seems like the United Nations meets San Diego Comicon set in a war movie.</p>
+
+<p>I met with three fighters who were just back from the front lines and were reviewing their ubiquitous GoPro cameras before upload.</p>
+
+<p>Mark Linkholm, 26 “MLink” born in Nova Scotia, moved to California and became a professional gamer and software developer. Enjoyed paintball and airsoft in his off times, answered the call of Vasaria through a friend at work.</p>
+
+<p>Kyung-sook Park, 34 “Kpop” born in Busan. Served one tour in the South Korean army and worked in their border guard. Found Vasaria through an online video game.</p>
+
+<p>Mauro Silva, (est. 19-25) “Silva” born in Brazil. Other info unknown (didn’t speak much).</p>
+
+<p><strong>SVEN:</strong> So first off, what brought you here, to a place on the other side of the world?</p>
+
+<p><strong>MLINK:</strong> For me it was a few things. The excitement of the world’s greatest startup, the thrill of being part of something new, and the guns.</p>
+
+<p><strong>KPOP:</strong> <em>nods</em> Living in Korea I saw both the super capitalist system and the harsh communist system. Neither one is the answer so, I think maybe trying something new is the way to go.</p>
+
+<p><strong>SILVA:</strong> <em>watches his video and smiles</em></p>
+
+<p><strong>SVEN:</strong> Do you think that maybe, the violence that is happening here is not the way to go about trying something new? That maybe working within the system to change it might be the way to go?</p>
+
+<p><strong>MLINK:</strong> The system hasn’t worked for a lot of people in a while right? I mean look at all the stuff that’s been going wrong. Most of that is because of the system and the good that comes out seems almost like it’s in spite of it.</p>
+
+<p><strong>KPOP:</strong> Plus, like MLINK said. Guns!</p>
+
+<p><strong>SILVA:</strong> Yes!</p>
+
+<p><strong>SVEN:</strong> Do you know what the future holds for a free Vasaria?</p>
+
+<p><strong>KPOP:</strong> It is what we will make it be.</p>
+
+<p><strong>MLINK:</strong> In the land of opportunity, the intelligent man is king!</p>
+
+<p><strong>SILVA:</strong> <em>at this point there was gunfire on his playback and he was engrossed</em></p>
+
+<p>I left the men as I found them, looking back at their recent successes and celebrating tomorrow’s future. As my grandmother used to say “<em>all this is a little shocking to someone from Dicktown, New Jersey</em>” but part of me is curious what that future will be.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_4221">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4221/#Comment_4221" class="Permalink" name="Item_4" rel="nofollow"><time title="February 13, 2015 4:19AM" datetime="2015-02-13T04:19:22+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:23AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>The Economist - September 2015</p>
+
+<h4>EDITORIAL</h4>
+
+<p>It is something of a sign of the times when the United Nations security council descends into a chaotic bout of finger pointing. With Western nations directing their ire at an East alternating between stoic and outraged it seems like market stability is a thing of the past, indeed one almost longs for the relative calm of the Iron Curtain. At least then the sides were known.</p>
+
+<p>The rise of a new form of “crowd-sourced” government in the Southeastern European region of Vasaria three months ago has caught the majority of the world (at least those not “in” on it) by total surprise. The multinational composition of the Vasarian Freedom Party has rendered the questionably typical border profiling along racial or religious lines impotent and has sent security agencies into a tizzy as they struggle to pivot to this new threat from within. In Nevada, the National Guard was called in to seal off and contain an NSA server farm while in China, Germany, and Russia reports have emerged of similar incidents around communications and internet related facilities. With American tanks knocking down the gates of an NSA facility near suburban Reno, the West has struggled to maintain an image of strength at home let alone abroad.</p>
+
+<p>As a reaction to these blinding security threats, hawks the world over are calling for internet restrictions, claiming it is a dangerous avenue for recruitment, while even the more dove leaning politicians are left empty handed when asked for alternatives. Ironically, this clampdown only fuels the platform of the VFP and spurs interest in their cause. The promises of a “restriction free internet” and “unlimited bandwidth as a civil right” shine like a beacon against the authoritarian cries of the hardliners. In China, the already restricted internet access has gone from a trickle to a rivulet with all access now monitored on an individual level. However the adage of grains of sand through a clenched fist seems fitting.</p>
+
+<p>Which brings us back to the echoing halls of the UN building. In the finger wagging on both sides there is a question that keeps coming up “who is behind this?” and it consistently goes unanswered. In a decidedly bearish global market, what nation is seeing gains through this chaos?</p>
+
+<p>Vladislav Surkov, former political technologist for Vladimir Putin, suggested that in a chaos of constant threats there is no opportunity for an organized resistance for the true policies of a regime. If Surkov’s method are in fact in use in East Vasaria and this chaos is the work of a superpower, then surely their goals will be revealed before too long and we will know once more where the lines are drawn. Until then however it seems all eyes are on Vasaria - and our own backyards.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_4222">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4222/#Comment_4222" class="Permalink" name="Item_5" rel="nofollow"><time title="February 13, 2015 4:19AM" datetime="2015-02-13T04:19:37+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:24AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><strong>TO:</strong> VASARIAN MINISTER OF DEFENSE JAN KUBEK<br />
+<strong>FROM:</strong> JAMES SUMMERFIELD</p>
+
+<p>Mr. Kubek,<br />
+I have received the funds as per your previous letter and a contract has been drawn up between your government and the 25th ARAIG for security and policing services in your Eastern Provinces.</p>
+
+<p>We will be in touch regarding transport.</p>
+
+<p>Dr. James Summerfield<br />
+CEO <br />
+Armaclash Security Group</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_4223">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4223/#Comment_4223" class="Permalink" name="Item_6" rel="nofollow"><time title="February 13, 2015 4:19AM" datetime="2015-02-13T04:19:46+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:26AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><strong>TO:</strong> VASARIAN MINISTER OF DEFENSE<br />
+<strong>FROM:</strong> CO CHARLOVI BATTALION</p>
+
+<p>Sir,</p>
+
+<p>It is my duty to inform you that your instructions regarding the treatment of the populace and the so-called “rebels” are both illegal and immoral and as such my men and I will not be your blood soaked hands. The propositions made by this “Council of Five” for the VFP are sound and indeed just and to ignore them is to do yourself and the people you claim to represent a disservice.  You will recall my previous complaints regarding the mens back pay and living conditions after our return from the NATO exchange program not being fit for dogs let alone soldiers. You and your ilk have created this climate and now you must face the storm.</p>
+
+<p>I have put it to a vote and to a man we have agreed to join the VFP in their efforts to create a new nation, one which will be devoid of your greed and corruption.</p>
+
+<p>If I should have the displeasure of communicating with you again, in person, know that your death will be slow and taxing.</p>
+
+<p>Vasaria Free!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_4224">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4224/#Comment_4224" class="Permalink" name="Item_7" rel="nofollow"><time title="February 13, 2015 4:23AM" datetime="2015-02-13T04:23:45+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 13, 2015 5:32AM by Cpt. Hill [Ret.]." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><code>#vasariafree</code></p>
+
+<p>VASARIAFREEDOMPARTY <a href="https://vanilla.29th.org/profile/therealvfp" rel="nofollow">@therealvfp</a></p>
+
+<pre><code>“Old concepts of nations are antiquated. The new nations are comprised of like minded individuals across all the globe! Vasaria will be the new nation with new government and new leadership unseen in all of history. Prepare.” -VFP #vasariafree
+</code></pre>
+
+<p>Kanye West <a href="https://vanilla.29th.org/profile/kanyewest" rel="nofollow">@kanyewest</a></p>
+
+<pre><code>#vasariafree If it’s broke buy a new one. #packyourbags #movintovasaria
+</code></pre>
+
+<p>The Dalai Lama <a href="https://vanilla.29th.org/profile/DalaiLama" rel="nofollow">@DalaiLama</a></p>
+
+<pre><code>like water, humanity will take the form of whatever vessel we put it in. the trick is not to spill when it moves because water is precious and every drop counts #vasariafree
+</code></pre>
+
+<p>Russell Brand <a href="https://vanilla.29th.org/profile/rustyrockets" rel="nofollow">@rustyrockets</a></p>
+
+<pre><code>what is going on in #Vasaria is a natural reaction to the failed systems that we’ve seen teeter along for far too long. supporting a new structured society based on intelligent, ethical and moral principles is the way of the future. its unfortunate it takes a genocide to make #vasariafree but you gotta break a few eggs to make an omelet. 
+</code></pre>
+
+<p>Stephen Colbert <a href="https://vanilla.29th.org/profile/StephenAtHome" rel="nofollow">@StephenAtHome</a></p>
+
+<pre><code>If you find a new type of rebel never before seen in history, make sure to speak to your doctor about #vasariafree #themoreyouknow
+</code></pre>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_4994">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/4994/#Comment_4994" class="Permalink" name="Item_8" rel="nofollow"><time title="February 23, 2015 4:05AM" datetime="2015-02-23T04:05:52+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 23, 2015 12:14PM by 2Lt. Bergstrom." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h3><em>Intercepted Email :</em></h3>
+
+<p><strong>To:</strong> VFP Command<br />
+<strong>From:</strong> Co Charlovi Battalion<br />
+<strong>RE:</strong> PMC's Intercepted</p>
+
+<p>Our consolidation of Bystrica is almost wrapped up.  We have the support of the people, though they continue to flee Bystrica to provinces we already control. Our civilian brothers and sisters have been welcoming our movement with open arms in all the other eastern provinces.  I do not understand how they knew what I now understand.  That Bystrica will be the beginning of the real fight.</p>
+
+<p>That PMC unit(25th ARAIG), all of you said was just going to be advising, we ran in to a few of them today.  A small detachment in a few soft skinned vehicles loaded with everything they would need to set up a FOB stopped outside the City of Bystrica proper.  There seemed to be only few of them, maybe 8-10.  But these were not advisers.  The moved on us, equipped with suppressors they attacked us!  We took 8 KIA, several more wounded.  Their sniper took 5 of our brothers, terrifyingly professional.  Brother H was one of the KIA. Even running against 3 of our best squads it took us over an hour to beat them back.  We found several bodies, and their vehicles.  We loaded the bodies in one of the trucks after we took the supplies in it.  A local businessman volunteered to return it to the capital.</p>
+
+<p>I have seen PMCs like this before.  I know what they are capable of.  I did not want to risk the consequences of a reprisal, had we not returned the bodies.  But if 10 came the first time, many more will come next time.  We are preparing defenses.  Our plans to move to the capital will have to go on hold.  The supplies we seized will be put to good use.  I suggest you prepare to send more, a fight is coming to Bystrica.  I suggest you find out why you did not see this coming.  I warned you that the 25th's presence in the capital was a very bad sign.  If the western governments are going to unleash mercenaries on us, I suggest you get your hacker friends you rely on so heavily to help.  Maybe out the real backers of the PMCs or cut their money off.  This is going to get ugly.</p>
+
+<p>Vasaria will be Free!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_5204">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/5204/#Comment_5204" class="Permalink" name="Item_9" rel="nofollow"><time title="February 25, 2015 3:24AM" datetime="2015-02-25T03:24:01+00:00">February 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><strong>Open Letter from the Minister of Public Security</strong></p>
+
+<p>Three days ago a group of humanitarian volunteers was ambushed and killed near the province of Bystrica while distributing food and aid to the local populace. While their bodies were returned unsullied, this act against a peaceful aid group has shown the rebels for what they are and their “morals” and “ethics” have been thrown into sharp relief.</p>
+
+<p>We will not be frightened by these acts, nor will we give up any ground in the fight for our cities, our towns and our resources! The Government calls upon all loyal citizens to do what they can to throw out these invaders, for that is what they are! Their false promises of endless bandwidth and the four day work week are just that - false! We shall not be lulled into believing these lies, nor shall we hand over the reigns of power which are rightfully ours.</p>
+
+<p>The taxes we have collected will be devoted wholeheartedly to fighting this incursion. As such, all schools and ministries not directly tied to the war effort are hereby suspended and their budgets seized until the end of hostilities is announced.</p>
+
+<p>By Order of Minister Guy Montag<br />
+<strong>Head of Public Security</strong></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_5205">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/5205/#Comment_5205" class="Permalink" name="Item_10" rel="nofollow"><time title="February 25, 2015 3:35AM" datetime="2015-02-25T03:35:40+00:00">February 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 25, 2015 7:29AM by 2Lt. Bergstrom." class="DateUpdated">edited February 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><em>Facebook Message</em></p>
+
+<p><strong>George Smiley says:</strong><br />
+Hi Marge,</p>
+
+<p>So I’m back in the capital again - I haven’t been here in ages! I must say it looks the worse for wear.. hard to tell if it’s the war or just the endless series of governments running it into the ground. I’m here after driving a truck for the VFP. They loaded it full of bodies of some sort of commando force that attacked the power plant. Not sure what their deal was but quite a few of them looked like they might be American. I didn’t get a close look though, just drove the truck to the capital and dropped it off at the security checkpoint. I don’t think I got seen, but who knows. Worst case scenario I could have used the money the Charlovi Battalion guys gave me to buy off the cops. Ahh some things never change.</p>
+
+<p>Anywoo, hope you and the boys are doing well. I’ve heard rumours the VFP are going to start laying fibre optic cable soon! We should be able to go back to watching our shows again - and little Georg can play his Playstation and not mess with our buffering! Oh all this fighting will be so worth it to finally watch a whole episode of Downton Abbey without buffering… I love the little guys but sometimes when they are playing their games I just wanna…  well all those frustrations will soon be in the past.</p>
+
+<p>There was a tv crew in Bystrica  the other day. I tried to get interviewed or at least in one of the shots but I’m not sure if they used it. I’ve been trying to check the VNN website but they seem to be focusing mostly on the stuff the VFP is doing online, hacking and the like.  Hopefully they’ll put it up eventually and I can get a screengrab! Who knows, new Facebook profile pic?</p>
+
+<p>Anyways, keep an eye out for it and send it to me if you see it!</p>
+
+<p>Love,<br />
+George</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_13534">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/13534/#Comment_13534" class="Permalink" name="Item_11" rel="nofollow"><time title="June 3, 2015 12:37AM" datetime="2015-06-03T00:37:47+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 3, 2015 12:39AM by FSgt. Balzer [Ret.]." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h3>Vasarian Broadcasting Network transcript:</h3>
+
+<p>Milos Scili(anchor) "It has been 3 days since the VFP has moved in to the Capital.  The police and civil services continue, and we have been told the VFP will honor their pay and benefit rights.  Since the government fled and NATO has pulled its advisors out last week, things seem amazingly calm.  Rumors of VFP reprisal attacks and martial law have not come to frutition.  We here at the VBN have been told to cease broadcast as of this morning, but the VFP civil affairs officials have not arrived at the studios as promised.  Large military transports aircraft of Ch-... <em>static</em><br />
+<br /></p>
+
+<h3>BBC News-</h3>
+
+<p>Worries of iNation in Greece<br />
+Herman Platt -Eastern Europe Lead-7:36am GMT<br />
+  Reports of large unmarked military aircraft continue from around the island of Altis.  Advanced looking aircraft of possibly Russian or Chinese origin have been photographed at a military outpost.  As the Greek government has history of purchasing such equipment, its origins has sparked much speculation. Land line telephone, Cell phone and Internet services remain down for 3 days now.  Local officials claim the outrages are temporary. Since the iNation call for the liberation of this often disputed territory strategically located at the apex of the Aegean, many expect there is more to the story.  NATOs failure to contain the uprising in Vasaria, has many here wondering what will happen if the iNation does act against the island. I think I am being followed by the police... Pro iNation demonstrations have gotten larger in the usually quiet cities of Altis.  I have observed some at these demonstrations keeping in touch with protest leaders via cell phone.  They are coming towards me...  I have only been able to submit my reports via satellite phone and will continue...<br />
+Hey that's mine, give that back that's my pro-<em>END OF TRANSMISSION</em></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_13708">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/13708/#Comment_13708" class="Permalink" name="Item_12" rel="nofollow"><time title="June 4, 2015 9:58PM" datetime="2015-06-04T21:58:18+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>BRIEF 226019814</p>
+
+<p>FROM: COINTEL<br />
+TO: NATO SECGEN JENS STOTLENBERG</p>
+
+<p>Regarding the recent buildup of activity around Altis, current information is as follows:<br />
+-All communication hardlines to Altis have been cut. SIGINT has pinged both internet and phone lines and has no returns. <br />
+-Satellite communications are sketchy at best due to multiple failures across the network<br />
+-Local contact with agents has been lost in at least three cases it is believed that these agents were killed<br />
+-The identities of the assassins are unknown but given the recent activity in Vasaria it is too coincidental to assume it is not related<br />
+-Large scale air transport has occurred to Altis from a number of civil registered transports. Flight plans and approval was all greenlit. Further investigation has shown that the data trail ends abruptly. If this was a legitimate hack then the air traffic systems in at least 35 countries have been compromised.<br />
+- Spysats USA-152 and USA-144 (Codenames LACROSS and MISTY respectively) were tasked with moving into observation positions over Altis. Due to recent NROL connection issues, contact was lost with LACROSS at 2200 Zulu and MISTY has been unresponsive. Groundstations within line of communications with satellites that could be maneuvered in to replace LACROSS and MISTY have been black since the Vasaria incident began. <br />
+-AURORA overflight has been authorized and barring further developments imagery will be forthcoming</p>
+
+<hr />
+
+<p><em>Mobile Phone Notes of Jeremy Pauls sitting in on Pentagon Briefing as aide to Sen. Summers</em></p>
+
+<p>Altis is large island in the Aegean. Looks kinda like a fish that was punched in the face. Most of pop. lives on the West side in mountainous region. East side has salt flats (wtf is that?). Power plants are mostly solar so it is energy independent. Gen. Carlisle keeps saying that it has large independent servos like that’s important. Might have said “servers” but his accent, you know.</p>
+
+<p>Sen. Summers wants all his coffees with soy now thanks to that article Claire left on his desk.</p>
+
+<p>Call Jenny re.that thing</p>
+
+<hr />
+
+<p><strong>PRESIDENTIAL ORDER 2558</strong><br />
+All effort and expenditure is to be employed to secure Nationals who may be held by hostile forces on the island of Altis. Authorization for military force is given. Command structure to be NATO and approved allies. Priority given to avoiding civilian casualties</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_14064">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14064/#Comment_14064" class="Permalink" name="Item_13" rel="nofollow"><time title="June 8, 2015 10:25PM" datetime="2015-06-08T22:25:36+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 8, 2015 11:22PM by Cpt. Hill [Ret.]." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <hr />
+
+<p><em>Chat established</em></p>
+
+<p><strong>im0rtanj0:</strong> They took the airfield</p>
+
+<p><strong>Synapse:</strong> How many?</p>
+
+<p><strong>im0rtanj0:</strong> 20+</p>
+
+<p><strong>Synapse:</strong> ID?</p>
+
+<p><strong>im0rtanj0:</strong> NATO</p>
+
+<p><strong>Synapse:</strong> They’ve finally decided to come play</p>
+
+<p><strong>im0rtanj0:</strong> These aren’t like those mercs or the Vasarian Army.</p>
+
+<p><strong>Synapse:</strong> Of course not. NATO won’t take the money and run. They still believe in something bigger than the dollar.</p>
+
+<p><strong>im0rtanj0:</strong> What is the next step?</p>
+
+<p><strong>Synapse:</strong> Let us think on it. You will be told.</p>
+
+<p><em>Chat partner disconnected</em></p>
+
+<hr />
+
+<h4><strong>Diary of Anita Kamorous</strong></h4>
+
+<p>Yesterday evening the Americans came! They passed the harbour by boat. Oh! how their great boat rumbled. I want one! The little rubber boats were much smaller and made a terrible noise! Little Fifi would not stop barking at those little things. Back and forth she ran until my father yelled at me to get inside with her.</p>
+
+<p>The gunfire came later and in the distance we heard the thump thump of explosions. Some of the spent bullets could be heard slapping and hissing in the water! Mother tried to get Father to go over this morning and offer them her cooking, maybe they would hire her as a chef, but he said no. He didn’t want to give up the free highspeed we are getting. FIFA 2018 is going to be starting and he couldn’t miss it! Father is so funny.</p>
+
+<p>The tourístas with the helmets and guns have moved from the airfield. Father said they’re going to regroup. Maybe they will leave soon. I will miss their music! Maybe some of them will add me on Facebook before they go? I liked the one from Australia - she has the funniest voice!</p>
+
+<p>Alright well I should get to sleep. Father said he had to do some work at the Power Plant but he would take me along if I had my light out by 9. The tourístas have been busy there and my father said that much of their plans need power to succeed. I wonder if they know about batteries?</p>
+
+<p>Goodnight Diary!<br />
+<a href="https://vanilla.29th.org/profile/nita" rel="nofollow">@nita</a></p>
+
+<hr />
+
+<h4>Excerpt from:  <em>Saving Our Memories, Remembrances of Our Veterans 2058</em></h4>
+
+<p>"...like I said, I don't remember the islands name I just remember everyone puking their guts our on the way in.  We had landed with no opposition and moved to some Airfield, I cannot remember the name.  It was on that damn Greek island I cannot pronounce.  We moved up and and saw them, no one recognize the uniforms.  The visuals we had with our binoculars in the dying light was the only eyes we have laid on them.  As we slowly moved up to engage, it got dark.  With 2nd and 3rd squads moving up on the right, I covered first squad with the marksman send down from Battalion.  That guy did not talk much.  We sat there in the dark until one of the squads had moved into a hanger and blew it sky high.  I swear a fireball 1000' went up, lit up the area like day light.  It gave me a terrible sunburn if I remember right? We came under sniper fire from our rear, that is when I realized we were a 500 meters from the nearest friendly.  The enemy rifle fire came from like 50 meters behind us.  The marksman and I each popped smoke and he bolted for first squad to the south.   I layed there assuming the enemy sniper would come to our position thinking we fled.  I laid there in the bright light from the explosion for what seemed like an hour, behind a short rock wall.  Eventually the dark came back and my night vision started working again.  That is when I saw him.  I thought he was a friendly at first, but the green glowing eyes...   The silhouette was wrong, it was not one of ours, it was demonic looking.  Like a angry ghost with glowing eyes.  I froze with my sights on him, I was too scared to pull the trigger.  He was walking right at me, coming out of the bushes from my rear.  I knew he was not likely be able to see me, but his glowing eyes seemed locked on me.  He walked, crouched over in an inhuman way.  I was sweating and beginning to shake.  I knew no friendlies were near me, I was alone.  That thing was creeping toward me.  I was beginning to think this was a nightmare, where I could not act.  Finally I pulled the trigger, not consciously, I just did it.  I fired a long burst, longer than I should have fired.  The ghost just froze there.  My mind speeding, I could not tell if I had missed, how could I with him so close?, did I have blanks from the training range?, was my nightmare still going?  was it immune to the bullets?  I fired a second short burst, this time with active thought.  I saw the bullets hit its chest.  It dropped, pulled out a grenade and threw it right at me.  I buried my face in that damn Greek dirt/sand, grasping at my rock wall.  The explosion was right in front of me, I realized I was not dead.  I stood straight up and unloaded in that thing. It shook but did not move after that.  I started to calm down, and checked myself.  I did not have a scratch on me!  The odd thing is, that is when the adrenaline kicked in.  I ran like a damn jack rabbit to the first squad.  I could not talk, I just sat there shaking, watching the rear."</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_14195">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14195/#Comment_14195" class="Permalink" name="Item_14" rel="nofollow"><time title="June 9, 2015 11:47PM" datetime="2015-06-09T23:47:06+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h2>.</h2>
+
+<p>TRANSCRIPT OF AUDIO FILE RECORDED IN CONFERENCE ROOM 22B, PENTAGON</p>
+
+<p>CONVERSATION REGARDING SITUATION ON ALTIS AS OF JUNE 8, 2018.</p>
+
+<p>ALL PRESENT: GENERAL SAMUEL WALTERS, ASSISTANT DIRECTOR NSA AMELIA GRANT, GENERAL GEORGE TAFF, ADMIRAL SALLY COULBERS, SECRETARY OF DEFENSE DONALD SUNDERLAND</p>
+
+<p>GEN. WALTERS: INCEPTION was a success and enemy airpower has been eliminated on Altis. We have MARSOC on standby and we’re ready to get the targets out. So where are the targets?</p>
+
+<p>A.D. GRANT: As of right now we have no leads on any possible targets for our esteemed Special Operations community. We have lost all communications down there General. All means</p>
+
+<p>SECDEF SUNDERLAND: Do we need more boots on the ground?</p>
+
+<p>A.D. GRANT: If we want our people out alive then we need to tread very carefully.</p>
+
+<p>ADM. COULBERS: If they’re the right boots treading in the right places?</p>
+
+<p>GEN. WALTERS: Where though?</p>
+
+<p>A.D. GRANT: The sooner we can re-establish communications with our agents the better. Re-connecting the hardwires are likely going to be our only option for that.</p>
+
+<p>ADM. COULBERS: In that case we’d have to find the cable and then reconnect it. “Plug it back in” if you will.</p>
+
+<p>SECDEF SUNDERLAND: Do we have maps of these cables? Did they cut it underwater? On land? Did they just unplug it on their end? Hell where does the internet plug in?!</p>
+
+<p>A.D. GRANT: There are maps. We’ll find them.</p>
+
+<p>GEN. WALTERS: So we send MARSOC to check some wires?</p>
+
+<p>A.D. GRANT: We’ll need MARSOC for when we locate the citizens. Who do we have on Altis now?</p>
+
+<p>GEN. TAFF: Charlie Company of the 29ID is the closest. They will have just returned to their jump-off point just offshore.</p>
+
+<p>SECDEF SUNDERLAND: What, use the boots that are already on the ground?</p>
+
+<p>GEN. TAFF: They’re soldiers not line checkers Assistant Director. This is likely going to be beyond them.</p>
+
+<p>SECDEF SUNDERLAND: I’ll get back to you on this all. I need to brief the President in twenty minutes.  Now George if it comes to it I may call on your soldiers to pull some cable but if it goes a different way we’ll be sure to find something else for them to do. Don’t worry though, I’ll let you know what the President decides. And  Sammy you and your Marines will get their turn too. And when we do send them in you're gonna come up to the White House and we'll watch it on the big screen together okay?</p>
+
+<p>END OF RECORDING</p>
+
+<hr />
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_19308">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/19308/#Comment_19308" class="Permalink" name="Item_15" rel="nofollow"><time title="July 29, 2015 11:58PM" datetime="2015-07-29T23:58:34+00:00">July 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited August 2, 2015 4:21PM by FSgt. Balzer [Ret.]." class="DateUpdated">edited August 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h1>Associated Press</h1>
+
+<h2>ALTIS iNvaded by NATO forces</h2>
+
+<p>NEOCHORI, Altis.  Johnathan Manolis (AP)<br />
+   The 29th Infantry division has landed on a hostile beach for the first time in nearly 70 years.  NATO forces lead by the 29th ID seized a small airstrip not 2.5 Km from Neochori.  The evening calm was broken by sounds of a long and intense battle.  Several large explosions stunned the citizens of this picturesque fishing village who are growing all to used to the sounds of battle near by.  Huge plumes of black smoke rose from the airfield the next morning.  The sounds and sights were described by local citizens as sounding more intense than the battles Altis has recently seen between government and iNation forces.<br />
+   This report has come though a sudden break in the communication blackout the iNation has placed the island under.  Unconfirmed reports that mass cyber attacks on western government and military sites.  While the NATO forces on the ground would not comment, complaints of spotty communication and support from the NATO flotilla of the coast were given off the record.  No civilian, NATO, Government or iNation aircraft have been seen yesterday or today. The Altis International Airport put out a statement that radar and GPS jamming, along with the threat of surface to air missiles have caused the Airports closure.  While Communications with the outside world have been reestablished, it is unknown for how long.<br />
+   A iNation press representative, Harvey Wallbanger, handed out press releases and held a brief news conference in Neochori soon after my return from interviewing NATO forces at the near by airfield.  "Swift and decisive action" and "the removal of the forces of repression" were immanent.  Mr. Wallbanger informed us of the communication restoration.  He also dismissed accounts of iNation casualties at the airfield.  It is obivious there are many among the local populous who support iNation, but it seems nearly as many do not.  There seems to be no religious, class, education level, or often political rational behind supporters or those that do not favor iNation.  Politically, iNation has made no decrees and has left Atlis mostly to its city and local governments.  The iNation Military has recruited widely from across the island.  Large numbers of foreign fighters under the iNation flag have been seen entering barracks around the island.<br />
+  Unconfirmed reports have a near by VodaPhone center being the focus of both iNation and NATO.  iNation forces have mobilized across the island and have left barracks.  This center...</p>
+
+<p>Communications were lost with AP contributing reporter Johnathan Manolis and the entire eastern Mediterranean today at 19:30 GMT.</p>
+
+<h2>Markets Across the Globe Tumble Again</h2>
+
+<p>Wall Street, New York.  Hedy Lamarr (AP)<br />
+Markets took another hit today on news that...</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_19725">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/19725/#Comment_19725" class="Permalink" name="Item_16" rel="nofollow"><time title="August 2, 2015 4:19PM" datetime="2015-08-02T16:19:29+00:00">August 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited August 2, 2015 4:21PM by FSgt. Balzer [Ret.]." class="DateUpdated">edited August 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h2>Diary Entry</h2>
+
+<p>I walked up the mountain today to bring the soldiers some baklava. While I talked with them I couldn’t help but reflect. The mountain near our town has had a long history of violence. This whole valley has.</p>
+
+<p>The soldiers of Athens, marched past it’s spire and fought hard fights in its valleys. An Athenian spearhead, found long ago in my family orchard, sits over the mantle. How the centuries of dirt of the fields lent it a red hue.</p>
+
+<p>The mountain watched it all, but it too has it’s own history. Atop a peak, hallowed from the beginning, the shrine to ancient gods, pagan gods, found the light. As time’s inevitable grind carried on, the idols were broken and their pillars gave perch to Saints.</p>
+
+<p>These Saints too found their foes. In the living room there is a lamp whose stem is the barrel of an Ottoman matchlock. An heirloom passed for generations, slowly decomposing into a piece of tasteful home decor.</p>
+
+<p>This island ages around us and in the shadow of this mountain a hundred more wars are fought.</p>
+
+<p>My great grandfather spoke to me late at night, he told me of the stories. He opened his scars and showed me his war. How he fought the Germans. The night when he and the men of the village joined up with British special forces to disable the radio tower on the top of the spire. The gunshots echoing like an accusation shouted over and over again across the valley.</p>
+
+<p>How rebuilding it after the war, he found the shell casings from that night. When they updated the radio tower they found a hand grenade in the dirt. The whole school came out to watch them blow it up and the punch of the blast through the air compressed my young chest. For a moment I wondered if I would ever breathe again.</p>
+
+<p>Now NATO has landed and soon the fighting will come here as it always does. As it must, for it seems war is drawn to these mountains. Smoke shall darken its peak and the blood of men shall enrich the earth. The ancient rituals will play out and the mountain and I will watch.</p>
+
+<p>What will I tell my grandson of this war?</p>
+
+<p>Will I make it my war?</p>
+
+<p>Athanasios Hatzichristos</p>
+
+<hr />
+
+<h2>RED BURGER HEAD OFFICE - ALTIS</h2>
+
+<p>Dear valued Member of the Red Burger Family,</p>
+
+<p>As you have no doubt noticed, there is currently an ongoing disturbance on the island of Altis. Though this may seem like a bad time to come to work, or indeed leave the house, we encourage all of our valued Red Burger Family Members to not let rumour and gossip get the better of them!</p>
+
+<p>Upper Level has it under good authority that the situation is not remotely as dire as has been reported and in fact some people are even saying that this is all just a ploy by Blue Burger to steal our sales advantage.</p>
+
+<p>It is as a result of this that Upper Level has consented to provide 6 hour shifts instead of the usual 9, while maintaining your current hourly wage rates.</p>
+
+<p>Remember - at Red Burger, you are part of the Family!</p>
+
+<hr />
+
+<h2>BLUE BURGER HEAD OFFICE - ALTIS</h2>
+
+<p>Dear valued Blue Burger Teammate,</p>
+
+<p>As you have no doubt noticed, there is currently an ongoing disturbance on the island of Altis. Though this may seem like a bad time to come to work, or indeed leave the house, we encourage all of our valued Blue Burger Teammate to not let speculation and conjecture get the better of them!</p>
+
+<p>The Regional Leader has it under good authority that the situation is not remotely as dire as has been reported and in fact some people are even saying that this is all just a ploy by Red Burger to steal our sales advantage.</p>
+
+<p>It is as a result of this that The Regional Leader has consented to provide 6 hour shifts instead of the usual 9, while maintaining your current hourly wage rates.</p>
+
+<p>Remember - at Blue Burger, you are part of the Team!</p>
+
+<hr />
+
+<h1>notepad.txt</h1>
+
+<p>I came for the olives. More specifically their oil.</p>
+
+<p>The first time I had it it was drizzled on a thick slice of baguette, artisanal Cantabrian anchovies draped themselves upon, I believe, a beautiful curl of smoked manchego. The whole thing dusted lightly with Pimenton De La Vera’s prize winning smoked paprika.</p>
+
+<p>The oil was a sublime taste and in spite of such boundless flavours of the other ingredients, the oil was what had me. It reached into my veins and it triggered something.</p>
+
+<p>The next summer I booked a flight to Altis. I had to see it. I had to see where the nectar of the gods is grown. I want to fill my suitcases and bathe in it’s warming glow.</p>
+
+<p>But now there’s a war and nothing’s open, I can’t get to the airport and now my cellphone keeps cutting out.</p>
+
+<p>If I can get these suitcases home though. If I can just get these bottles out. Everything will be fine.</p>
+
+<p>I wonder if there are any boats off this damn place? Why didn’t I think of boats?</p>
+
+<p>I should remember to clean my bathtub when I get back.</p>
+
+<hr />
+
+<h2><strong>VodaPhone Internal Document</strong></h2>
+
+<p>Altis Division<br />
+Acquisitions and Developement<br />
+Kavala Cellular Relay Station Project <br />
+VodaPhone Job #ABK490313<br />
+glumbard@VodaPhone.eu<br />
+Request for Information (RFI) <br />
+Date requested: 06 06 2017</p>
+
+<p><em>Not to be distributed to non VodaPhone employees.  Any distribution to non-employees must be requested through regional offices.</em> <br />
+<br /></p>
+
+<h4>Request For Information # 001</h4>
+
+<p>Item 1).   As of the 5th of this month the local building authority has shut down the project.  They are requesting a safety fence and around the near by dump we are using as a construction office and catch basin for the fuel tanks we intend to install.  There are worries if the 90 day fuel supply tanks were to fail the town of Edessa could be endangered.  Attached is the itemized cost of the two local requirements and a detailed drawing of the catch basin required.  The cost of the basin, nearly a Km. from the site will go over our 10% overrun limit.</p>
+
+<p>Item 2).  The generator specified for this project seem approximately 25,000% to large for the cellular towers and associated buildings it was designed to supply.  Local engineering review seems concerned that the over sizing of the generator is an over site on our part.  Once the local council caught wind of this it began a debate of possible environmental impact.  Again Alits Public Power (APP) has requested we attach to their power grid as it is designed to support the load that should be required by our project.  Lastly the nearby vehicle service center and motor pool is designed far beyond the capacity required for the 6 VodaPhone service trucks on the island.</p>
+
+<p>Note:  This whole project seems a bit excessive.  The population of this island is not large enough to require such a relay station. Has this project gone through review?</p>
+
+<hr />
+
+<p>From: jclumberland@VodaPhone.eu<br />
+To:  glumbard@VodaPhone.eu</p>
+
+<p>George,<br />
+   Your budget has been increased 50% and a further 10% is being send to you in cash for local emergency costs. I am flying in Monday to have a chat with the local authorities, be ready to get back to work Tuesday.  For now just tell them the generators and service center are for "future expansion".  Your completion date has not changed.  Just get this project completed, grow up and stop asking questions like that.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_38396">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/38396/#Comment_38396" class="Permalink" name="Item_17" rel="nofollow"><time title="January 21, 2016 3:18AM" datetime="2016-01-21T03:18:16+00:00">January 2016</time></a>            </span>
+                        <span class="MItem"> <span title="Edited January 21, 2016 3:30AM by FSgt. Balzer [Ret.]." class="DateUpdated">edited January 2016</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h1>Associated Press</h1>
+
+<h2>ALTIS i-un-invaded by NATO forces</h2>
+
+<p>NEOCHORI, Altis.   Johnathan Manolis (AP)</p>
+
+<p>Six Months on and there is little evidence of the iWar, as locals call it, here on Altis.  The amazing story of six months ago, of the US led invasion, of the battlefield defeat that lead to a withdrawal and the subsequent vanishing of the victorious iNation forces all seem like myth now.  The US 29th Infantry Division did not seem prepared for the iNation forces.  iNation news footage of victorious Bravo Compani And 2nd/113th Cavalier troops celebrating are now famous.  The confusion and subsequent US withdrawal and re-invasion a month later were story enough.  The victorious iNation forces withdrawal, maybe better to say vanishing act, is the most amazing. All these months later and all my military and intelligence sources still cannot seem to settle on the iNations method.  With a NATO blockade the size of which has not been seen in decades, withdrawing 20,000 iNation troops would seem impossible.  Reports of Russian and Chinese nuclear Submarines in the Mediterranean are not uncommon, but the diplomatic war of words over the coincidence has continued ever since.<br />
+Stranger yet is the iNation Press release just before the disappearance claiming iVictory.  Altis's Water, sewage, electric power generation and distribution, telecom, road and rail services all seemed to have gained hundreds of millions of euros in upgrades.  In fact some experts claim Altis's infrastructure is 15-20 years ahead of any other nation in the world.  Total improvements seem to be in the billions of euros.  Why iNations forces used military power to upgrade a small Mediterranean nations infrastructure, declare war on world markets and communications, fight the worlds larges and most powerful alliance and then leave, are still a mystery.  iNation has subsequently claimed to wish to help a poor nation.  The lack of reward for such huge investment of money and manpower continues to baffle western intelligence agencies.<br />
+<br /></p>
+
+<h2>Chenarus - Sports/Golf/Investment</h2>
+
+<p>London, England.  Stephan Dorf  (AP)<br />
+US Billionaire George S. Milk has been buying thousands of hectares of farm land in the rolling hills of Chenarus.  When asked, Milk Industries spokes person Daniel Lewis hinted at Milk's plans to build the worlds largest all inclusive Golf resort.  Plans for the....</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_39149">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/39149/#Comment_39149" class="Permalink" name="Item_18" rel="nofollow"><time title="January 27, 2016 1:11AM" datetime="2016-01-27T01:11:14+00:00">January 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Dear Dr. David Gallintine,</p>
+
+<p>It has been a while since my last letter and for that I apologize. I’ve spent the last few months travelling and working out of labs that remind me of our old days back in university - do you think Sharon remembers how we blew up her freezer box with your fusion experiment? I hope she and the children are well and this letter finds you all healthy and happy.</p>
+
+<p>I myself have been good. The work I am doing is lively and my assistants are passionate and well learned people. Though our settings may be rough and tumble, the days often bleed into nights and I find myself totally engrossed in our project. You remember, of course, my early work at Oxford? Free energy.</p>
+
+<p>I can practically hear your eyes rolling when you read these words, but trust me dear David I am not joking! The groundwork that CERN did for us and the cracking of the Fermi particle has triggered a whole new breakthrough in energy previously thought impossible. I’ve personally been working with Professor Sanders and Nguyen and we now believe, in fact we are working hard to prove, that free energy is a reality! I met with the celebrated Dr. Katsulas in Greece five months ago when we were on Altis for a quick visit and his review of our papers showed that should our calculations be correct, our device alone and a modest supply of inert carbon could power the entirety of Europe for three hundred years! Truly a breathtaking concept to behold - yet again I hear your eyes a roll. You always were the sceptic Doctor!</p>
+
+<p>Amusingly enough my friends have taken to labelling our device in their documents as a “weapon” which had me very concerned for a while until I spoke further with Dr. Katsulas. It was his rhetorical questions that really drove home the magnitude of what we are embarking on and perhaps the title of weapon is not so misused.</p>
+
+<p>What would free energy result in? Certainly it would mean light, but light brings with it so much more.</p>
+
+<p>Allow me to explain dear friend, using a story from my childhood. It was many years before you and I met, I was in the basement of my family's home. We lived in a modest town where my father was a Professor at the local university. The war had stopped all classes however and our family had taken to spending our days close to home, while my father and older brother went out to do what work they could and scavenge what supplies there were for our family, while at night we all gathered in the basement for shelter and to be together.</p>
+
+<p>The lights were off again and in the darkness I listened to my father sleep. The thunder of distant bombs didn’t wake him and I knew that he was truly exhausted, for before the war I used to tip toe to the kitchen to steal sweets and still he would be catch me. In between his long breaths I heard the whoosh of the bomb before it struck.</p>
+
+<p>I suppose it was a bomb or perhaps a shell which landed across the street in the Faruk’s yard but the world seemed to be lifted up, shaken and then dropped on its head. When I came to my senses the light from the dawn had just started to filter through the cracks in the old foundation and the shafts of light caught the dust drifting down. The particles of dust, each gentle speck was like a star to me. A galaxy. A universe away from the terrible conflict that waged around me. I spent many days in the darkness, in that basement as the war raged on.</p>
+
+<p>In three decades of war over resources and energy we have left so many displaced and so many children alone in the dark, dreaming of another place. We are working on a weapon to defeat that darkness. We are working on a weapon which can power knowledge and bring understanding to places of intolerance and ignorance. Professor Sanders thinks that this will be the greatest scientific breakthrough and that the celebrity and accolades will be enough for him. You know me though David, no fanfare or prizes need be showered upon me. If I can light that child’s basement, if I can give the hopeful one less reason to have doubt, that would be reward enough.</p>
+
+<p>It’s true David, we are building a weapon, and with it we will destroy the old ways of the world and create a brighter, beautiful new one.</p>
+
+<p>Give my love to Sharon and the kids, I hope to speak to you again soon.</p>
+
+<p>Your ever faithful friend,<br />
+Samir Gibran</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_49899">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/49899/#Comment_49899" class="Permalink" name="Item_19" rel="nofollow"><time title="April 24, 2016 2:57AM" datetime="2016-04-24T02:57:40+00:00">April 2016</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h1>Associated Press</h1>
+
+<h2>Chernarus Exodus!</h2>
+
+<p>Elektrozavodsk, Chernarus.   Wilma Bagbalm (AP)</p>
+
+<p>The Harbor here in Electro is organized chaos.  Thousands of people attempting to flee, are being shepherded on to liners and ferrys.  For the most part UN Security Council Resolution 4473 mandating all UN member nations to assist in the evacuation of civilians from Chenarus, has gone as smooth as could be expected.  The US 2nd Marine Raider Battalion has over seen the evacuation here.  The Dutch force is Chernogorsk and the British Armed forces are evacuating Berezino.  Little fighting has been reported between the UN sponsored Evacuation Force(EVFOR) and iNation since the recent operations that exposed iNation nuclear weapons.<br />
+  Since then several NATO aircraft were lost before the iNation claimed to have complete air superiority over Chenarus.  That statement has been called in to question after the US sixth fleet showed footage of 8 modern attack jets with iNation markings brought down by naval missile fire.  A few civilian aid and Red Cross helicopters are the only aircraft that have been seen in the air for days.  Civilian cellular and radio systems are not working, and it is unclear of the cause.<br />
+  After the what seems to be a large iNation force appeared in Chenarus and blocked all land routes from this small country.  Neighboring nations have mobilized their armies. After last weeks iNation incursions against both Bystica and Bukovina, those countries are keeping their militaries away from their border with Chenarus.  Leaked footage of massive stock piles of modern military hardware in iNation camouflage patterns are reason enough for Bystica and Bukovina to keep their distance.  Local Chenaruian militias are reportedly operating against iNation forces, but have also attempted to hinder the UN evacuation.<br />
+  The iNation's announcement through multiple social media outlets have stated it would not hinder the evacuation.  With the evacuation to be complete in the next day or so, it is feared iNations forces will be moving the the UN declared safe zones in Chernogorsk, Elektrozavodsk, and Berezino.  The iNation has ramped up rhetoric about the immanence of the rise of the next stage of its global revolution.  With the civilian population mostly cleared, it is unclear what happens next.  The Security Counsel easily passed Resolution 4437, but Russian and China have been unwilling to back a Resolution to go to war against iNation.  NATO leaders meet again this week in Brussels, but have failed to get all of the alliances members to back an invasion of Chenarus and the occupation it would require.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+</div><div class="P PagerWrap"></div></div>            <div class="Foot Closed">
+                <div class="Note Closed">This discussion has been closed.</div>
+            </div>
+        
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F1399%2F%5C%22%251%24s%5C%22" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F1399%2F%5C%22%251%24s%5C%22" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions"><a href="../../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="../../discussions/participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Category-public-discussion" ><a href="../../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Category-other-games" ><a href="../../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Active Category-29th-id-a3-operation-atavist" ><a href="../../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>

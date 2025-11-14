@@ -1,0 +1,930 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Recent Discussions — 29th Infantry Division</title>
+  <link rel="alternate" type="application/rss+xml" title="Recent Discussions — 29th Infantry Division" href="feed.rss" />
+  <link rel="prev" href="p44" />
+  <link rel="next" href="p46" />
+  <link rel="stylesheet" href="../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="p45" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="Recent Discussions" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussions/p45" />
+  <meta property="og:image" content="https://vanilla.29th.org/uploads/OS9LZL2PF3NE.png" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussions\/p45","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussions\/index","ResolvedArgs":{"Page":"p45"},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../js/library/jquery.js?v=3.3"></script>
+  <script src="../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../js/global.js?v=3.3"></script>
+  <script src="../js/flyouts.js?v=3.3"></script>
+  <script src="../applications/vanilla/js/discussions.js?v=3.0"></script>
+  <script src="../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../js/embed_local.js?v=3.3"></script>
+  <script src="../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussions_index" class="Vanilla Discussions isDesktop index  Section-DiscussionList sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="p45#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../categories" class="">Categories</a></li>
+                <li><a href="../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="p45#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel  Last"><a href="../discussions" itemprop="url"><span itemprop="title">Recent Discussions</span></a></span> </span></span>
+                      <div class="well search-form"><form method="get" action="https://vanilla.29th.org/search">
+<div>
+<input type="text" id="Form_Search" name="Search" value="" placeholder="Search" accesskey="/" aria-label="Enter your search term." title="Enter your search term." role="searchbox" class="InputBox js-search" /><input type="submit" id="Form_Go" name="" aria-label="Search" class="Button" value="Go" />
+</div>
+</form></div>
+                    <h1 class="H HomepageTitle">Recent Discussions </h1><div class="PageControls Top"><div  role="navigation" aria-label="pagination" id="PagerBefore" class="Pager PagerLinkCount-13 NumberedPager"><a href="p44" class="Previous Pager-nav" rel="prev">«</a><a href="index.html" class=" Pager-p p-1 FirstPage">1</a><span class="Ellipsis">&#8230;</span><a href="p42" class=" Pager-p p-42" aria-label="Page 42">42</a><a href="p43" class=" Pager-p p-43" aria-label="Page 43">43</a><a href="p44" class=" Pager-p p-44" aria-label="Page 44" rel="prev">44</a><a href="p45" class="Highlight Pager-p p-45" aria-label="Page 45" aria-current="page">45</a><a href="p46" class=" Pager-p p-46" aria-label="Page 46" rel="next">46</a><a href="p47" class=" Pager-p p-47" aria-label="Page 47">47</a><a href="p48" class=" Pager-p p-48" aria-label="Page 48">48</a><span class="Ellipsis">&#8230;</span><a href="p100" class=" Pager-p p-100 LastPage">100</a><a href="p46" class="Next Pager-nav" rel="next">»</a></div></div>    <div class="DataTableWrap">
+        <h2 class="sr-only">Discussion List</h2>
+        <table class="DataTable DiscussionsTable">
+            <thead>
+                    <tr>
+                        <td class="DiscussionName" role="columnheader">
+                <div class="Wrap">Discussion</div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser" role="columnheader">
+                <div class="Wrap">Started By</div>
+            </td>
+            <td class="BigCount CountReplies" role="columnheader">
+                <div class="Wrap">Replies</div>
+            </td>
+            <td class="BigCount CountViews" role="columnheader">
+                <div class="Wrap">Views</div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser" role="columnheader">
+                <div class="Wrap">Most Recent</div>
+            </td>
+        </tr>
+                </thead>
+            <tbody>
+                    <tr id="Discussion_42768" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42768/enlistment-rec-terpin" class="Title">Enlistment - Rec. Terpin</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42768/enlistment-rec-terpin" class="CommentDate MItem"><time title="January 13, 2021 11:01PM" datetime="2021-01-13T23:01:42+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="2 comments" class="Number">2</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="43 views" class="Number">43</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="Recruit Jan Terpin" href="https://vanilla.29th.org/profile/Recruit%20Jan%20Terpin" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/defaultavatar/n154KLUS2L8EB.jpg" alt="Recruit Jan Terpin" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Recruit%20Jan%20Terpin" class="UserLink BlockTitle">Recruit Jan Terpin</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172652#Comment_172652" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 8:37PM" datetime="2021-01-15T20:37:34+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42577" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42577/enlistment-rec-williamson" class="Title">Enlistment - Rec. Williamson</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42577/enlistment-rec-williamson" class="CommentDate MItem"><time title="January 5, 2021 4:37AM" datetime="2021-01-05T04:37:24+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="3 comments" class="Number">3</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="27 views" class="Number">27</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172651#Comment_172651" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 7:50PM" datetime="2021-01-15T19:50:40+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42828" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42828/enlistment-rec-callahan" class="Title">Enlistment - Rec. Callahan</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42828/enlistment-rec-callahan" class="CommentDate MItem"><time title="January 15, 2021 7:12PM" datetime="2021-01-15T19:12:44+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="13 views" class="Number">13</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172650#Comment_172650" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 7:12PM" datetime="2021-01-15T19:12:45+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42823" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42823/enlistment-rec-alsing" class="Title">Enlistment - Rec. Alsing</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42823/enlistment-rec-alsing" class="CommentDate MItem"><time title="January 15, 2021 6:49PM" datetime="2021-01-15T18:49:01+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="12 views" class="Number">12</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172646#Comment_172646" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 6:49PM" datetime="2021-01-15T18:49:02+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42804" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42804/one-year-of-service-julek-e-kabloski" class="Title">One Year of Service (Julek E. Kabloski) </a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T5 Gillespie" href="https://vanilla.29th.org/profile/T5%20Gillespie" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/723/n4I8CCB1ELLQO.png" alt="T5 Gillespie" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Gillespie" class="UserLink BlockTitle">T5 Gillespie</a><div class="Meta"><a href="../discussion/42804/one-year-of-service-julek-e-kabloski" class="CommentDate MItem"><time title="January 15, 2021 4:38AM" datetime="2021-01-15T04:38:16+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="3 comments" class="Number">3</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="16 views" class="Number">16</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172642#Comment_172642" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 5:23PM" datetime="2021-01-15T17:23:59+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42801" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42801/eight-years-and-six-months-of-service-lucas-w-pinto" class="Title">Eight Years and Six Months of Service (Lucas W. Pinto)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="PFC Bae" href="https://vanilla.29th.org/profile/PFC%20Bae" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/764/nPZUZHAMCF7JA.jpg" alt="PFC Bae" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Bae" class="UserLink BlockTitle">PFC Bae</a><div class="Meta"><a href="../discussion/42801/eight-years-and-six-months-of-service-lucas-w-pinto" class="CommentDate MItem"><time title="January 15, 2021 3:47AM" datetime="2021-01-15T03:47:23+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="21 views" class="Number">21</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="SSgt. Vandewalle" href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/852/nS8B61HLAWPPK.png" alt="SSgt. Vandewalle" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="UserLink BlockTitle">SSgt. Vandewalle</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172631#Comment_172631" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 11:17AM" datetime="2021-01-15T11:17:05+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42794" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42794/badge-nathan-w-wells" class="Title">Badge (Nathan W. Wells)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="PFC Bae" href="https://vanilla.29th.org/profile/PFC%20Bae" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/764/nPZUZHAMCF7JA.jpg" alt="PFC Bae" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Bae" class="UserLink BlockTitle">PFC Bae</a><div class="Meta"><a href="../discussion/42794/badge-nathan-w-wells" class="CommentDate MItem"><time title="January 15, 2021 2:14AM" datetime="2021-01-15T02:14:41+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="29 views" class="Number">29</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="SSgt. Vandewalle" href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/852/nS8B61HLAWPPK.png" alt="SSgt. Vandewalle" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="UserLink BlockTitle">SSgt. Vandewalle</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172630#Comment_172630" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 11:16AM" datetime="2021-01-15T11:16:37+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42805" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42805/promotion-and-badges-cole-younger" class="Title">Promotion and Badges (Cole Younger) </a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T5 Gillespie" href="https://vanilla.29th.org/profile/T5%20Gillespie" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/723/n4I8CCB1ELLQO.png" alt="T5 Gillespie" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Gillespie" class="UserLink BlockTitle">T5 Gillespie</a><div class="Meta"><a href="../discussion/42805/promotion-and-badges-cole-younger" class="CommentDate MItem"><time title="January 15, 2021 4:46AM" datetime="2021-01-15T04:46:54+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="7 views" class="Number">7</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T5 Gillespie" href="https://vanilla.29th.org/profile/T5%20Gillespie" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/723/n4I8CCB1ELLQO.png" alt="T5 Gillespie" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Gillespie" class="UserLink BlockTitle">T5 Gillespie</a><div class="Meta"><a href="../discussion/42805/promotion-and-badges-cole-younger" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 4:46AM" datetime="2021-01-15T04:46:54+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42798" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42798/transfer-sablon-crewman-second-class-to-crewman-first-class" class="Title">Transfer: Sablon (Crewman Second Class to Crewman First Class)</a> <span class="MItem Category"> in <a href="../categories/transfers">Transfers</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T3 Chandonnet" href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/047/nQ3FUNJKSWQLO.png" alt="T3 Chandonnet" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="UserLink BlockTitle">T3 Chandonnet</a><div class="Meta"><a href="../discussion/42798/transfer-sablon-crewman-second-class-to-crewman-first-class" class="CommentDate MItem"><time title="January 15, 2021 2:20AM" datetime="2021-01-15T02:20:06+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="8 views" class="Number">8</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T3 Chandonnet" href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/047/nQ3FUNJKSWQLO.png" alt="T3 Chandonnet" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="UserLink BlockTitle">T3 Chandonnet</a><div class="Meta"><a href="../discussion/42798/transfer-sablon-crewman-second-class-to-crewman-first-class" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 2:20AM" datetime="2021-01-15T02:20:06+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42797" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42797/transfer-hildreth-rifleman-to-crewman-second-class" class="Title">Transfer: Hildreth (Rifleman to Crewman Second Class)</a> <span class="MItem Category"> in <a href="../categories/transfers">Transfers</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T3 Chandonnet" href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/047/nQ3FUNJKSWQLO.png" alt="T3 Chandonnet" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="UserLink BlockTitle">T3 Chandonnet</a><div class="Meta"><a href="../discussion/42797/transfer-hildreth-rifleman-to-crewman-second-class" class="CommentDate MItem"><time title="January 15, 2021 2:17AM" datetime="2021-01-15T02:17:41+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="6 views" class="Number">6</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T3 Chandonnet" href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/047/nQ3FUNJKSWQLO.png" alt="T3 Chandonnet" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="UserLink BlockTitle">T3 Chandonnet</a><div class="Meta"><a href="../discussion/42797/transfer-hildreth-rifleman-to-crewman-second-class" class="CommentDate MItem" rel="nofollow"><time title="January 15, 2021 2:17AM" datetime="2021-01-15T02:17:41+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42775" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42775/six-months-of-service-connor-s-mattox" class="Title">Six Months of Service (Connor S. Mattox)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T3 Chandonnet" href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/047/nQ3FUNJKSWQLO.png" alt="T3 Chandonnet" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="UserLink BlockTitle">T3 Chandonnet</a><div class="Meta"><a href="../discussion/42775/six-months-of-service-connor-s-mattox" class="CommentDate MItem"><time title="January 14, 2021 2:30AM" datetime="2021-01-14T02:30:34+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="4 comments" class="Number">4</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="17 views" class="Number">17</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="Cpl. Winston" href="https://vanilla.29th.org/profile/Cpl.%20Winston" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/024/n0389CSD6RYM2.jpg" alt="Cpl. Winston" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Cpl.%20Winston" class="UserLink BlockTitle">Cpl. Winston</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172599#Comment_172599" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 8:20PM" datetime="2021-01-14T20:20:05+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42769" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42769/honorable-discharge-kyle-moen" class="Title">Honorable Discharge (Kyle Moen)</a> <span class="MItem Category"> in <a href="../categories/discharges">Discharges</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="Technician, 4th Grade Adam K. Stachurski" href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/306/n0GVEFX9UJSPW.png" alt="Technician, 4th Grade Adam K. Stachurski" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="UserLink BlockTitle">Technician, 4th Grade Adam K. Stachurski</a><div class="Meta"><a href="../discussion/42769/honorable-discharge-kyle-moen" class="CommentDate MItem"><time title="January 13, 2021 11:16PM" datetime="2021-01-13T23:16:45+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="3 comments" class="Number">3</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="40 views" class="Number">40</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T5 Elbayed" href="https://vanilla.29th.org/profile/T5%20Elbayed" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/876/nKIADRCSK7P5T.jpg" alt="T5 Elbayed" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Elbayed" class="UserLink BlockTitle">T5 Elbayed</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172592#Comment_172592" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 7:51PM" datetime="2021-01-14T19:51:55+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42788" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42788/donations-january-4-january-10" class="Title">Donations January 4 - January 10</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="2Lt. Griffin" href="https://vanilla.29th.org/profile/2Lt.%20Griffin" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/238/n4E19BFR5PAE5.png" alt="2Lt. Griffin" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Griffin" class="UserLink BlockTitle">2Lt. Griffin</a><div class="Meta"><a href="../discussion/42788/donations-january-4-january-10" class="CommentDate MItem"><time title="January 14, 2021 3:34PM" datetime="2021-01-14T15:34:35+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="17 views" class="Number">17</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="2Lt. Griffin" href="https://vanilla.29th.org/profile/2Lt.%20Griffin" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/238/n4E19BFR5PAE5.png" alt="2Lt. Griffin" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Griffin" class="UserLink BlockTitle">2Lt. Griffin</a><div class="Meta"><a href="../discussion/42788/donations-january-4-january-10" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:34PM" datetime="2021-01-14T15:34:35+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42744" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42744/award-chan-ho-bae" class="Title">Award (Chan Ho Bae)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T4 Burg" href="https://vanilla.29th.org/profile/T4%20Burg" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/311/nRCD5OZ7TKHCW.jpg" alt="T4 Burg" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T4%20Burg" class="UserLink BlockTitle">T4 Burg</a><div class="Meta"><a href="../discussion/42744/award-chan-ho-bae" class="CommentDate MItem"><time title="January 12, 2021 9:41PM" datetime="2021-01-12T21:41:07+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="9 comments" class="Number">9</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="51 views" class="Number">51</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="SSgt. Vandewalle" href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/852/nS8B61HLAWPPK.png" alt="SSgt. Vandewalle" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="UserLink BlockTitle">SSgt. Vandewalle</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172570#Comment_172570" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 7:45AM" datetime="2021-01-14T07:45:11+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42745" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42745/award-liam-a-carlson" class="Title">Award (Liam A. Carlson)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T4 Burg" href="https://vanilla.29th.org/profile/T4%20Burg" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/311/nRCD5OZ7TKHCW.jpg" alt="T4 Burg" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T4%20Burg" class="UserLink BlockTitle">T4 Burg</a><div class="Meta"><a href="../discussion/42745/award-liam-a-carlson" class="CommentDate MItem"><time title="January 12, 2021 9:41PM" datetime="2021-01-12T21:41:12+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="8 comments" class="Number">8</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="50 views" class="Number">50</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="SSgt. Vandewalle" href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/852/nS8B61HLAWPPK.png" alt="SSgt. Vandewalle" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="UserLink BlockTitle">SSgt. Vandewalle</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172569#Comment_172569" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 7:44AM" datetime="2021-01-14T07:44:27+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42659" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42659/badge-joe-gibson" class="Title">Badge (Joe Gibson)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="PFC Bae" href="https://vanilla.29th.org/profile/PFC%20Bae" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/764/nPZUZHAMCF7JA.jpg" alt="PFC Bae" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Bae" class="UserLink BlockTitle">PFC Bae</a><div class="Meta"><a href="../discussion/42659/badge-joe-gibson" class="CommentDate MItem"><time title="January 8, 2021 5:50AM" datetime="2021-01-08T05:50:03+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="4 comments" class="Number">4</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="31 views" class="Number">31</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="SSgt. Vandewalle" href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/852/nS8B61HLAWPPK.png" alt="SSgt. Vandewalle" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Vandewalle" class="UserLink BlockTitle">SSgt. Vandewalle</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172567#Comment_172567" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 7:43AM" datetime="2021-01-14T07:43:37+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42786" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42786/enlistment-rec-perryman" class="Title">Enlistment - Rec. Perryman</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42786/enlistment-rec-perryman" class="CommentDate MItem"><time title="January 14, 2021 7:23AM" datetime="2021-01-14T07:23:17+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="18 views" class="Number">18</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Lungu" href="https://vanilla.29th.org/profile/PFC%20Lungu" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/219/nJYP63P68R1VI.jpg" alt="PFC Lungu" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Lungu" class="UserLink BlockTitle">PFC Lungu</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172565#Comment_172565" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 7:23AM" datetime="2021-01-14T07:23:17+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42784" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42784/promotion-and-badges-darius-lost" class="Title">Promotion and Badges (Darius Lost)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="PFC Abramovich [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Abramovich%20%5BRet.%5D" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/208/nX9GPK4NK37JM.jpg" alt="PFC Abramovich [Ret.]" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Abramovich%20%5BRet.%5D" class="UserLink BlockTitle">PFC Abramovich [Ret.]</a><div class="Meta"><a href="../discussion/42784/promotion-and-badges-darius-lost" class="CommentDate MItem"><time title="January 14, 2021 6:27AM" datetime="2021-01-14T06:27:16+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="5 views" class="Number">5</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Abramovich [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Abramovich%20%5BRet.%5D" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/208/nX9GPK4NK37JM.jpg" alt="PFC Abramovich [Ret.]" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Abramovich%20%5BRet.%5D" class="UserLink BlockTitle">PFC Abramovich [Ret.]</a><div class="Meta"><a href="../discussion/42784/promotion-and-badges-darius-lost" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 6:27AM" datetime="2021-01-14T06:27:16+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42781" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42781/transfer-dixson-rifleman-to-submachine-gunner" class="Title">Transfer: Dixson (Rifleman to Submachine Gunner)</a> <span class="MItem Category"> in <a href="../categories/transfers">Transfers</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T5 Murray" href="https://vanilla.29th.org/profile/T5%20Murray" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/338/nO6L4Y6TRBRWF.jpg" alt="T5 Murray" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Murray" class="UserLink BlockTitle">T5 Murray</a><div class="Meta"><a href="../discussion/42781/transfer-dixson-rifleman-to-submachine-gunner" class="CommentDate MItem"><time title="January 14, 2021 6:04AM" datetime="2021-01-14T06:04:22+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="10 views" class="Number">10</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T5 Murray" href="https://vanilla.29th.org/profile/T5%20Murray" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/338/nO6L4Y6TRBRWF.jpg" alt="T5 Murray" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Murray" class="UserLink BlockTitle">T5 Murray</a><div class="Meta"><a href="../discussion/42781/transfer-dixson-rifleman-to-submachine-gunner" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 6:04AM" datetime="2021-01-14T06:04:22+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42757" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42757/enlistment-rec-eichler" class="Title">Enlistment - Rec. Eichler</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42757/enlistment-rec-eichler" class="CommentDate MItem"><time title="January 13, 2021 8:09AM" datetime="2021-01-13T08:09:54+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="2 comments" class="Number">2</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="25 views" class="Number">25</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172561#Comment_172561" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 4:36AM" datetime="2021-01-14T04:36:40+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42709" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42709/enlistment-rec-gann" class="Title">Enlistment - Rec. gann</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42709/enlistment-rec-gann" class="CommentDate MItem"><time title="January 11, 2021 3:18AM" datetime="2021-01-11T03:18:51+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="2 comments" class="Number">2</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="25 views" class="Number">25</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172558#Comment_172558" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 4:33AM" datetime="2021-01-14T04:33:33+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42708" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42708/enlistment-rec-hopcraft" class="Title">Enlistment - Rec. Hopcraft</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42708/enlistment-rec-hopcraft" class="CommentDate MItem"><time title="January 11, 2021 3:18AM" datetime="2021-01-11T03:18:07+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="2 comments" class="Number">2</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="24 views" class="Number">24</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="PFC Riley" href="https://vanilla.29th.org/profile/PFC%20Riley" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/426/nRJJ63PQD1RKW.jpg" alt="PFC Riley" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/PFC%20Riley" class="UserLink BlockTitle">PFC Riley</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172557#Comment_172557" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 4:31AM" datetime="2021-01-14T04:31:45+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42776" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42776/promotion-and-badge-gavin-k-hildreth" class="Title">Promotion and Badge (Gavin K. Hildreth)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T3 Chandonnet" href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/047/nQ3FUNJKSWQLO.png" alt="T3 Chandonnet" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Chandonnet" class="UserLink BlockTitle">T3 Chandonnet</a><div class="Meta"><a href="../discussion/42776/promotion-and-badge-gavin-k-hildreth" class="CommentDate MItem"><time title="January 14, 2021 2:31AM" datetime="2021-01-14T02:31:39+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="9 views" class="Number">9</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T5 Sablon" href="https://vanilla.29th.org/profile/T5%20Sablon" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/986/n93H1TB8KVT7M.jpg" alt="T5 Sablon" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Sablon" class="UserLink BlockTitle">T5 Sablon</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172554#Comment_172554" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 4:09AM" datetime="2021-01-14T04:09:07+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42593" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42593/enlistment-rec-milton" class="Title">Enlistment - Rec. Milton</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42593/enlistment-rec-milton" class="CommentDate MItem"><time title="January 5, 2021 6:11PM" datetime="2021-01-05T18:11:11+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="4 comments" class="Number">4</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="58 views" class="Number">58</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="Sgt. J. Lee" href="https://vanilla.29th.org/profile/Sgt.%20J.%20Lee" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/856/nYR770D45N8FG.png" alt="Sgt. J. Lee" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Sgt.%20J.%20Lee" class="UserLink BlockTitle">Sgt. J. Lee</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172552#Comment_172552" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:55AM" datetime="2021-01-14T03:55:00+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42770" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42770/honorable-discharge-austin-e-mcdougal" class="Title">Honorable Discharge (Austin E. McDougal)</a> <span class="MItem Category"> in <a href="../categories/discharges">Discharges</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="Technician, 4th Grade Adam K. Stachurski" href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/306/n0GVEFX9UJSPW.png" alt="Technician, 4th Grade Adam K. Stachurski" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="UserLink BlockTitle">Technician, 4th Grade Adam K. Stachurski</a><div class="Meta"><a href="../discussion/42770/honorable-discharge-austin-e-mcdougal" class="CommentDate MItem"><time title="January 14, 2021 1:54AM" datetime="2021-01-14T01:54:02+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="1 comment" class="Number">1</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="22 views" class="Number">22</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="1Lt. Dawdy" href="https://vanilla.29th.org/profile/1Lt.%20Dawdy" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/486/n1RUNYQR0XY60.jpg" alt="1Lt. Dawdy" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/1Lt.%20Dawdy" class="UserLink BlockTitle">1Lt. Dawdy</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172551#Comment_172551" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:45AM" datetime="2021-01-14T03:45:40+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42773" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42773/honorable-discharge-kaleb-a-kent" class="Title">Honorable Discharge (Kaleb A. Kent)</a> <span class="MItem Category"> in <a href="../categories/discharges">Discharges</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="Technician, 4th Grade Adam K. Stachurski" href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/306/n0GVEFX9UJSPW.png" alt="Technician, 4th Grade Adam K. Stachurski" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="UserLink BlockTitle">Technician, 4th Grade Adam K. Stachurski</a><div class="Meta"><a href="../discussion/42773/honorable-discharge-kaleb-a-kent" class="CommentDate MItem"><time title="January 14, 2021 2:05AM" datetime="2021-01-14T02:05:46+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="2 comments" class="Number">2</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="32 views" class="Number">32</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="1Lt. Dawdy" href="https://vanilla.29th.org/profile/1Lt.%20Dawdy" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/486/n1RUNYQR0XY60.jpg" alt="1Lt. Dawdy" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/1Lt.%20Dawdy" class="UserLink BlockTitle">1Lt. Dawdy</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172549#Comment_172549" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:45AM" datetime="2021-01-14T03:45:11+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42778" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42778/general-discharge-jochim-skoyen" class="Title">General Discharge (Jochim Skoyen)</a> <span class="MItem Category"> in <a href="../categories/discharges">Discharges</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T3 Grimes [Ret.]" href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/275/nS51PEK5T00KM.jpg" alt="T3 Grimes [Ret.]" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="UserLink BlockTitle">T3 Grimes [Ret.]</a><div class="Meta"><a href="../discussion/42778/general-discharge-jochim-skoyen" class="CommentDate MItem"><time title="January 14, 2021 3:17AM" datetime="2021-01-14T03:17:52+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="7 views" class="Number">7</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T3 Grimes [Ret.]" href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/275/nS51PEK5T00KM.jpg" alt="T3 Grimes [Ret.]" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="UserLink BlockTitle">T3 Grimes [Ret.]</a><div class="Meta"><a href="../discussion/42778/general-discharge-jochim-skoyen" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:17AM" datetime="2021-01-14T03:17:52+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42777" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42777/general-discharge-raelin-a-wagner" class="Title">General Discharge (Raelin A. Wagner)</a> <span class="MItem Category"> in <a href="../categories/discharges">Discharges</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T3 Grimes [Ret.]" href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/275/nS51PEK5T00KM.jpg" alt="T3 Grimes [Ret.]" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="UserLink BlockTitle">T3 Grimes [Ret.]</a><div class="Meta"><a href="../discussion/42777/general-discharge-raelin-a-wagner" class="CommentDate MItem"><time title="January 14, 2021 3:16AM" datetime="2021-01-14T03:16:08+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="0 comments" class="Number">0</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="12 views" class="Number">12</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="T3 Grimes [Ret.]" href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/275/nS51PEK5T00KM.jpg" alt="T3 Grimes [Ret.]" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T3%20Grimes%20%5BRet.%5D" class="UserLink BlockTitle">T3 Grimes [Ret.]</a><div class="Meta"><a href="../discussion/42777/general-discharge-raelin-a-wagner" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:16AM" datetime="2021-01-14T03:16:08+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42615" class="Item Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42615/enlistment-pfc-laux" class="Title">Enlistment - PFC Laux</a> <span class="MItem Category"> in <a href="../categories/enlistment-office">Enlistment Office</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="System" href="https://vanilla.29th.org/profile/System" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/980/nFVS7FBYL12T1.png" alt="System" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/System" class="UserLink BlockTitle">System</a><div class="Meta"><a href="../discussion/42615/enlistment-pfc-laux" class="CommentDate MItem"><time title="January 6, 2021 4:46AM" datetime="2021-01-06T04:46:32+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="3 comments" class="Number">3</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="59 views" class="Number">59</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="Maj. Fritz" href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/568/nJUUJQ5Q18774.jpeg" alt="Maj. Fritz" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="UserLink BlockTitle">Maj. Fritz</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172545#Comment_172545" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 3:08AM" datetime="2021-01-14T03:08:34+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+            <tr id="Discussion_42751" class="Item Alt Unread ItemDiscussion">
+                                    <td class="DiscussionName">
+                <div class="Wrap">
+         <span class="Options">
+                     </span>
+                    <a href="../discussion/42751/award-robert-h-sanzotera" class="Title">Award (Robert H. Sanzotera)</a> <span class="MItem Category"> in <a href="../categories/promotions-and-awards">Promotions and Awards</a></span><div class="Meta Meta-Discussion"></div>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User FirstUser">
+                <div class="Block Wrap">
+                    <a title="T5 Murray" href="https://vanilla.29th.org/profile/T5%20Murray" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/338/nO6L4Y6TRBRWF.jpg" alt="T5 Murray" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/T5%20Murray" class="UserLink BlockTitle">T5 Murray</a><div class="Meta"><a href="../discussion/42751/award-robert-h-sanzotera" class="CommentDate MItem"><time title="January 13, 2021 5:34AM" datetime="2021-01-13T05:34:29+00:00">January 2021</time></a></div>                </div>
+            </td>
+            <td class="BigCount CountComments">
+                <div class="Wrap">
+                    <span title="4 comments" class="Number">4</span>                </div>
+            </td>
+            <td class="BigCount CountViews">
+                <div class="Wrap">
+                    <span title="33 views" class="Number">33</span>                </div>
+            </td>
+            <td class="BlockColumn BlockColumn-User LastUser">
+                <div class="Block Wrap">
+                    <a title="Technician, 4th Grade Adam K. Stachurski" href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="PhotoWrap PhotoWrapSmall"><img src="../uploads/userpics/306/n0GVEFX9UJSPW.png" alt="Technician, 4th Grade Adam K. Stachurski" class="ProfilePhoto ProfilePhotoSmall" /></a><a href="https://vanilla.29th.org/profile/Technician%2C%204th%20Grade%20Adam%20K.%20Stachurski" class="UserLink BlockTitle">Technician, 4th Grade Adam K. Stachurski</a><div class="Meta"><a href="https://vanilla.29th.org/discussion/comment/172534#Comment_172534" class="CommentDate MItem" rel="nofollow"><time title="January 14, 2021 2:08AM" datetime="2021-01-14T02:08:44+00:00">January 2021</time></a></div>                </div>
+            </td>
+        </tr>
+                </tbody>
+        </table>
+    </div>
+    <div class="PageControls Bottom"><div  role="navigation" aria-label="pagination" id="PagerAfter" class="Pager PagerLinkCount-13 NumberedPager"><a href="p44" class="Previous Pager-nav" rel="prev">«</a><a href="index.html" class=" Pager-p p-1 FirstPage">1</a><span class="Ellipsis">&#8230;</span><a href="p42" class=" Pager-p p-42" aria-label="Page 42">42</a><a href="p43" class=" Pager-p p-43" aria-label="Page 43">43</a><a href="p44" class=" Pager-p p-44" aria-label="Page 44" rel="prev">44</a><a href="p45" class="Highlight Pager-p p-45" aria-label="Page 45" aria-current="page">45</a><a href="p46" class=" Pager-p p-46" aria-label="Page 46" rel="next">46</a><a href="p47" class=" Pager-p p-47" aria-label="Page 47">47</a><a href="p48" class=" Pager-p p-48" aria-label="Page 48">48</a><span class="Ellipsis">&#8230;</span><a href="p100" class=" Pager-p p-100 LastPage">100</a><a href="p46" class="Next Pager-nav" rel="next">»</a></div></div>
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussions%2Fp45" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussions%2Fp45" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions Active"><a href="../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Category-public-discussion" ><a href="../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Category-other-games" ><a href="../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Category-29th-id-a3-operation-atavist" ><a href="../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>

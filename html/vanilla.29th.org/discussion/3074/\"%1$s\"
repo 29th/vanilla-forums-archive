@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>[A3] Updates, News &amp; Changelogs — 29th Infantry Division</title>
+  <link rel="stylesheet" href="../../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="a3-updates-news-amp-changelogs" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="[A3] Updates, News &amp; Changelogs" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussion/3074/a3-updates-news-amp-changelogs" />
+  <meta name="description" property="og:description" content="This thread compiles and updates our forums with the latest news and changelogs in Arma 3." />
+  <meta name="twitter:image" property="og:image" content="https://img.youtube.com/vi/tWjKx2wlgKs/0.jpg" />
+  <meta name="twitter:description" content="This thread compiles and updates our forums with the latest news and changelogs in Arma 3." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","DiscussionID":"3074","Category":"Public Discussion","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussion\/3074\/\\\"%1$s\\\"","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"LastCommentID":157532,"Vanilla_Comments_AutoRefresh":0,"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"3074","DiscussionStub":"","Page":"\"%1$s","3":"\""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../../js/library/jquery.js?v=3.3"></script>
+  <script src="../../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../../js/global.js?v=3.3"></script>
+  <script src="../../js/flyouts.js?v=3.3"></script>
+  <script src="../../js/library/jquery.autosize.min.js?v=3.3"></script>
+  <script src="../../applications/vanilla/js/autosave.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/discussion.js?v=3.0"></script>
+  <script src="../../plugins/Spoilers/js/spoilers.js?v=1.3"></script>
+  <script src="../../plugins/Quotes/js/quotes.js?v=1.9"></script>
+  <script src="../../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../../js/embed_local.js?v=3.3"></script>
+  <script src="../../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <script type="application/ld+json">{"headline":"[A3] Updates, News &amp;amp; Changelogs","description":"This thread compiles and updates our forums with the latest news and changelogs in Arma 3. If you catch or see any updates or news about the game, anywhere, feel free to post below with the information and the links! Table of Contents * SITREP #00103 (April 21st, 2015) * SPOTREP #00041 (April 16th, 2015) SITREP #00103\u2026","discussionUrl":"https:\/\/vanilla.29th.org\/discussion\/3074\/a3-updates-news-amp-changelogs","dateCreated":"2015-04-16 22:46:24","author":{"@context":"https:\/\/schema.org","@type":"Person","name":"PFC Tuomainen","image":"https:\/\/vanilla.29th.org\/uploads\/userpics\/245\/nYCLI7SAFIX3O.png","url":"https:\/\/vanilla.29th.org\/profile\/PFC%20Tuomainen"},"@context":"https:\/\/schema.org","@type":"DiscussionForumPosting"}</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Section-Discussion Section-Category-public-discussion sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../../categories" class="">Categories</a></li>
+                <li><a href="../../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-public-discussion Last"><a href="../../categories/public-discussion" itemprop="url"><span itemprop="title">Public Discussion</span></a></span> </span></span>
+                    <div class="MessageList Discussion"><!-- Page Title -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h1>[A3] Updates, News &amp;amp; Changelogs</h1></div>
+
+<div id="Discussion_3074" class="Item ItemDiscussion">
+    <div class="Discussion">
+        <div class="Item-Header DiscussionHeader">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="PFC Tuomainen" href="https://vanilla.29th.org/profile/PFC%20Tuomainen" class="PhotoWrap"><img src="../../uploads/userpics/245/nYCLI7SAFIX3O.png" alt="PFC Tuomainen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Tuomainen" class="Username">PFC Tuomainen</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                <a href="a3-updates-news-amp-changelogs" class="Permalink" rel="nofollow"><time title="April 16, 2015 10:46PM" datetime="2015-04-16T22:46:24+00:00">April 2015</time></a>            </span>
+                <span class="MItem"> <span title="Edited April 21, 2015 10:53PM by PFC Tuomainen." class="DateUpdated">edited April 2015</span> </span>                 <span class="MItem Category"> in <a href="../../categories/public-discussion">Public Discussion</a></span>             </div>
+        </div>
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message userContent">
+                    <p>This thread compiles and updates our forums with the latest news and changelogs in Arma 3. If you catch or see any updates or news about the game, anywhere, feel free to post below with the information and the links!</p>
+
+<h3>Table of Contents</h3>
+
+<ol>
+<li><a rel="nofollow" href="\&quot;%251$s\&quot;#April21">SITREP #00103 (April 21st, 2015)</a></li>
+<li><a rel="nofollow" href="\&quot;%251$s\&quot;#April16">SPOTREP #00041 (April 16th, 2015)</a></li>
+</ol>
+
+<hr />
+
+<h3><a id="April21">SITREP #00103</a></h3>
+
+<p>(<a rel="nofollow" href="http://dev.arma3.com/post/sitrep-00103">Source</a>)</p>
+
+<p>FROM: Project Lead<br />
+TO: Arma 3 Users<br />
+INFO: 1.44 Plans, Content Licensing, Game Capture Artist, Array Sorting<br />
+PRECEDENCE: Flash</p>
+
+<h4>SITUATION</h4>
+
+<p>In the short-term we are looking towards the 1.44 update, which will focus on bringing the new <a rel="nofollow" href="http://www.battleye.com/">BattlEye</a> anti-cheat version to main branch. We've tried to implement it in an unobtrusive manner, as you can preview on <a rel="nofollow" href="http://dev.arma3.com/dev-branch">Dev-Branch</a>. Your help with testing it under all circumstances is going to be very useful. Specific feedback and suggestions can be shared on <a rel="nofollow" href="http://forums.bistudio.com/showthread.php?190426-BattlEye-service-implementation&amp;p=2910511#post2910511">our forums</a>. The rest of the update consists of miscellaneous fixes and tweaks. Meanwhile, we are solidifying our road map for the Expansion. The various departments are generating asset wishlists, analyses and concept art, beginning feature feasibility studies, creating prototypes, and of course, supporting production of the new terrain. After this planning stage has concluded, we'll be sharing what we can in a blog. Most details and specifics on the Expansion will not be discussed until the second half of the year however. We can tell you there is plenty to look forward to!</p>
+
+<h4>INTELLIGENCE</h4>
+
+<p><a rel="nofollow" href="https://twitter.com/bohemiainteract">Bohemia Interactive</a>'s publishing team is looking for a <a rel="nofollow" href="http://www.bistudio.com/company/careers/game-capture-artist">Game Capture Artist</a> in one of our Prague offices. You'd be supporting our various games with captured gameplay footage, produce cool videos and show off the games on pretty screenshots. If you like the sound of that, please <a rel="nofollow" href="http://www.bistudio.com/company/careers/game-capture-artist">apply directly on our website</a> for this or one of the <a rel="nofollow" href="http://www.bistudio.com/company/careers">other available positions</a>.</p>
+
+<p>We've begun <a rel="nofollow" href="https://twitter.com/Arma3official/status/589010864281358337">highlighting</a> the game's <a rel="nofollow" href="http://steamcommunity.com/stats/107410/achievements">Steam Achievements</a> on a regular basis. These meta-challenges can provide a fun extra motivation to explore parts of the game you don't normally visit. Or they can make you aware of features you did not even know exist. In the end though, it's all about bragging rights!</p>
+
+
+
+<p>The first achievement is also the easiest one: "This is War". You unlock this by simply starting any scenario, mission, showcase, challenge or other form of playable content in the game. We added it to get a sense of the portion of people who've bought the game, and have actually tried it. However, the numbers are a little skewed. Steam's global statistics tell us that 58.2% of all Arma 3 players have currently unlocked it. Keep in mind that this achievement was introduced with version 1.20 (<a rel="nofollow" href="https://store.bistudio.com/products/arma3-karts">Karts DLC</a>); no Alpha, no Beta, and not even the first period after release. The percentage also includes people who have played the game during a Steam Free Weekend. So, from the percentage alone, we can mainly get a very rough approximation of unlocks and how achievements compare to each other.</p>
+
+<p><a rel="nofollow" href="https://twitter.com/Dslyecxi">Andrew "Dslyecxi" Gluck</a> has published <a rel="nofollow" href="https://www.youtube.com/watch?v=tWjKx2wlgKs">an informative video</a> about <a rel="nofollow" href="https://store.bistudio.com/products/arma3-marksmen#.VTbQuSHtmko">Marksmen</a>'s <strong>ASP-1 Kir</strong> Special Purpose Rifle. It's certainly not a weapon designed for every situation, but it does have unique strengths. The video does a good job of visualizing these, and explaining some of the basics of supersonic and subsonic projectile properties.</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-tWjKx2wlgKs?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=tWjKx2wlgKs"><img src="https://img.youtube.com/vi/tWjKx2wlgKs/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+
+<p>The same videographer has worked with us on a series of official <a rel="nofollow" href="https://www.youtube.com/playlist?list=PLfUcrRpCM_fLrk4KKLkQKrlTBh7txPaO3"><strong>Community Guide videos</strong></a>. We feel they do a great job of introducing various aspects of the combined arms experience, and looking awesome while doing so. If you've never watched them, go through this playlist, or watch them in-game from the LEARN menu.</p>
+
+<h4>OPERATIONS</h4>
+
+<p>Having released our third DLC for Arma 3, we wanted to take another look at our DLC strategy. Senior Designer <a rel="nofollow" href="https://twitter.com/Gekonn">Jiří Zlatohlávek</a> has taken the time to write the latest OPREP on <a rel="nofollow" href="http://dev.arma3.com/post/oprep-content-licensing">"Content Licensing"</a>. That is the name we've given to the technology at the heart of the strategy. Our approach to post-release support is often discussed on various Internet channels, and we've followed the debate with great interest. Read the full report for a brief re-introduction of our goals, a motivation for the business model, and an overview of changes and improvements introduced in update <a rel="nofollow" href="http://dev.arma3.com/post/spotrep-00040">1.42</a>.</p>
+
+<p>A <a rel="nofollow" href="http://dev.arma3.com/post/spotrep-00041">hotfix for 1.42</a> was released on the main branches last week. It fixed a few Weapon Deployment issues, a problem related to encrypted server passwords, and controller hypersensitivity. We are still looking for more useful data on a reported server crash. At the moment our programmers cannot reproduce nor isolate the problem.</p>
+
+<p>Scripters will <a rel="nofollow" href="https://twitter.com/Killzone_Kid/status/588752610020196352">soon have access</a> to another common operation directly in the engine. Having to previously resort to slower scripted solutions, a future update will let you <a rel="nofollow" href="https://community.bistudio.com/wiki/sort">sort</a> <strong>arrays</strong> much quicker.</p>
+
+<h4>LOGISTICS</h4>
+
+<p>Launcher programmer <a rel="nofollow" href="https://twitter.com/jiripolasekcom/status/589906299200090112">Jiří Polášek</a> reports on a crash that is connected to the <a rel="nofollow" href="http://www.radeonpro.info/">RadeonPro</a> graphics card utility. Avoid the crash by disabling the utility, or by adding <em>arma3launcher.exe</em> to the compatibility list and setting <em>"Disable API detection"</em>.</p>
+
+<p><a rel="nofollow" href="http://dev.arma3.com/post/oprep-content-licensing">OPREPer</a> Jiří has also <a rel="nofollow" href="https://twitter.com/Gekonn/status/587992904678907904">done a clean-up pass</a> of the <a rel="nofollow" href="http://steamcommunity.com/app/107410/workshop/">Steam Workshop</a>. The "Addon" tag is deprecated now that mods are supported, so most entries have it removed. He also removed the "Mod" tag for many scenarios which should not have it. We're investigating means of keeping the Workshop clean in the future, and letting it be a place where you can comfortably discover great new content. Jiří seems to have popped up all over the place this week. <a rel="nofollow" href="https://twitter.com/Arma3official/status/589060043045261314">Here</a> he is giving a presentation on Advanced Game Design at the Masaryk University (Faculty of Informatics).</p>
+
+<p>As announced <a rel="nofollow" href="http://dev.arma3.com/post/sitrep-00102">last week</a>, we have now disabled and <strong>removed</strong> the remaining <a rel="nofollow" href="http://makearmanotwar.com/">Make Arma Not War</a> Steam branches. If you had them selected, you'll have been switched to main branch.</p>
+
+<hr />
+
+<h3><a id="April16">SPOTREP #00041</a></h3>
+
+<p>(<a rel="nofollow" href="http://dev.arma3.com/post/spotrep-00041">Source</a>)</p>
+
+<p>FROM: Project Lead<br />
+TO: Arma 3 Users<br />
+UNIT: Main Branch<br />
+ACTIVITY: Hotfix: 1.42 (Server Passwords, Weapon Deployment Glitches, Controller Sensitivity)<br />
+SIZE: ~72 MB / ~10 MB</p>
+
+<h4>NOTES</h4>
+
+<ul>
+<li>Connecting to a passworded hotfixed server using a pre-hotfix client, may result in a crash (please be patient while everyone updates their data).</li>
+<li>Consider using the Steam client option to verify the integrity of the local game cache to avoid corrupted data after downloading this update.</li>
+<li>Consider defragmenting your HDD after downloading large updates.</li>
+<li>A Legacy Build Steam branch is available for advanced users. It contains the previous significant main branch version (1.40). It can be used to compare specific changes between major releases. The access code for this branch is: Arma3Legacy140</li>
+<li>You can find the servers in the Steam library (switch the filter to "Tools") - "Arma 3 Server" (based on your OS, it will download the Windows or Linux version).
+<ul>
+<li>Administrators can also use the command-line SteamCMD utility. The app ID is to be 233780.</li>
+<li>NVIDIA GameWorks™ Technology provided under license from NVIDIA Corporation. Copyright © 2002-2015 NVIDIA Corporation. All rights reserved.</li>
+</ul>
+</li>
+</ul>
+
+<h4>CHANGELOG</h4>
+
+<p><strong>DATA:</strong></p>
+
+<ul>
+<li>Fixed: End Game would not end on Dedicated Servers correctly</li>
+<li>Added: Set up proper values for 'permanent recoil' in deployment</li>
+<li>Fixed: Adjusted geometry of the lowest VR block</li>
+<li>Fixed: Digital Deluxe Edition soundtrack file-name and meta-data of 1 Marksmen track</li>
+</ul>
+
+<p><strong>ENGINE:</strong></p>
+
+<ul>
+<li>Fixed: Dedicated Servers would not accept some passwords as valid for #login and serverCommand</li>
+<li>Fixed: Xbox controller - digital to analog sensitivity</li>
+<li>Fixed: Recoil applied incorrectly when deploy (camera was being pushed out of the FOV after many shots)</li>
+<li>Fixed: Persistent effect for recoil when deployed</li>
+<li>Fixed: Weapon Deployment - if players use a UAV terminal when they have deployed a weapon, they get stuck and cannot undeploy</li>
+<li>Fixed: Weapon Deployment - if players are on the higher part of a building in prone deployment, and the building is destroyed, they would stay deployed in mid-air (and similarly on a vehicle that is moved away)</li>
+<li>Fixed: Weapon Deployment - players were able to 'rappel' down buildings by deploying their weapon</li>
+<li>Fixed: Deploying on low rocky walls caused weapon to sometimes not be able to aim right</li>
+<li>Fixed: Problem with remotely controlling a laser designator and disassembling</li>
+<li>Tweaked: Smoother leg transform for prone deployment</li>
+</ul>
+
+<p><strong>SERVER:</strong></p>
+
+<ul>
+<li>Updated: Stand-alone Windows Dedicated Server (hotfix 1.42)</li>
+<li>Updated: Stand-alone Linux Dedicated Server (hotfix 1.42)
+<ul>
+<li>Known issue: Steam client modifies the steam_appid.txt file incorrectly. In case of issues, verify its content is: 107410
+</li><li>Known issue: Sometimes the add-ons are loaded from the wrong installation (e.g. main game)</li>
+<li>Try adding -mod=curator;kart;heli;mark;dlcbundle to your arma3server.exe shortcut</li>
+</ul>
+</li>
+</ul>
+
+<hr />
+                </div>
+                <div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="CommentsWrap"><span class="BeforeCommentHeading"></span><div class="DataBox DataBox-Comments"><h2 class="CommentHeading">Comments</h2>    <ul class="MessageList DataList Comments">
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_10006">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Tuomainen" href="https://vanilla.29th.org/profile/PFC%20Tuomainen" class="PhotoWrap"><img src="../../uploads/userpics/245/nYCLI7SAFIX3O.png" alt="PFC Tuomainen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Tuomainen" class="Username">PFC Tuomainen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/10006/#Comment_10006" class="Permalink" name="Item_1" rel="nofollow"><time title="April 21, 2015 10:44PM" datetime="2015-04-21T22:44:13+00:00">April 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited April 21, 2015 10:50PM by PFC Tuomainen." class="DateUpdated">edited April 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <h3><a id="00103">SITREP #00103</a></h3>
+
+<p>(<a rel="nofollow" href="http://dev.arma3.com/post/sitrep-00103">Source</a>)</p>
+
+<p>FROM: Project Lead<br />
+TO: Arma 3 Users<br />
+INFO: 1.44 Plans, Content Licensing, Game Capture Artist, Array Sorting<br />
+PRECEDENCE: Flash</p>
+
+<h4>SITUATION</h4>
+
+<blockquote class="UserQuote"><div class="QuoteText">
+  <p>In the short-term we are looking towards the 1.44 update, which will focus on bringing the new <a rel="nofollow" href="http://www.battleye.com/">BattlEye</a> anti-cheat version to main branch. We've tried to implement it in an unobtrusive manner, as you can preview on <a rel="nofollow" href="http://dev.arma3.com/dev-branch">Dev-Branch</a>. Your help with testing it under all circumstances is going to be very useful. Specific feedback and suggestions can be shared on <a rel="nofollow" href="http://forums.bistudio.com/showthread.php?190426-BattlEye-service-implementation&amp;p=2910511#post2910511">our forums</a>. The rest of the update consists of miscellaneous fixes and tweaks. Meanwhile, we are solidifying our road map for the Expansion. The various departments are generating asset wishlists, analyses and concept art, beginning feature feasibility studies, creating prototypes, and of course, supporting production of the new terrain. After this planning stage has concluded, we'll be sharing what we can in a blog. Most details and specifics on the Expansion will not be discussed until the second half of the year however. We can tell you there is plenty to look forward to!</p>
+</div></blockquote>
+
+<hr />
+
+<p>Full story updated in the OP. I have to say I'm impressed how Arma 3 handles their updates and news to the community.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_59194">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Hill [Ret.]" href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/266/nJK3VFY28A506.png" alt="Cpt. Hill [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="Username">Cpt. Hill [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/59194/#Comment_59194" class="Permalink" name="Item_2" rel="nofollow"><time title="July 12, 2016 1:51AM" datetime="2016-07-12T01:51:40+00:00">July 2016</time></a>            </span>
+                        <span class="MItem"> <span title="Edited July 12, 2016 2:12AM by Cpt. Hill [Ret.]." class="DateUpdated">edited July 2016</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Today marks one of the biggest releases for ARMA3 since it's creation. A new island and a huge number of new objects has been released as part of the ARMA 3 APEX DLC update. This is a ~9 GB update for those who have purchased the DLC or a ~1.6 GB update for those who haven't.</p>
+
+<h3>Arma 3 Apex Release trailer</h3>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-EwAxJC9AR_A?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=EwAxJC9AR_A"><img src="https://img.youtube.com/vi/EwAxJC9AR_A/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+
+<h3>Abridged Changelog</h3>
+
+<p><a rel="nofollow" href="https://dev.arma3.com/post/spotrep-00058">View full change log here.</a></p>
+
+<h4>Data</h4>
+
+<ul>
+<li>Added: Tanoa terrain*</li>
+<li>Added: More than 600 terrain structures*</li>
+<li>Added: More than 200 signs, 25 rocks and 100 trees, bushes and clutters*</li>
+<li>Added: V-44 X Blackfish VTOL*</li>
+<li>Added: Y-32 Xi'an VTOL*</li>
+<li>Added: Prowler LSV*</li>
+<li>Added: Qilin LSV*</li>
+<li>Added: MQ-12 Falcon Drone*</li>
+<li>Added: KH-3A Fenghuang Drone*</li>
+<li>Added: MB 4WD Offroad Car*</li>
+<li>Added: Caesar TBB Propeller Plane*</li>
+<li>Added: RHIB Boat*</li>
+<li>Added: Water Scooter*</li>
+<li>Added: AKS-74U 5.45 mm Assault Rifle*</li>
+<li>Added: AKM 7.62 mm Assault Rifle*</li>
+<li>Added: AK-12 7.62 mm Assault Rifle*</li>
+<li>Added: LIM-85 5.56 mm Machine Gun*</li>
+<li>Added: RPG-7 Launcher*</li>
+<li>Added: PM 9 mm Pistol*</li>
+<li>Added: SPAR-16/S 5.56 mm Assault Rifles*</li>
+<li>Added: SPAR-17 7.62 mm Marksman Rifle*</li>
+<li>Added: CAR-95(-1) 5.8 mm Assault Rifle &amp; Light Support Weapon*</li>
+<li>Added: Type 115 6.5 mm / .50 cal Assault Rifle*</li>
+<li>Added: CMR-76 6.5 mm Marksman Rifle*</li>
+<li>Added: Protector 9 mm Sub-Machine Gun*</li>
+<li>Added: ERCO Optics*</li>
+<li>Added: Various new gear items (regular and thermal-masking uniforms, clothes, headgear, backpacks, NVGs (Night Vision Goggles), and more*</li>
+<li>Added: Apex Protocol 1-4 player co-op campaign*</li>
+<li>Added: Showcase End Game*</li>
+<li>Added: End Game 24 Balavu*</li>
+<li>Added: End Game 16 Moddergat*</li>
+</ul>
+
+<p><span style="font-size: large;"><code>*</code> marked content above requires ownership of the Arma 3 Apex expansion DLC.</span></p>
+
+<ul>
+<li>Added: Zeus Master Tanoa instances</li>
+<li>Added: 13 Apex Steam Achievements</li>
+<li>Added: Apex Welcome Screen</li>
+<li>Added: New and very green "Arma 3 Apex" Main Menu color preset (it has also been made default)</li>
+<li>Added: Arma 3 Apex splash screen for Apex owners</li>
+<li>Added: NATO (Pacific) faction</li>
+<li>Added: CSAT (Pacific) faction</li>
+<li>Added: Syndikat faction</li>
+<li>Added: Gendarmerie faction</li>
+<li>Added: New character appearances (Tanoan and Chinese)</li>
+<li>Added: New radio protocols (Chinese, French and French-English)</li>
+<li>Added: 50 miscellaneous props</li>
+<li>Added: A new default controls preset (Arma 3 Apex)</li>
+<li>Added: A one-time prompt is now displayed in the Main Menu to suggest using the Arma 3 Apex controls preset</li>
+<li>Added: Positional ambient sounds for Tanoa</li>
+<li>Added: A new tab displaying the official servers in the Server Browser</li>
+<li>Added: New Main Menu terrain scenes for Altis, Stratis and VR (consistent with Tanoa’s new approach)</li>
+<li>Added: 'Suppression' samples were added to radio protocols</li>
+<li>Added: New sound 3D processor types</li>
+<li>Added: A tooltip to the Field Manual button in the Pause Menu</li>
+<li>Added: The platform / premium assets are now properly distinguished in the DLC Content Browser</li>
+<li>Added: New sounds for collisions with the vegetation</li>
+<li>Added: New footsteps sounds for movement in the sand</li>
+<li>Added: Geometric occluders to Altis and Stratis objects</li>
+<li>Added: New sounds for falling trees and palm trees</li>
+<li>Added: Falling trees soundsets and soundshaders</li>
+<li>Added: Positional ambient sounds for forests and sea</li>
+<li>Added: New sounds for metal constructions, rock debris for ruins and ancient locations</li>
+<li>Added: New sound effects related to wind</li>
+<li>Tweaked: The Main Menu was overhauled</li>
+<li>Tweaked: Environmental Audio was enhanced (ambient configuration, positional ambient sounds)</li>
+<li>Tweaked: The Revive feature was overhauled</li>
+<li>Tweaked: Roadways and Path LODs of various buildings were improved</li>
+<li>Tweaked: Rain and thunder sound effects</li>
+<li>Tweaked: The DLC icons in the Main Menu now have a full color on-hover effect</li>
+<li><p>Tweaked: The 2D editor is now hidden</p>
+
+<ul>
+<li>it can still be accessed by pressing the CTRL+O keys in the Editor Menu, but is considered deprecated and unsupported</li>
+</ul></li>
+<li><p><b>Tweaked: All game menus were moved from the bottom left to the center</b></p></li>
+<li><p>Tweaked: The multiplayer game type names were overhauled:</p>
+
+<ul>
+<li>“Seize” and “Defend” were removed</li>
+<li>All Zeus game modes (“ZDM”, “ZCTF”, “ZCoop”, “ZSC”, “ZCTI”, “ZTDM”, “ZRPG”, “ZGM”, “ZvZ” and “ZvP”) were replaced by a single mode “Zeus”</li>
+<li>Added: New “EndGame”, “Support”, “KOTH”, “LastMan” and “Survive” game modes</li>
+</ul></li>
+<li><p>Using any of the removed modes will list the scenario as “Undefined”</p></li>
+<li>Tweaked: The autocannon fire mode of the AH-99 Blackfoot and the Mi-48 Kajman helicopters was changed to 5-round bursts</li>
+<li>Tweaked: Several multiplayer displays</li>
+<li>Tweaked: APCs can now use auto-lead / zeroing on target while engaging with their cannons</li>
+<li>Tweaked: The AAA radars are now more balanced</li>
+<li>Tweaked: Heavy caliber projectile impact was improved</li>
+<li>Tweaked: Respawn markers for Civilian and Independent sides can now also be named “respawn_civ” and “respawn_guer” (these are backwards compatible)</li>
+<li>Tweaked: All End Game scenarios now use respawn classes instead of the Virtual Arsenal</li>
+<li>Tweaked: The tile textures for deep sea in the map preview were improved</li>
+<li>Tweaked: Most respawn classes in official End Game scenarios are now limited</li>
+<li>Tweaked: Weapon tail sounds were improved</li>
+<li>Tweaked: Sounds for vehicle collisions were improved</li>
+<li>Tweaked: Visibility of various character movement states (in relation to recent AI detection improvements)</li>
+<li>Tweaked: Tasks distribution in multiplayer was improved</li>
+<li>Tweaked: AI is now less able to detect explosives while driving a vehicle</li>
+<li>Tweaked: AI detection of weapon firing is now better</li>
+<li>Tweaked: Sounds of footsteps were improved (volume based on animations, different sounds for forests, tweaks)</li>
+<li>Fixed: Bullet collision geometry for reed</li>
+<li>Fixed: Transition animations (e.g. prone transitions to crouch and stand, sitting and ladder animations) could be used for weapon switching on the move</li>
+<li>Fixed: Player could bypass the initial countdown in End Game by respawning (in cases when the respawn time was shorter than the countdown)</li>
+<li>Fixed: It was possible to respawn in a vehicle with its simulation disabled</li>
+<li>Fixed: Characters were forced to go prone when opening an inventory while moving unarmed</li>
+<li>Fixed: Animation freezes when limping into swimming state</li>
+<li>Fixed: The AI could get stuck in a FFV animation</li>
+<li>Fixed: Characters would stop and slide when transitioning from an unarmed jog to an unarmed walk</li>
+<li>Fixed: Characters would go prone when switching from an unarmed jog to an unarmed walk while turning</li>
+<li>Fixed: AI units were displayed in the Entities list regardless of the settings in the Virtual Spectator</li>
+<li>Fixed: The Retrieve Intel text was not localized for End Game clients which had a different language than the server</li>
+</ul>
+
+<h4>Engine</h4>
+
+<ul>
+<li>Added: Vehicle-in-Vehicle Transport</li>
+<li>Added: Support for the Tobii EyeX Controller</li>
+<li>Added: Support for explosives being detonated by multiple players</li>
+<li>Added: Authors of markers / drawn lines can now be displayed</li>
+<li>Added: ‘No spam’ versions of some of the RPT logs</li>
+<li>Added: The server browser now contains a button minimizing the game and switching focus to the Launcher</li>
+<li>Added: Scenario tag "Tanoa" for Steam Workshop</li>
+<li>Added: DLC tag "Apex" for Steam Workshop</li>
+<li>Added: A new unload waypoint for the Vehicle in Vehicle Transport</li>
+<li>Tweaked: Default video options</li>
+<li>Tweaked: Improved depth priming for distant vegetation</li>
+<li>Tweaked: The DLC icons in the Showcases menu are now more properly drawn</li>
+<li>Tweaked: Various terrain performance optimizations</li>
+<li>Tweaked: The Chat and Voice-Over-Net icons now change their colors according to the channel's color</li>
+<li>Tweaked: Performance optimizations for terrain drawing at night</li>
+<li>Tweaked: The co-pilots have been trained to control VTOLs</li>
+<li><b>Tweaked: Airplanes are now less prone to fly backwards</b></li>
+<li>Tweaked: The logging of players kicked or banned from a Dedicated Server was improved</li>
+<li>Tweaked: The folder size for screenshots is now limited to 250 MB (can be set in a user’s profile)</li>
+<li>Tweaked: The addAction command’s functionality was extended</li>
+<li>Tweaked: Server command #mission now supports an optional difficulty parameter. If not set, difficulty remains unchanged.</li>
+<li><b>Tweaked: Mines can now be detonated by players even after they respawn</b></li>
+<li>Tweaked: The AI visibility at nights was optimized</li>
+<li>Tweaked: The AI visibility in fog was decreased</li>
+<li>Tweaked: Several improvements to AI airplane piloting (including the VTOLs)</li>
+<li>Tweaked: The 2D Editor link was removed from the Host Server screen</li>
+<li>Tweaked: Commander can now order switching weapons even to FFV passengers</li>
+<li>Tweaked: Turned out tank commanders can now select and cancel targets for their gunners</li>
+<li>Fixed: It was not possible to use UGLs when deployed</li>
+<li>Fixed: Downloading a scenario on a hosted server would get stuck (<a href="https://forums.bistudio.com/topic/143930-general-discussion-dev-branch/?p=3026786" rel="nofollow">https://forums.bistudio.com/topic/143930-general-discussion-dev-branch/?p=3026786</a>)</li>
+<li>Fixed: APCs would ignore the ‘Suppression’ command</li>
+<li>Fixed: The ‘Suppression’ command was not working correctly for the FFV positions</li>
+<li>Fixed: User profiles could not always be deleted (connected to the Unicode standard)</li>
+<li>Fixed: The gunner of a vehicle now receives score points instead of the effective commander (provided the gunner is a human player)</li>
+<li>Fixed: Switching from a launcher while being turned out from a vehicle was not working</li>
+<li>Fixed: AI divers were told not to throw grenades underwater (<a href="https://feedback.bistudio.com/T117176" rel="nofollow">https://feedback.bistudio.com/T117176</a>)</li>
+<li>Fixed: Server command #mission would reset the server difficulty to Regular</li>
+<li>Fixed: The forces applied to destroyed planes were incorrect</li>
+<li>Fixed: Opening the score table would open the Pause Menu as well in some cases</li>
+<li>Fixed: Saving a game could affect the current difficulty</li>
+<li>Fixed: The 'disembark' command was behaving incorrectly for large vehicles</li>
+<li>Fixed: The built-in DLCs in the Server Browser names weren't localized</li>
+<li>Fixed: Explosion damage of vehicles was inconsistent in multiplayer</li>
+<li>Fixed: The kill score was handled incorrectly for renegades and heavily damaged vehicles</li>
+<li>Fixed: Vehicles were not audible after loading a savegame or switching window focus (<a href="https://feedback.bistudio.com/T80726" rel="nofollow">https://feedback.bistudio.com/T80726</a>, <a href="https://feedback.bistudio.com/T118395" rel="nofollow">https://feedback.bistudio.com/T118395</a>)</li>
+<li>Fixed: Markers were not visible for other players in multiplayer (due to the default channel being unexpected)</li>
+<li>Fixed: Characters would switch to their rifles when a sidearm was replaced in their inventories</li>
+<li>Fixed: Opening the map would cancel weapon deployment</li>
+<li>Fixed: The action “NVGoggles” would turn the night vision instantly off after turning on</li>
+<li>Fixed: The 'Next target' action would not work correctly for turned out vehicle commanders</li>
+</ul>
+
+<h4>Launcher</h4>
+
+<ul>
+<li>Added: New Dashboard page</li>
+<li>Added: Support for Arma 3 Units on Dashboard and in the server browser</li>
+<li>Added: Apex visual theme</li>
+<li>Added: New game types to server browser</li>
+<li>Added: An option to open mods that are linked to the Steam cache</li>
+<li>Added: Virtual mod folders are created in the Steam mods storage folder for each Steam mod</li>
+<li>Added: Starting game from Steam invitation or Steam server browser will open the Join Server dialog</li>
+<li>Added: Starting Launcher with a "-skipserverbrowser” parameter will disable the Join Server dialog</li>
+<li>Tweaked: Server mod matching with the mods in the local library was improved</li>
+<li>Tweaked: Servers without a game type set now show a dash instead of the “Unidentified” game type</li>
+<li>Fixed: Crash on Launcher start-up</li>
+<li>Fixed: Sorting order of the official servers was incorrect</li>
+<li>Fixed: Server mods were listed in the incorrect order</li>
+<li>Fixed: Difficulty or AI level names were not displayed if a server forced a custom difficulty</li>
+</ul>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_73289">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Hill [Ret.]" href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/266/nJK3VFY28A506.png" alt="Cpt. Hill [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="Username">Cpt. Hill [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/73289/#Comment_73289" class="Permalink" name="Item_3" rel="nofollow"><time title="November 24, 2016 3:46PM" datetime="2016-11-24T15:46:39+00:00">November 2016</time></a>            </span>
+                        <span class="MItem"> <span title="Edited November 24, 2016 3:47PM by Cpt. Hill [Ret.]." class="DateUpdated">edited November 2016</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p></p><div style="text-align: center;">
+
+<h1>Sale!</h1>
+
+<p><br /><img src="http://puu.sh/st1Iz/375addc86e.jpg" alt="image" /></p></div>
+
+<h3>Save 35% on Arma3: Apex and the Apex Edition, and 50% on Arma 3 &amp; DLC, on <a rel="nofollow" href="http://store.steampowered.com/app/107410/">Steam</a> and the <a rel="nofollow" href="https://store.bistudio.com/category/arma3-editions">Bohemia Store</a></h3>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_112540">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Hill [Ret.]" href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/266/nJK3VFY28A506.png" alt="Cpt. Hill [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Hill%20%5BRet.%5D" class="Username">Cpt. Hill [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/112540/#Comment_112540" class="Permalink" name="Item_4" rel="nofollow"><time title="June 2, 2018 10:07PM" datetime="2018-06-02T22:07:22+00:00">June 2018</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p></p><div style="text-align: center;">Arma-d and dangerous. Bohemia Interactive is back with another bundle of Arma games and expansion packs. Get titles like Arma 3, Arma 3 Apex, Arma 2, Arma 2: Private Military Company, and more. Plus, your purchase will support American Red Cross!<br /><br /><br />
+<img src="https://pics.paypal.com/00/s/Mjk5MDliMzktMzYwOC00ZDRjLWIyNGQtZDc3N2I3Nzc3ZDQy/file.JPG" width="25%" alt="image" /></div>
+
+<p><a href="https://www.humblebundle.com/games/arma-2018-bundle" rel="nofollow">https://www.humblebundle.com/games/arma-2018-bundle</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_113931">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/113931/#Comment_113931" class="Permalink" name="Item_5" rel="nofollow"><time title="June 26, 2018 11:12PM" datetime="2018-06-26T23:12:48+00:00">June 2018</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Navals are not just oranges or belly buttons any more!</p>
+
+<p><a rel="nofollow" href="https://dev.arma3.com/post/oprep-jets-dlc-bonus-content">JETS DLC BONUS CONTENT</a></p>
+
+<p><a rel="nofollow" href="https://dev.arma3.com/post/oprep-jets-dlc-bonus-content"><img src="https://dev.arma3.com/assets/img/post/images/NATO_Destroyer_4.jpg" alt="" /></a></p>
+
+<p><a rel="nofollow" href="https://dev.arma3.com/post/oprep-jets-dlc-bonus-content"><img src="https://dev.arma3.com/assets/img/post/images/NATO_Destroyer_3.jpg" alt="" /></a></p>
+
+<p><a rel="nofollow" href="https://dev.arma3.com/post/oprep-jets-dlc-bonus-content"><img src="https://dev.arma3.com/assets/img/post/images/CSAT_Radar.jpg" alt="" /></a></p>
+
+<p><a rel="nofollow" href="https://dev.arma3.com/post/oprep-jets-dlc-bonus-content"><img src="https://dev.arma3.com/assets/img/post/images/CSAT_Sam.jpg" alt="" /></a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_115003">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Nelson" href="https://vanilla.29th.org/profile/Cpt.%20Nelson" class="PhotoWrap"><img src="../../uploads/userpics/999/n85UA7QAW8250.jpg" alt="Cpt. Nelson" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Nelson" class="Username">Cpt. Nelson</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/115003/#Comment_115003" class="Permalink" name="Item_6" rel="nofollow"><time title="July 13, 2018 5:22AM" datetime="2018-07-13T05:22:29+00:00">July 2018</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Curious how the AA trailer is gonna work - does it have a truck to haul it?  Would that be done via scroll wheel?  So many questions!  Guess I could load the dev branch and have them answered.....</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_116194">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/116194/#Comment_116194" class="Permalink" name="Item_7" rel="nofollow"><time title="August 1, 2018 2:26PM" datetime="2018-08-01T14:26:33+00:00">August 2018</time></a>            </span>
+                        <span class="MItem"> <span title="Edited August 1, 2018 2:28PM by FSgt. Balzer [Ret.]." class="DateUpdated">edited August 2018</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><img src="https://arma3.com/assets/img/post/images/arma3_update_encore_screenshot_01.jpg" alt="" /></p>
+
+<p><a rel="nofollow" href="https://arma3.com/news/arma-3-encore-update-is-ready-for-boarding#.W2HClTMpA0M">Game Update 1.84 (Encore Update, Free Jets DLC Bonus Content, Fixes and Improvements)</a><br />
+It's live!</p>
+
+<p>3+GB, get updating...</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_117767">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T5 Baron" href="https://vanilla.29th.org/profile/T5%20Baron" class="PhotoWrap"><img src="../../uploads/userpics/163/nAR1N0H4YVWHF.png" alt="T5 Baron" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T5%20Baron" class="Username">T5 Baron</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/117767/#Comment_117767" class="Permalink" name="Item_8" rel="nofollow"><time title="August 23, 2018 4:08PM" datetime="2018-08-23T16:08:23+00:00">August 2018</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-uya0wY7JCVA?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=uya0wY7JCVA"><img src="https://img.youtube.com/vi/uya0wY7JCVA/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_119010">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="SSgt. Butler [Ret.]" href="https://vanilla.29th.org/profile/SSgt.%20Butler%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/513/nNNI2UEVAJH9N.jpg" alt="SSgt. Butler [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Butler%20%5BRet.%5D" class="Username">SSgt. Butler [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/119010/#Comment_119010" class="Permalink" name="Item_9" rel="nofollow"><time title="September 14, 2018 10:20AM" datetime="2018-09-14T10:20:56+00:00">September 2018</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Big Sale on ArmA 3 and all DLCs right now. Apex is 66% off so if you don't have it, I highly recommend grabbing it now.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_157532">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="FSgt. Balzer [Ret.]" href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/466/nD9V9NN855KAJ.png" alt="FSgt. Balzer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/FSgt.%20Balzer%20%5BRet.%5D" class="Username">FSgt. Balzer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/157532/#Comment_157532" class="Permalink" name="Item_10" rel="nofollow"><time title="May 29, 2020 4:01PM" datetime="2020-05-29T16:01:58+00:00">May 2020</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Carts DLC for free during sale!</p>
+
+<p><a href="https://store.steampowered.com/app/107410/Arma_3/" rel="nofollow">https://store.steampowered.com/app/107410/Arma_3/</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+</div><div class="P PagerWrap"></div></div>                <div class="Foot Closed">
+                    <div class="Note Closed SignInOrRegister"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F3074%2F%5C%22%251%24s%5C%22%3F" class="Popup">Sign In</a> or <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F3074%2F%5C%22%251%24s%5C%22%3F">Register</a> to comment.                    </div>
+                                    </div>
+            
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F3074%2F%5C%22%251%24s%5C%22" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F3074%2F%5C%22%251%24s%5C%22" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions"><a href="../../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="../../discussions/participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Active Category-public-discussion" ><a href="../../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Category-other-games" ><a href="../../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Category-29th-id-a3-operation-atavist" ><a href="../../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>

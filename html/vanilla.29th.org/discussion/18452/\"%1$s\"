@@ -1,0 +1,1349 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hell Let Loose (realistic WW2 FPS) — 29th Infantry Division</title>
+  <link rel="next" href="hell-let-loose-realistic-ww2-fps/p2" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="hell-let-loose-realistic-ww2-fps" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="Hell Let Loose (realistic WW2 FPS)" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussion/18452/hell-let-loose-realistic-ww2-fps" />
+  <meta name="description" property="og:description" content="Hell Let Loose https://www.hellletloose.com/ PC Only View Frequently Asked Questions SOCIAL: Twitter Facebook Youtube (Image) About" />
+  <meta name="twitter:image" property="og:image" content="https://cdn.pbrd.co/images/dpXkz7kAT.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/k3k4iii.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/CnyQnKj.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/ZqPfKmo.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/jx0L1Db.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/UEcutzz.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/BZOBBWz.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/AouwJOl.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://i.imgur.com/jxQuar1.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/18673162_1652203628141957_1761803069806842186_o.jpg?oh=221501b986b2ffad4fa9a66f4e84b8ef&amp;amp;oe=59B099D8" />
+  <meta name="twitter:image" property="og:image" content="https://img.youtube.com/vi/dFZmTaeM2g8/0.jpg" />
+  <meta name="twitter:image" property="og:image" content="https://img.youtube.com/vi/oxNA2qSBMaw/0.jpg" />
+  <meta name="twitter:description" content="Hell Let Loose https://www.hellletloose.com/ PC Only View Frequently Asked Questions SOCIAL: Twitter Facebook Youtube (Image) About" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","DiscussionID":"18452","Category":"Other Games","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussion\/18452\/\\\"%1$s\\\"","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"18452","DiscussionStub":"","Page":"\"%1$s","3":"\""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../../js/library/jquery.js?v=3.3"></script>
+  <script src="../../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../../js/global.js?v=3.3"></script>
+  <script src="../../js/flyouts.js?v=3.3"></script>
+  <script src="../../js/library/jquery.autosize.min.js?v=3.3"></script>
+  <script src="../../applications/vanilla/js/autosave.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/discussion.js?v=3.0"></script>
+  <script src="../../plugins/Spoilers/js/spoilers.js?v=1.3"></script>
+  <script src="../../plugins/Quotes/js/quotes.js?v=1.9"></script>
+  <script src="../../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../../js/embed_local.js?v=3.3"></script>
+  <script src="../../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <script type="application/ld+json">{"headline":"Hell Let Loose (realistic WW2 FPS)","description":"Hell Let Loose https:\/\/www.hellletloose.com\/ PC Only View Frequently Asked Questions SOCIAL: Twitter Facebook Youtube (Image) About Developed for Unreal Engine 4 by a small independent team, Hell Let Loose places heavy emphasis on teamwork and communication as players work together as limited Roles in Platoons beneath the\u2026","discussionUrl":"https:\/\/vanilla.29th.org\/discussion\/18452\/hell-let-loose-realistic-ww2-fps","dateCreated":"2017-06-01 20:12:33","author":{"@context":"https:\/\/schema.org","@type":"Person","name":"2Lt. Willis","image":"https:\/\/vanilla.29th.org\/uploads\/userpics\/823\/nHWGRZMG61OMZ.png","url":"https:\/\/vanilla.29th.org\/profile\/2Lt.%20Willis"},"@context":"https:\/\/schema.org","@type":"DiscussionForumPosting"}</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Section-Discussion Section-Category-other-games sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../../categories" class="">Categories</a></li>
+                <li><a href="../../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-off-topic-forum"><a href="../../categories/off-topic-forum" itemprop="url"><span itemprop="title">Off-Topic Forum</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-other-games Last"><a href="../../categories/other-games" itemprop="url"><span itemprop="title">Other Games</span></a></span> </span></span></span>
+                    <div class="MessageList Discussion"><!-- Page Title -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h1>Hell Let Loose (realistic WW2 FPS)</h1></div>
+
+<div id="Discussion_18452" class="Item ItemDiscussion">
+    <div class="Discussion">
+        <div class="Item-Header DiscussionHeader">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                <a href="hell-let-loose-realistic-ww2-fps" class="Permalink" rel="nofollow"><time title="June 1, 2017 8:12PM" datetime="2017-06-01T20:12:33+00:00">June 2017</time></a>            </span>
+                <span class="MItem"> <span title="Edited June 1, 2017 8:14PM by 2Lt. Willis." class="DateUpdated">edited June 2017</span> </span>                 <span class="MItem Category"> in <a href="../../categories/other-games">Other Games</a></span>             </div>
+        </div>
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message userContent">
+                    <p><span style="font-size: larger;"><strong>Hell Let Loose</strong></span><br />
+<a href="https://www.hellletloose.com/" rel="nofollow">https://www.hellletloose.com/</a></p>
+
+<p><strong>PC Only</strong></p>
+
+<p><a rel="nofollow" href="https://www.hellletloose.com/f-a-q">View Frequently Asked Questions</a></p>
+
+<p><strong>SOCIAL:</strong><br />
+<a rel="nofollow" href="https://twitter.com/hell_let_loose">Twitter</a><br />
+<a rel="nofollow" href="https://www.facebook.com/HellLetLoose/">Facebook</a><br />
+<a rel="nofollow" href="https://www.youtube.com/channel/UCqbQTnT8Wj3uzIc8TL9iKNg">Youtube<br />
+</a></p>
+
+<p><img src="https://cdn.pbrd.co/images/dpXkz7kAT.jpg" alt="https://cdn.pbrd.co/images/dpXkz7kAT.jpg" title="enter image title here" /></p>
+
+<p><strong>About</strong></p>
+
+<p>Developed for Unreal Engine 4 by a small independent team, Hell Let Loose places heavy emphasis on teamwork and communication as players work together as limited Roles in Platoons beneath the leadership of Officers and the force Commander. Using historically accurate weapons, logistics, armor and tactics, Hell Let Loose is a game that demands teamwork and communication not only to win, but to survive.</p>
+
+<p>Featuring sweeping 4km2 maps, the battlefield is divided up into large cap sectors - allowing for emergent and constantly unique gameplay that pits two forces of fifty players in a fight to the death across fields, bridges, forests and towns. The first theater of war is the sleepy Norman town of St Marie Du Mont on<br />
+D-Day 1944 in northern France during Operation Overlord. It features a stunning and detailed 1:1 scale battlefield recreated from archival reference material and satellite photography.</p>
+
+<p>Players will organise and muster behind the front lines before carefully pushing forward into the French countryside towards the town. They will need to establish supply lines using logistics vehicles - enabling them to build Garrisons and other spawn locations in the field.</p>
+
+<p>Armor and infantry must work together to smash through the front line and capture territory - pushing the enemy back and earning greater resources to sustain their fighting power.</p>
+
+<p>Engineers will lay minefields and barbed wire to create choke points. Sunken lanes become killing zones while dense woodlands could mask the presence of a devastating PAK 43 - towed into position by a waiting unit of Wehrmacht infantry. Allied infantry call in strafing runs as hedgerows light up with the fire of a Panther tank and the scream of the Hitler's Buzz Saw - the MG42.</p>
+
+<p>The battlefield is laid out - ready to be mastered by soldiers with the skill and strategic ability to wipe the enemy from the field.</p>
+
+<p>A closed pre-Alpha of Hell Let Loose is expected to begin in October 2017, with a Kickstarter campaign launched prior to a Greenlight campaign.</p>
+
+<p>We plan to release Hell Let Loose on Steam in early 2018.</p>
+
+<p><strong>WHEN IS HELL LET LOOSE SET?</strong></p>
+
+<p>Hell Let Loose is set throughout the duration of World War Two. The first theater of war will be based in Normandy, northern France. It will include several villages and the town of St Marie Du Mont. The map is based on archival reference photographs, satellite photography and height imagery. We are proud to present a 1:1 scale 4km-squared battlefield.</p>
+
+<p><strong>HOW REALISTIC WILL IT BE?</strong></p>
+
+<p>We're aiming to make a game that mixes the high-intensity carnage, weapon mechanics and brutality of Red Orchestra 2 with the operational, supply and construction mechanics of Project Reality beneath the meta strategy of a game similar to Company of Heroes.</p>
+
+<p>We prefer intense, terrifying and intelligent instead of long, tedious and boring.</p>
+
+<p><strong>WHICH FORCES CAN I PLAY AS?</strong></p>
+
+<p>Initially, the first theater set in Normandy will pit the faded might of the German OKW against the relatively green forces of the United States Army.</p>
+
+<p>We plan to make more factions available as we create different theaters. <br />
+Our road map includes the addition of:</p>
+
+<ul>
+<li>British Forces</li>
+<li>Ostheer Wehrmacht Forces</li>
+<li>Russian Forces</li>
+<li>Imperial Japanese Forces</li>
+</ul>
+
+<p>We plan to create many more theaters on full release - allowing players to fight in iconic conflicts such as the Battle of the Bulge, the Battle of Stalingrad and the Battle of Guadalcanal. We are also keen to include the community in our decision-making process when it comes to the creation of additional theaters.</p>
+
+<p><strong>WILL THERE BE GORE?</strong></p>
+
+<p>Yes. We already have appropriate decals, death animations and blood spray, but we'll be looking to drive the horror home with dismemberment.</p>
+
+<p><strong>WILL WE BE ABLE TO BUILD?</strong></p>
+
+<p>Yes. We're keen for players to be able to construct defences in order to capitalise on natural choke-points and fields of fire. The Engineer role will be able to erect barbed wire, tank traps, machine-gun nests and other emplacements. He'll also be able to lay anti-tank and anti-personnel mine fields, as well as detect and mark enemy minefields.</p>
+
+<p>Obviously, an Engineer cannot carry a battlefields worth of defences on his back.<br />
+To construct them, he will have to have supplies delivered to the front line. It will be crucial to have steady and protected supply lines should you want to maintain a strong defensive line.</p>
+
+<p><img src="https://i.imgur.com/k3k4iii.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/CnyQnKj.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/ZqPfKmo.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/jx0L1Db.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/UEcutzz.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/BZOBBWz.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/AouwJOl.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://i.imgur.com/jxQuar1.jpg" alt="enter image description here" title="enter image title here" /><br />
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t31.0-8/18673162_1652203628141957_1761803069806842186_o.jpg?oh=221501b986b2ffad4fa9a66f4e84b8ef&amp;oe=59B099D8" alt="enter image description here" title="enter image title here" /></p>
+
+
+<span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-dFZmTaeM2g8?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=dFZmTaeM2g8"><img src="https://img.youtube.com/vi/dFZmTaeM2g8/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span>
+
+
+
+<span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-oxNA2qSBMaw?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=oxNA2qSBMaw"><img src="https://img.youtube.com/vi/oxNA2qSBMaw/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span>
+
+                </div>
+                <div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="CommentsWrap"><span class="BeforeCommentHeading"><span  role="navigation" aria-label="pagination" id="PagerBefore" class="Pager PagerLinkCount-4 NumberedPager"><span class="Previous Pager-nav" aria-disabled="true">«</span><a href="hell-let-loose-realistic-ww2-fps" class="Highlight Pager-p p-1 FirstPage" aria-label="Page 1" aria-current="page">1</a><a href="hell-let-loose-realistic-ww2-fps/p2" class=" Pager-p p-2 LastPage" aria-label="Page 2" rel="next">2</a><a href="hell-let-loose-realistic-ww2-fps/p2" class="Next Pager-nav" rel="next">»</a></span></span><div class="DataBox DataBox-Comments"><h2 class="CommentHeading">Comments</h2>    <ul class="MessageList DataList Comments">
+                <li class="Item Alt ItemComment" id="Comment_89011">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC McDonough" href="https://vanilla.29th.org/profile/PFC%20McDonough" class="PhotoWrap"><img src="../../uploads/userpics/697/nZOVB3T5K9QQI.jpg" alt="PFC McDonough" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20McDonough" class="Username">PFC McDonough</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/89011/#Comment_89011" class="Permalink" name="Item_1" rel="nofollow"><time title="June 1, 2017 9:27PM" datetime="2017-06-01T21:27:20+00:00">June 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Looks pretty good graphically, every feature sounds like something already in or planned for Post Scriptum/ Squad. Competition usually generates better content so hopefully these guys are serious and not just trying to beat the hype train. The coolest thing that sounded different was the CoH domination/ territory control, that would be pretty cool to implement into an FPS.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_89218">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/89218/#Comment_89218" class="Permalink" name="Item_2" rel="nofollow"><time title="June 4, 2017 10:20PM" datetime="2017-06-04T22:20:05+00:00">June 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>It sounds allot like PS/Squad indeed, graphics look great. Let's wait for when they show some gameplay so we can see where it really headed towards.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_89409">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/89409/#Comment_89409" class="Permalink" name="Item_3" rel="nofollow"><time title="June 6, 2017 6:58PM" datetime="2017-06-06T18:58:02+00:00">June 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Luetin interviewed a dev<br />
+<span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-qiQaVMK7tPo?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=qiQaVMK7tPo"><img src="https://img.youtube.com/vi/qiQaVMK7tPo/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_91532">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/91532/#Comment_91532" class="Permalink" name="Item_4" rel="nofollow"><time title="July 7, 2017 12:29AM" datetime="2017-07-07T00:29:37+00:00">July 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>A new trailer appeared today:</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-mfmRrO8C0PU?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=mfmRrO8C0PU"><img src="https://img.youtube.com/vi/mfmRrO8C0PU/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_91589">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/91589/#Comment_91589" class="Permalink" name="Item_5" rel="nofollow"><time title="July 7, 2017 5:08PM" datetime="2017-07-07T17:08:19+00:00">July 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Not a bad trailer, im interested. Will be nice to see what they accomplish this year.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_97187">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Kelso [Ret.]" href="https://vanilla.29th.org/profile/Cpt.%20Kelso%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/473/nPNRQ2HGQATJE.png" alt="Cpt. Kelso [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Kelso%20%5BRet.%5D" class="Username">Cpt. Kelso [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97187/#Comment_97187" class="Permalink" name="Item_6" rel="nofollow"><time title="October 1, 2017 1:09AM" datetime="2017-10-01T01:09:15+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Gameplay trailer released today</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-LYK7W0lM8uE?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=LYK7W0lM8uE"><img src="https://img.youtube.com/vi/LYK7W0lM8uE/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_97191">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97191/#Comment_97191" class="Permalink" name="Item_7" rel="nofollow"><time title="October 1, 2017 6:00AM" datetime="2017-10-01T06:00:34+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>You beat me too it. I really like the way the Garand fires. Interesting that they have a base game playable already. Heres a link to the kickstarter page which has some more information.</p>
+
+<p><a href="https://www.kickstarter.com/projects/blackmatter/hell-let-loose" rel="nofollow">https://www.kickstarter.com/projects/blackmatter/hell-let-loose</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_97222">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 Boelter [Ret.]" href="https://vanilla.29th.org/profile/T4%20Boelter%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/323/nQTR4G1FDX1IM.jpg" alt="T4 Boelter [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20Boelter%20%5BRet.%5D" class="Username">T4 Boelter [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97222/#Comment_97222" class="Permalink" name="Item_8" rel="nofollow"><time title="October 1, 2017 4:05PM" datetime="2017-10-01T16:05:16+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>It looks nice so far. Still looks like one of those games that I will need to play or see more before I judge.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_97224">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Alan" href="https://vanilla.29th.org/profile/PFC%20Alan" class="PhotoWrap"><img src="../../uploads/userpics/444/n18ZK2GEKR52E.jpg" alt="PFC Alan" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Alan" class="Username">PFC Alan</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97224/#Comment_97224" class="Permalink" name="Item_9" rel="nofollow"><time title="October 1, 2017 4:23PM" datetime="2017-10-01T16:23:45+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Same</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_97496">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97496/#Comment_97496" class="Permalink" name="Item_10" rel="nofollow"><time title="October 3, 2017 8:44PM" datetime="2017-10-03T20:44:40+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>What Cpl. Boelter said, it's a game we need to judge when playing, it looks really interesting, it basically is like Project Reality WW2.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_97515">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Thomas" href="https://vanilla.29th.org/profile/PFC%20Thomas" class="PhotoWrap"><img src="../../uploads/userpics/657/nKIE8CTV46CT2.png" alt="PFC Thomas" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Thomas" class="Username">PFC Thomas</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97515/#Comment_97515" class="Permalink" name="Item_11" rel="nofollow"><time title="October 4, 2017 2:00AM" datetime="2017-10-04T02:00:52+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I don't know about you guys, but for me the market for realism FPS is saturating.<br />
+First we have Insurgency (which spawns Day of Infamy), then Squad (which spawns Post Scriptum), then Arma, then "Battalion 1944", etc etc...<br />
+A few months go by and we're gonna hear about an another realistic WW2 or Cold War or Humid War shooter. We can't buy them all and they can't sell them all, someday I think this will all come crashing down like the 3D gaming fad a few years ago.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_97537">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC McDonough" href="https://vanilla.29th.org/profile/PFC%20McDonough" class="PhotoWrap"><img src="../../uploads/userpics/697/nZOVB3T5K9QQI.jpg" alt="PFC McDonough" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20McDonough" class="Username">PFC McDonough</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97537/#Comment_97537" class="Permalink" name="Item_12" rel="nofollow"><time title="October 4, 2017 10:27AM" datetime="2017-10-04T10:27:57+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I don't think it will ever "come crashing down" competition drives innovation. With the market being saturated it will likely lead to better quality games(in most cases). The reason VR kind of fell flat is because the tech was new and interesting, but still has a ways to go in terms of development. People just needs to pay better attention to developers and WAIT before they jump and purchase a game just because you get a cool skin. Wait and see which games actually deserve our money and attention.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_97548">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97548/#Comment_97548" class="Permalink" name="Item_13" rel="nofollow"><time title="October 4, 2017 1:51PM" datetime="2017-10-04T13:51:37+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/PFC%20Thomas" rel="nofollow">@PFC Thomas</a> said:<br />
+  I don't know about you guys, but for me the market for realism FPS is saturating.<br />
+  First we have Insurgency (which spawns Day of Infamy), then Squad (which spawns Post Scriptum), then Arma, then "Battalion 1944", etc etc...<br />
+  A few months go by and we're gonna hear about an another realistic WW2 or Cold War or Humid War shooter. We can't buy them all and they can't sell them all, someday I think this will all come crashing down like the 3D gaming fad a few years ago.</p>
+</div></blockquote>
+
+<p>Humid War shooters don't hold much appeal to me. Humidity does terrible things to my hair.</p>
+
+<p>Cautious optimism should be an attitude we all hold for any pre-release titles.  There are downsides to many of the other WW2 titles out there (Post Scriptum is Commonwealth only + Lee Enfields don't bolt properly + it has that Squad style of graphics which always look sort of out of focus to me) and Battalion 1944 suffers the ARMA issue of a community divided into thousands of sub communities by their mod selections/choices/map making. This game has an opportunity to take lessons from all the other titles and put them to good use. Will they? Well, I for one am cautiously optimistic about it but they won't get my money until I see more.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_97569">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97569/#Comment_97569" class="Permalink" name="Item_14" rel="nofollow"><time title="October 4, 2017 6:45PM" datetime="2017-10-04T18:45:07+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I don't know why Battalion 1944 is added to PFC Thomas's list of realism FPS, because the game is based on the first arcade gameplay of the first two COD's. Just look at this. <a rel="nofollow" href="https://www.youtube.com/watch?v=aNgJK8zFzCU">Just look at this.</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_97579">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Thomas" href="https://vanilla.29th.org/profile/PFC%20Thomas" class="PhotoWrap"><img src="../../uploads/userpics/657/nKIE8CTV46CT2.png" alt="PFC Thomas" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Thomas" class="Username">PFC Thomas</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97579/#Comment_97579" class="Permalink" name="Item_15" rel="nofollow"><time title="October 4, 2017 8:36PM" datetime="2017-10-04T20:36:38+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/PFC%20Thomas" rel="nofollow">@PFC Thomas</a> said:<br />
+  "Battalion 1944", etc etc...</p>
+</div></blockquote>
+
+<p>Hence the quotation marks</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_97766">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="SSgt. Gibson" href="https://vanilla.29th.org/profile/SSgt.%20Gibson" class="PhotoWrap"><img src="../../uploads/userpics/115/nQPS06R9FYUTM.jpg" alt="SSgt. Gibson" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/SSgt.%20Gibson" class="Username">SSgt. Gibson</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/97766/#Comment_97766" class="Permalink" name="Item_16" rel="nofollow"><time title="October 7, 2017 3:33PM" datetime="2017-10-07T15:33:00+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I’m really excited that there is going to be more than one option out there in terms of a new WW2 realism shooter. Both Hell Let Loose and Post Scriptum are going to offer different things. Both games will definitely have to be heavily tested and considered should we look to move into one of them some day.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_98203">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/98203/#Comment_98203" class="Permalink" name="Item_17" rel="nofollow"><time title="October 13, 2017 1:16AM" datetime="2017-10-13T01:16:49+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Hey guys just a reminder that the Kickstarter campaign is continuing to run until October 31st. A few of us have already purchased the Veteran level backing to get some beta access and see what its all about. If kickstarting and supporting a game early on is your thing the link is below. This game has been getting some significant exposure. We were discussing last night how Hell let Loose appears to be gaining more traction than Post Scriptum, check it out below.</p>
+
+<p><a href="https://www.kickstarter.com/projects/blackmatter/hell-let-loose/posts/2010038" rel="nofollow">https://www.kickstarter.com/projects/blackmatter/hell-let-loose/posts/2010038</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_98243">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/98243/#Comment_98243" class="Permalink" name="Item_18" rel="nofollow"><time title="October 14, 2017 4:16AM" datetime="2017-10-14T04:16:53+00:00">October 2017</time></a>            </span>
+                        <span class="MItem"> <span title="Edited October 14, 2017 4:23AM by T3 Veld [Ret.]." class="DateUpdated">edited October 2017</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Game looks really interesting but i am gonna wait for Steam Early Access. I'm gonna need too anyway as Kickstarter only accepts creditcards. I only can use Paypal with regular bank account.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_98774">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/98774/#Comment_98774" class="Permalink" name="Item_19" rel="nofollow"><time title="October 21, 2017 3:03AM" datetime="2017-10-21T03:03:47+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>New Kickstarter video!</p>
+
+
+<span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-k78Xq4veXTk?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=k78Xq4veXTk"><img src="https://img.youtube.com/vi/k78Xq4veXTk/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span>
+
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_98851">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/98851/#Comment_98851" class="Permalink" name="Item_20" rel="nofollow"><time title="October 22, 2017 2:58AM" datetime="2017-10-22T02:58:05+00:00">October 2017</time></a>            </span>
+                        <span class="MItem"> <span title="Edited October 22, 2017 2:58AM by T3 Veld [Ret.]." class="DateUpdated">edited October 2017</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Looking real nice, shows what the UE4 is capable off, i just wonder how the performance is as Squad, that is on the same engine, has had some performance issues as well. They want to have 100 people per game, 50 on each side, and one thing i have noticed in many games is, the more people that are in a game, the more performance is hit in a (UE4) game. Let's hope they can manage this.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_99321">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/99321/#Comment_99321" class="Permalink" name="Item_21" rel="nofollow"><time title="October 28, 2017 7:58PM" datetime="2017-10-28T19:58:49+00:00">October 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Last 48 hour to get in on the Kickstarter.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_99542">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/99542/#Comment_99542" class="Permalink" name="Item_22" rel="nofollow"><time title="November 1, 2017 8:48AM" datetime="2017-11-01T08:48:41+00:00">November 2017</time></a>            </span>
+                        <span class="MItem"> <span title="Edited November 1, 2017 8:50AM by T3 Veld [Ret.]." class="DateUpdated">edited November 2017</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>They have opened the Paypal option on their website to pledge and i had about 30 bucks left in my paypal account so i bought the 26 bucks pledge that gives access to the Alpha, Beta, and Steam Early Access.<br />
+For anyone who is interested, for some reason its only open till the 15th of November.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_99563">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T4 J. Corrion [Ret.]" href="https://vanilla.29th.org/profile/T4%20J.%20Corrion%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/043/n8A0YA68QMKXF.jpg" alt="T4 J. Corrion [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T4%20J.%20Corrion%20%5BRet.%5D" class="Username">T4 J. Corrion [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/99563/#Comment_99563" class="Permalink" name="Item_23" rel="nofollow"><time title="November 1, 2017 1:48PM" datetime="2017-11-01T13:48:55+00:00">November 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Yeah I was waiting to get a paypal option. I also got the 26 dollar one. Game is looking promising.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_100025">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/100025/#Comment_100025" class="Permalink" name="Item_24" rel="nofollow"><time title="November 9, 2017 3:42AM" datetime="2017-11-09T03:42:02+00:00">November 2017</time></a>            </span>
+                        <span class="MItem"> <span title="Edited November 9, 2017 3:42AM by T3 Veld [Ret.]." class="DateUpdated">edited November 2017</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Found this interesting developers interview from October!</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-XnNto65Mcr0?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=XnNto65Mcr0"><img src="https://img.youtube.com/vi/XnNto65Mcr0/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Banned" id="Comment_101865">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Private Denis P. Ryasonen (Banned)" href="https://vanilla.29th.org/profile/Private%20Denis%20P.%20Ryasonen" class="PhotoWrap Banned"><img src="https://images.v-cdn.net/banned_large.png" alt="Private Denis P. Ryasonen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Private%20Denis%20P.%20Ryasonen" class="Username">Private Denis P. Ryasonen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/101865/#Comment_101865" class="Permalink" name="Item_25" rel="nofollow"><time title="December 14, 2017 8:40PM" datetime="2017-12-14T20:40:05+00:00">December 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><a href="https://www.hellletloose.com/community" rel="nofollow">https://www.hellletloose.com/community</a> They are looking for clans to improve the game. It can be our chance to take part in it.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_101882">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Willis" href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="PhotoWrap"><img src="../../uploads/userpics/823/nHWGRZMG61OMZ.png" alt="2Lt. Willis" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Willis" class="Username">2Lt. Willis</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/101882/#Comment_101882" class="Permalink" name="Item_26" rel="nofollow"><time title="December 15, 2017 3:14AM" datetime="2017-12-15T03:14:17+00:00">December 2017</time></a>            </span>
+                        <span class="MItem"> <span title="Edited December 15, 2017 8:29PM by 2Lt. Willis." class="DateUpdated">edited December 2017</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/Pvt.%20Ryasonen" rel="nofollow">@Pvt. Ryasonen</a> said:<br />
+  <a href="https://www.hellletloose.com/community" rel="nofollow">https://www.hellletloose.com/community</a> They are looking for clans to improve the game. It can be our chance to take part in it.</p>
+</div></blockquote>
+
+<p>I have already passed it up the COC weeks ago so hopefully they have some interest in the 29th!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment Banned" id="Comment_101891">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Private Denis P. Ryasonen (Banned)" href="https://vanilla.29th.org/profile/Private%20Denis%20P.%20Ryasonen" class="PhotoWrap Banned"><img src="https://images.v-cdn.net/banned_large.png" alt="Private Denis P. Ryasonen" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Private%20Denis%20P.%20Ryasonen" class="Username">Private Denis P. Ryasonen</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/101891/#Comment_101891" class="Permalink" name="Item_27" rel="nofollow"><time title="December 15, 2017 8:51AM" datetime="2017-12-15T08:51:23+00:00">December 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/Cpl.%20Willis" rel="nofollow">@Cpl. Willis</a> said:</p>
+</div></blockquote>
+
+<p>Oi, good to know that <img class="emoji" src="../../resources/emoji/smile.png" title=":)" alt=":)" height="20" /></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_101893">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Ixer [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Ixer%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/991/nIL1MM41FAO4Q.jpg" alt="PFC Ixer [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Ixer%20%5BRet.%5D" class="Username">PFC Ixer [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/101893/#Comment_101893" class="Permalink" name="Item_28" rel="nofollow"><time title="December 15, 2017 11:56AM" datetime="2017-12-15T11:56:25+00:00">December 2017</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Lets hope boys!</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_103454">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/103454/#Comment_103454" class="Permalink" name="Item_29" rel="nofollow"><time title="January 19, 2018 4:19AM" datetime="2018-01-19T04:19:27+00:00">January 2018</time></a>            </span>
+                        <span class="MItem"> <span title="Edited January 19, 2018 4:20AM by T3 Veld [Ret.]." class="DateUpdated">edited January 2018</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>They have created a forum on their site! And whoever backed up, they made a account for you, so check your email for the login info. It's a generic name created so go into your profile settings to change it to whatever you want!</p>
+
+<p>Once you have done that, check out their first Dev Progress thread:<br />
+<a href="https://forum.hellletloose.com/index.php?/topic/124-from-the-front-dev-progress-update-1/" rel="nofollow">https://forum.hellletloose.com/index.php?/topic/124-from-the-front-dev-progress-update-1/</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_104674">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/104674/#Comment_104674" class="Permalink" name="Item_30" rel="nofollow"><time title="February 5, 2018 3:54AM" datetime="2018-02-05T03:54:07+00:00">February 2018</time></a>            </span>
+                        <span class="MItem"> <span title="Edited February 5, 2018 9:00PM by T3 Veld [Ret.]." class="DateUpdated">edited February 2018</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>This is the Twitch account of one of the developers of the game, streaming some uhm, development stuff! Like Carbine M1a1 test firing, a M1919 test, a grenade test with some cheesy placeholder sounds. Some clips are low fps as he has like 20 programs open in the background and its all recorded in the UE4 editor:</p>
+
+<p><a href="https://www.twitch.tv/paleotronix/clips" rel="nofollow">https://www.twitch.tv/paleotronix/clips</a></p>
+
+<p>Some screenshots can be found here:<br />
+<a href="https://forum.hellletloose.com/index.php?/topic/563-highlights-from-paleos-dev-stream/" rel="nofollow">https://forum.hellletloose.com/index.php?/topic/563-highlights-from-paleos-dev-stream/</a></p>
+
+<p>From the January Studio Update:</p>
+
+<p>CHARACTER MODELS:</p>
+
+<p>Immediately after the conclusion of the Kickstarter, we began overhauling our character models to create a standardized system to raise the quality and match them to all other aspects of the title. Our Kickstarter campaign media made use of some early models that were both inaccurate historically, but also visually lacking due to early workflow issues.</p>
+
+<p>Fortunately, we've been able to create a workflow that has allowed us to greatly increase the visual quality of the models, while also staying within our technical budget. By using beautifully photo-scanned faces, we've worked with our brilliant character artist and several deeply knowledgeable historical advisers to overhaul the uniforms into their later-war manifestations.</p>
+
+<p>While the Officer and Rifleman characters are complete for both forces, we will continue to create different uniform and equipment combinations for each role, as well as slowly start to diversify and create new units and army branches. This is not a process that will end, as there will always be another uniform, role, unit, branch or nation to implement.</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_13952d17082446c2b2df0e01815bdb96~mv2_d_2560_2048_s_2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_bae55abf0bf947189b229477dcc935d4~mv2_d_2560_2048_s_2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>While beautiful renders are one thing, seeing them in-engine and in-game is another:<br />
+<img src="https://static.wixstatic.com/media/da3421_7f61f22372474c5a948d81d7bcec87bb~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_0484d6afc88f4946ba4d784bdf192bde~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>All full-body character animations as seen in our early gameplay videos have been entirely overhauled and implemented alongside our new character models. By far, this has been the largest amount of work we've had to overhaul. It can take a long time to make sure that everything is performing as it should, and that it appears as fluid as possible. While we're happy with what we have now, it will take some more time to iron out every smaller bug as we encounter them.<br />
+<img src="https://static.wixstatic.com/media/da3421_1ca902426a20451b844a8adfbef00b57~mv2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>VEHICLES:</p>
+
+<p>Look at that camo on that Panther!</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_f65a7a920756437489c78cd42f7a0254~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_a0ee08b32e1343f8a0b20b11957bc50d~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_3ceb04af60ce4da388834a8a8c876cb3~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>Our key focus with vehicles it to implement the trucks and other wheeled vehicles. The reason for this is simple - they underpin the supply metagame, and are a key resource in transporting units around the map. All vehicles will have a working gear system, suspension and physics properties that match their real-life equivalents. Our philosophy in all things is to begin using reality as the base, and then to push the design more towards "fun" wherever we feel players will struggle. In light of this, we've altered the horsepower and handling of some of the vehicles. We want you to focus on choosing clever routes, prioritising supply drops and clever driving techniques - not to feel chore-laden and bored.</p>
+
+<p>In addition, we're now applying small props and other details to all our vehicle models. It's important to give them a lived-in feeling so commonly seen in archival photographs. For many men, these vehicles were home for months - if not years!</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_ef1d6f27ca42491e9aefe5fff122e0dc~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_26e15869d4024e509a93174e2fd1db43~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>WEAPONS:<br />
+With the completion of the StG 44 model, we have nearly the full complement of US and German weaponry. Now begins the process of finishing animations, fixing bugs, implementing weapon-specific programming (deploying machine guns), sound design, muzzle flash design, additional FX (overheating barrel smoke) and gameplay balance (recoil patterns and damage). All of these steps need to be done for every weapon, and we find ourselves with the great problem of having many to choose from!</p>
+
+<p>For our Early Access release, we're aiming to include:</p>
+
+<p>US Forces</p>
+
+<pre><code>M1 Garand
+M1 Carbine
+Thompson
+BAR
+M1919 Browning
+M1903 Springfield
+Colt 1911
+Mk2 Fragmentation Grenade
+M18 Smoke Grenade
+M1A1 Mine
+M2 AP Mine
+Bazooka
+M3 Fighting Knife
+</code></pre>
+
+<p>German Forces</p>
+
+<pre><code>Karabiner 98k
+Gewehr 43
+MP 40
+StG 44
+MG 42
+Karabiner 98k with 8x Zielacht Scope
+Luger
+M43 Stick Grenade
+M39 Smoke Grenade
+Tellermine 43
+S-Mine 35
+Panzershrecht
+Feldspaten
+</code></pre>
+
+<p>As per every other aspect of the title, we will continue to introduce new weapons for both the US and German forces, as well as others forces down the line.</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_7341922f858d4ee6be6ebcc781f4b4d4~mv2_d_3840_2160_s_2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_2c3a374a2da844198462cc3d9c1ca32d~mv2_d_3840_2160_s_2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_afeba173f7f74d289de0f7a2b41e10da~mv2_d_3840_2160_s_2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_e78302cb0be8487a861d9f14a0797cac~mv2_d_3840_2160_s_2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_b332e9a7a7a1475fb6601851ae568037~mv2.gif" alt="enter image description here" title="enter image title here" /></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_57523570a1a94476b639c598825eca8d~mv2.png/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>ROLES:</p>
+
+<p>We have recently added two new roles - the Automatic Rifleman and the Flamethrower - to the line-up, but will most likely add several more as development progresses. The idea is to create a large selection of different player experiences that are not only historically accurate, but also allow you to create the right Platoon composition for a particular task.</p>
+
+<p>Currently, we are aiming to include the following roles for the Early Access:</p>
+
+<p>Officer</p>
+
+<p>The Officer role works currently as intended for all spawn deployment mechanics and initial loadout. The current aspects that are not yet complete are Officer-specific map markers and smoke grenades.</p>
+
+<p>Rifleman</p>
+
+<p>The Rifleman role is largely complete, with the primary weapon and grenades all working.</p>
+
+<p>Medic</p>
+
+<p>The pistols for both teams are almost complete. The medic system is underway, with bandaging working for all roles. The morphine model for the US is complete (with the German one underway). The bandage model is complete. We will need to tie in animations for both, but functionally they are almost ready pending bug testing. Smoke grenades are not yet complete though. Role-specific character model is not yet complete.</p>
+
+<p>Automatic Rifleman</p>
+
+<p>The BAR is complete, however we are yet to animate and introduce the StG 44 for the Germans. Role-specific character model is not yet complete.</p>
+
+<p>Machine Gunner</p>
+
+<p>Both machine guns are in and working, however we’re yet to finish the deployment mechanic and the overheat/barrel change mechanics. We also need to add layers of complexity to the FX to introduce lingering barrel smokes as the weapons heats up after sustained fire.</p>
+
+<p>Role-specific character model is not yet complete.</p>
+
+<p>Anti-Tank</p>
+
+<p>Both rocket launcher models are complete and the animations are underway. However, the projectile model is not yet done, nor is the exact damage model for vehicles. Role-specific character model is not yet complete.</p>
+
+<p>Sniper</p>
+
+<p>Both sniper rifles are complete with animations. The last piece of the puzzle is to introduce the proper zoom and scope overlay. This won’t take long at all, but it is something lower on our priority list due to the rarity of the sniper role. Role-specific character model is not yet complete.</p>
+
+<p>Spotter</p>
+
+<p>The spotter functions largely as an Officer, and so is almost feature complete. We are keen to introduce some unique abilities to the role further down the roadmap. Role-specific character model is not yet complete.</p>
+
+<p>Assault</p>
+
+<p>The assault is almost complete - only lacking a role-specific character model.</p>
+
+<p>Support</p>
+
+<p>The Support role is a strange hybrid currently, and we’re going to look to add more functionality to it as we test the game. Currently, he will be able to drop a smaller quantity of supplies in order to allow his Officer to deploy cheaper defences.</p>
+
+<p>Role-specific character model is not yet complete.</p>
+
+<p>Engineer</p>
+
+<p>The Engineer needs to have much of his functionality finished. He currently is a very basic version of his final manifestation. We will be deciding whether it is useful to include him in the Alpha if he remains at such an early stage. Role-specific character model is not yet complete.</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_9e669681a62b4fdbaea27683a7d1454d~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>MAPS:</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_d0506e983fd54058a0a979b7300b892f~mv2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>The tactical map is done! We're now moving on to refining vehicles, overhauling the deployment menu and bringing the tactical map logic into the deployment menu layout. The medic system is currently underway and we’re keen to expand movement and weapon-specific functionality as we proceed.</p>
+
+<p>We've expanded our programming team, and there are so many exciting new features to add. If anything, we're currently aiming to release St Marie Du Mont, Hurtgen Forest (which you can see above), Foy and Utah Beach for Early Access. It's very difficult for us to describe the level of detail and work that goes into each map, but we're very excited to see how players engage with the different and challenging conditions in each environment.</p>
+
+<p>Below you can find a great GIF that demonstrates the way that the St Marie Du Mont map exactly represents the real location by overlaying our in-game tactical map over the Google map of the location. (GIF courtesy of <a href="https://vanilla.29th.org/profile/Marijnz%29" rel="nofollow">@Marijnz)</a></p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_0b13429fcb0540c3b99fe045a53606fd~mv2.gif" alt="enter image description here" title="enter image title here" /></p>
+
+<p>For those of you keen to take a closer look, below is our super hi-res tactical map for St-Marie-Du-Mont.</p>
+
+<p><img src="https://static.wixstatic.com/media/da3421_90c9d523806d4e879927ccf59abf5ed3~mv2_d_4096_4096_s_4_2.jpg/v1/fit/w_700,h_2000,al_c,q_85/image.jpg" alt="enter image description here" title="enter image title here" /></p>
+
+<p>SOUND:</p>
+
+<p>Nearly every sound heard in our gameplay videos has been overhauled. We expect the sound design to continually evolve as we move towards Early Access.</p>
+
+<p>We currently have a first pass on every weapon, and will be continuing to refine and expand as we go.</p>
+
+<p>COMMUNITY:</p>
+
+<p>Forums:</p>
+
+<p>Our forum is currently closed to those who have not backed the game. If you were kind enough to back us on Kickstarter or PayPal then you'll have received access to the forum via email. If you did not receive an email it may have been lost in transit or sitting in a spam or promotions folder, but an account has likely been created for you.</p>
+
+<p>Simply use your backer email to log in here: <a href="https://forum.hellletloose.com" rel="nofollow">https://forum.hellletloose.com</a> then use the forgot password link. We will eventually open up certain areas for the wider community, but it is currently important for us to be able to receive key feedback from those who will participate in our Closed Alpha.</p>
+
+<p>Discord:</p>
+
+<p>Everyone is invited to join our Discord server! This is the best place to keep informed and updated on the entire development process as we move towards Steam Early Access. The devs are always present and often do impromptu Q &amp; As to address mechanics, leak new images or talk about the game design. It comes highly recommended from our existing members, so please do check it out. If you are also a forum account holder you can now link your forum account with Discord and be assigned your backer tier. <a href="https://discord.me/HellLetLoose" rel="nofollow">https://discord.me/HellLetLoose</a></p>
+
+<p>Gameplay Video:</p>
+
+<p>Currently, the team is moving as fast as possible towards our Closed Alpha deadline (end of Q1). Many aspects of the game are rapidly being upgraded or introduced and we know as a team that to create a satisfying gameplay video for the community could take several days of development time away from our production schedule. However, while a gameplay video will not yet be released, we are keen to show you the current progress via updates on our social channels, or with Paleo where he’ll be streaming dev on Twitch! You can tune in to his streams here: <iframe
+    src="https://player.twitch.tv/?channel=paleotronix&autoplay=false"
+    height="360"
+    width="640"
+    frameborder="0"
+    scrolling="no"
+    autoplay="false"
+    allowfullscreen="true"
+></iframe></p>
+
+<p>So, when is the Alpha?</p>
+
+<p>It's a good question, and it's one that gets asked in Discord almost every day! At present, we feel that the end of Q1 (end of March) is a realistic Alpha launch date. As you can see in our update - every moment we have is spent on improving and expanding the content in the game. If we feel that this deadline will not be met, we will immediately communicate this with the community.</p>
+
+<p>Have I missed my chance to support the game?</p>
+
+<p>We understand that many people within the community may have only just discovered the title and are worried that they will miss out on participating in our Alpha. We have deliberated on this, and due to overwhelming demand have decided to open up our PayPal portal for a brief period with a limited selection of backer tiers. It will be available for the duration of February.</p>
+
+<p>We will be releasing updates continuously across all our channels, as well as having great conversations on the Hell Let Loose Discord.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+</div><div class="P PagerWrap"><div  role="navigation" aria-label="pagination" id="PagerAfter" class="Pager PagerLinkCount-4 NumberedPager"><span class="Previous Pager-nav" aria-disabled="true">«</span><a href="hell-let-loose-realistic-ww2-fps" class="Highlight Pager-p p-1 FirstPage" aria-label="Page 1" aria-current="page">1</a><a href="hell-let-loose-realistic-ww2-fps/p2" class=" Pager-p p-2 LastPage" aria-label="Page 2" rel="next">2</a><a href="hell-let-loose-realistic-ww2-fps/p2" class="Next Pager-nav" rel="next">»</a></div></div></div>                <div class="Foot Closed">
+                    <div class="Note Closed SignInOrRegister"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F18452%2F%5C%22%251%24s%5C%22%3F" class="Popup">Sign In</a> or <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F18452%2F%5C%22%251%24s%5C%22%3F">Register</a> to comment.                    </div>
+                                    </div>
+            
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F18452%2F%5C%22%251%24s%5C%22" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F18452%2F%5C%22%251%24s%5C%22" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions"><a href="../../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="../../discussions/participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Category-public-discussion" ><a href="../../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Active Category-other-games" ><a href="../../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Category-29th-id-a3-operation-atavist" ><a href="../../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>

@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en" class="sticky-footer-html">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Star Wars Battlefront — 29th Infantry Division</title>
+  <link rel="next" href="p2" />
+  <link rel="stylesheet" href="../../../themes/bootstrap/design/style.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="https://vanilla.29th.org/applications/dashboard/design/style-compat.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../../plugins/Spoilers/design/spoilers.css?v=1.3" media="all" />
+  <link rel="stylesheet" href="../../../plugins/Signatures/design/signature.css?v=1.6.1" media="all" />
+  <link rel="stylesheet" href="../../../applications/vanilla/design/tag.css?v=3.0" media="all" />
+  <link rel="stylesheet" href="../../../themes/bootstrap/design/custom.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../../themes/bootstrap/design/custom_military.css?v=2.5.1.14" media="all" />
+  <link rel="stylesheet" href="../../../resources/design/vanillicon.css?v=3.3" media="all" />
+  <link rel="stylesheet" href="../../../plugins/OnlineNow/design/onlinenow.css?v=2.9" media="all" />
+  <link rel="stylesheet" href="../../../applications/vanilla/design/spoilers.css?v=3.0" media="all" />
+  <link rel="shortcut icon" href="../../../uploads/favicon_f06e9f5a2f7eb907.ico" type="image/x-icon" />
+  <link rel="canonical" href="../star-wars-battlefront" />
+  <meta property="og:type" content="article" />
+  <meta property="og:site_name" content="29th Infantry Division" />
+  <meta name="twitter:title" property="og:title" content="Star Wars Battlefront" />
+  <meta property="og:url" content="https://vanilla.29th.org/discussion/4421/star-wars-battlefront" />
+  <meta name="description" property="og:description" content="DICE has been making a new Star Wars Battlefront if you were not aware, that is at one side good, but at the other side, not so good as we know they will ask allot of money for the game and it's DLC's." />
+  <meta name="twitter:image" property="og:image" content="https://img.youtube.com/vi/jXU5k4U8x20/0.jpg" />
+  <meta name="twitter:description" content="DICE has been making a new Star Wars Battlefront if you were not aware, that is at one side good, but at the other side, not so good as we know they will ask allot of money for the game and it's DLC's." />
+  <meta name="twitter:card" content="summary_large_image" />
+  <script>gdn=window.gdn||{};gdn.meta={"currentThemePath":"\/themes\/bootstrap","ConfirmDeleteCommentHeading":"Delete Comment","ConfirmDeleteCommentText":"Are you sure you want to delete this comment?","DiscussionID":"4421","Category":"Other Games","show":"show","hide":"hide","Spoiler":"Spoiler","ForceEmbedForum":"0","ForceEmbedDashboard":"0","Path":"discussion\/4421\/star-wars-battlefront\/\\\"%1$s\\\"","Query":"","InDashboard":"0","emoji":{"assetPath":"https:\/\/vanilla.29th.org\/resources\/emoji","format":"<img class=\"emoji\" src="\&quot;%251$s\&quot;" title=\"%2$s\" alt=\"%2$s\" height=\"20\" \/>","emoji":{"smile":"smile.png","smiley":"smiley.png","wink":"wink.png","blush":"blush.png","neutral":"neutral.png","relaxed":"relaxed.png","grin":"grin.png","joy":"joy.png","sweat_smile":"sweat_smile.png","lol":"lol.png","innocent":"innocent.png","naughty":"naughty.png","yum":"yum.png","relieved":"relieved.png","love":"love.png","sunglasses":"sunglasses.png","smirk":"smirk.png","expressionless":"expressionless.png","unamused":"unamused.png","sweat":"sweat.png","pensive":"pensive.png","confused":"confused.png","confounded":"confounded.png","kissing":"kissing.png","kissing_heart":"kissing_heart.png","kissing_smiling_eyes":"kissing_smiling_eyes.png","kissing_closed_eyes":"kissing_closed_eyes.png","tongue":"tongue.png","disappointed":"disappointed.png","worried":"worried.png","angry":"angry.png","rage":"rage.png","cry":"cry.png","persevere":"persevere.png","triumph":"triumph.png","frowning":"frowning.png","anguished":"anguished.png","fearful":"fearful.png","weary":"weary.png","sleepy":"sleepy.png","tired_face":"tired_face.png","grimace":"grimace.png","bawling":"bawling.png","open_mouth":"open_mouth.png","hushed":"hushed.png","cold_sweat":"cold_sweat.png","scream":"scream.png","astonished":"astonished.png","flushed":"flushed.png","sleeping":"sleeping.png","dizzy":"dizzy.png","no_mouth":"no_mouth.png","mask":"mask.png","star":"star.png","cookie":"cookie.png","warning":"warning.png","mrgreen":"mrgreen.png","heart":"heart.png","heartbreak":"heartbreak.png","kiss":"kiss.png","+1":"+1.png","-1":"-1.png","grey_question":"grey_question.png","trollface":"trollface.png","error":"grey_question.png"}},"RedirectTo":"","RedirectUrl":"","TransportError":"A fatal error occurred while processing the request.<br \/>The server returned the following response: %s","TransientKey":false,"WebRoot":"https:\/\/vanilla.29th.org\/","UrlFormat":"\/{Path}","Args":"","ResolvedPath":"vanilla\/discussion\/index","ResolvedArgs":{"DiscussionID":"4421","DiscussionStub":"star-wars-battlefront","Page":"","3":"\"%1$s","4":"\""},"SignedIn":0,"ConfirmHeading":"Confirm","ConfirmText":"Are you sure you want to do that?","Okay":"Okay","Cancel":"Cancel","Search":"Search","ui":{"siteName":"29th Infantry Division","siteTitle":"29th Infantry Division","locale":"en","inputFormat":"markdown"},"context":{"host":"","basePath":"","assetPath":"","debug":"0"},"upload":{"maxSize":52428800,"maxUploads":20,"allowedExtensions":["txt","jpg","jpeg","gif","png","bmp","tiff","ico","zip","gz","tar.gz","tgz","psd","ai","pdf","doc","xls","ppt","docx","xlsx","pptx","log","rar","7z"]},"featureFlags":[],"useNewFlyouts":false};
+gdn.permissions={"permissions":{"activity.view":true,"profiles.view":true,"discussions.view":[-1,57,58,59,60,61,62,63,64,92,93,155,156,157,159,160,162,167,177,236,288,289,235]},"bans":[],"isAdmin":false};
+</script>
+  <script src="../../../js/library/jquery.js?v=3.3"></script>
+  <script src="../../../js/library/jquery.form.js?v=3.3"></script>
+  <script src="../../../js/library/jquery.popup.js?v=3.3"></script>
+  <script src="../../../js/library/jquery.popin.js?v=3.3"></script>
+  <script src="../../../js/library/jquery.gardenhandleajaxform.js?v=3.3"></script>
+  <script src="../../../js/library/jquery.atwho.js?v=3.3"></script>
+  <script src="../../../js/global.js?v=3.3"></script>
+  <script src="../../../js/flyouts.js?v=3.3"></script>
+  <script src="../../../js/library/jquery.autosize.min.js?v=3.3"></script>
+  <script src="../../../applications/vanilla/js/autosave.js?v=3.0"></script>
+  <script src="../../../applications/vanilla/js/discussion.js?v=3.0"></script>
+  <script src="../../../plugins/Spoilers/js/spoilers.js?v=1.3"></script>
+  <script src="../../../plugins/Quotes/js/quotes.js?v=1.9"></script>
+  <script src="../../../applications/vanilla/js/spoilers.js?v=3.0"></script>
+  <script src="../../../applications/vanilla/js/tagging.js?v=3.0"></script>
+  <script src="../../../js/library/jquery.tokeninput.js?v=3.3"></script>
+  <script src="../../../js/embed_local.js?v=3.3"></script>
+  <script src="../../../themes/bootstrap/js/custom.js?v=2.5.1.14"></script>
+  <script>var supportsAllFeatures = window.Promise && window.fetch && window.Symbol&& window.CustomEvent && Element.prototype.remove && Element.prototype.closest&& window.NodeList && NodeList.prototype.forEach;if (!supportsAllFeatures) {var head = document.getElementsByTagName('head')[0];var script = document.createElement('script');script.src = 'https://vanilla.29th.org/dist/polyfills.min.js?h=3.3';head.appendChild(script);} else {  }</script>
+  <script src="https://vanilla.29th.org/api/v2/locales/en/translations.js?h=3.3" defer="defer"></script>
+  <script src="../../../dist/forum/runtime.min.js?h=3.3" defer="defer"></script>
+  <script src="../../../dist/forum/vendors.min.js?h=3.3" defer="defer"></script>
+  <script src="../../../dist/forum/shared.min.js?h=3.3" defer="defer"></script>
+  <script src="../../../dist/forum/addons/rich-editor.min.js?h=3.3" defer="defer"></script>
+  <script src="../../../dist/forum/addons/dashboard.min.js?h=3.3" defer="defer"></script>
+  <script src="../../../dist/forum/bootstrap.min.js?h=3.3" defer="defer"></script>
+  <script>window["__ACTIONS__"]=[{"type":"@@locales\/GET_ALL_DONE","payload":{"result":[{"localeID":"en","localeKey":"en","regionalKey":"en","displayNames":{"en":"English"}}],"params":[]}},{"type":"@@themes\/GET_DONE","payload":{"result":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}},"params":{"key":{"themeID":"bootstrap","type":"themeFile","version":"2.5.1.14","assets":{"variables":{"data":{},"type":"json"}}}}}}];
+</script>
+  <script type="application/ld+json">{"headline":"Star Wars Battlefront","description":"DICE has been making a new Star Wars Battlefront if you were not aware, that is at one side good, but at the other side, not so good as we know they will ask allot of money for the game and it's DLC's. But here is a trailer they revealed at E3! https:\/\/www.youtube.com\/watch?v=jXU5k4U8x20","discussionUrl":"https:\/\/vanilla.29th.org\/discussion\/4421\/star-wars-battlefront","dateCreated":"2015-06-15 22:16:08","author":{"@context":"https:\/\/schema.org","@type":"Person","name":"T3 Veld [Ret.]","image":"https:\/\/vanilla.29th.org\/uploads\/userpics\/374\/n8INBEY57CHBB.jpg","url":"https:\/\/vanilla.29th.org\/profile\/T3%20Veld%20%5BRet.%5D"},"@context":"https:\/\/schema.org","@type":"DiscussionForumPosting"}</script>
+  <style>.Signature img, .UserSignature img {
+   max-height: 30px !important;
+}</style>
+  <noscript><style>body {visibility: visible !important;}</style></noscript>
+<!-- Preload links, scripts, and stylesheets -->
+
+
+  </head>
+  <body id="vanilla_discussion_index" class="Vanilla Discussion isDesktop index  Section-Discussion Section-Category-other-games sticky-footer-body">
+    <nav class="navbar navbar-default navbar-static-top clearfix" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../../../index.html">29th Infantry Division</a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Forums <span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                <li><a href="../../../categories" class="">Categories</a></li>
+                <li><a href="../../../discussions" class="">Discussions</a></li>
+                <li><a href="https://vanilla.29th.org/activity" class="">Activity</a></li>
+                <li><a href="http://29th.org/donate" class="sub-menu">Donate</a></li>
+<li><a href="https://vanilla.29th.org/search" class="sub-menu">Search</a></li>
+
+                </ul>
+            </li>
+
+            <li class="active dropdown">
+                <a href="\&quot;%251$s\&quot;#" class="dropdown-toggle" data-toggle="dropdown" role="button">Personnel<span class="caret"></span></a>
+                <ul class="dropdown-menu" role="menu">
+                  <li><a href="http://personnel.29th.org">Roster</a></li>
+                  <li><a href="http://personnel.29th.org/#calendar">Calendar</a></li>
+                  <li><a href="http://personnel.29th.org/#banlogs">Ban Logs</a></li>
+                  <li><a href="http://personnel.29th.org/#enlistments">Enlistments</a></li>
+                  <li><a href="http://personnel.29th.org/#tps">Training Platoons</a></li>
+                  <li><a href="http://personnel.29th.org/#eloas">Extended LOAs</a></li>
+                  <li><a href="http://personnel.29th.org/#finances">Finances</a></li>
+                  <li><a href="http://personnel.29th.org/#passes">Weapon Passes</a></li>
+                  <li><a href="http://personnel.29th.org/#membersearch">Member Search</a></li>
+                </ul>
+            </li>
+
+<!--            <li><a href="http://personnel.29th.org">Personnel</a></li> -->
+            <li><a href="http://29th.org/wiki">Wiki</a></li>
+          </ul>
+                      <ul class="nav navbar-nav navbar-right">
+              <li><a href="https://vanilla.29th.org/entry/signin" rel="nofollow" class="SignInPopup">Sign In</a></li>
+            </ul>
+                  </div>
+      </div>
+    </nav>
+
+    <section class="container">
+      <div class="row">
+        <main class="page-content" role="main">
+          <span class="Breadcrumbs" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="CrumbLabel CrumbLabel HomeCrumb"><a href="../../../index.html" itemprop="url"><span itemprop="title">Home</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-off-topic-forum"><a href="../../../categories/off-topic-forum" itemprop="url"><span itemprop="title">Off-Topic Forum</span></a></span> <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="Crumb">›</span> <span class="CrumbLabel Category-other-games Last"><a href="../../../categories/other-games" itemprop="url"><span itemprop="title">Other Games</span></a></span> </span></span></span>
+                    <div class="MessageList Discussion"><!-- Page Title -->
+<div id="Item_0" class="PageTitle"><div class="Options"></div><h1>Star Wars Battlefront</h1></div>
+
+<div id="Discussion_4421" class="Item ItemDiscussion">
+    <div class="Discussion">
+        <div class="Item-Header DiscussionHeader">
+            <div class="AuthorWrap">
+            <span class="Author">
+                <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                            </span>
+            </div>
+            <div class="Meta DiscussionMeta">
+            <span class="MItem DateCreated">
+                <a href="../star-wars-battlefront" class="Permalink" rel="nofollow"><time title="June 15, 2015 10:16PM" datetime="2015-06-15T22:16:08+00:00">June 2015</time></a>            </span>
+                                 <span class="MItem Category"> in <a href="../../../categories/other-games">Other Games</a></span>             </div>
+        </div>
+                <div class="Item-BodyWrap">
+            <div class="Item-Body">
+                <div class="Message userContent">
+                    <p>DICE has been making a new Star Wars Battlefront if you were not aware, that is at one side good, but at the other side, not so good as we know they will ask allot of money for the game and it's DLC's. But here is a trailer they revealed at E3!</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-jXU5k4U8x20?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=jXU5k4U8x20"><img src="https://img.youtube.com/vi/jXU5k4U8x20/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                </div>
+                <div class="Reactions"></div>            </div>
+        </div>
+    </div>
+</div>
+</div><div class="CommentsWrap"><span class="BeforeCommentHeading"><span  role="navigation" aria-label="pagination" id="PagerBefore" class="Pager PagerLinkCount-4 NumberedPager"><span class="Previous Pager-nav" aria-disabled="true">«</span><a href="../star-wars-battlefront" class="Highlight Pager-p p-1 FirstPage" aria-label="Page 1" aria-current="page">1</a><a href="p2" class=" Pager-p p-2 LastPage" aria-label="Page 2" rel="next">2</a><a href="p2" class="Next Pager-nav" rel="next">»</a></span></span><div class="DataBox DataBox-Comments"><h2 class="CommentHeading">Comments</h2>    <ul class="MessageList DataList Comments">
+                <li class="Item Alt ItemComment" id="Comment_14734">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Maj. Fritz" href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="PhotoWrap"><img src="../../../uploads/userpics/568/nJUUJQ5Q18774.jpeg" alt="Maj. Fritz" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="Username">Maj. Fritz</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14734/#Comment_14734" class="Permalink" name="Item_1" rel="nofollow"><time title="June 16, 2015 1:11AM" datetime="2015-06-16T01:11:39+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 16, 2015 1:12AM by Maj. Fritz." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>As a Star Wars fan and a Battlefront fan since the first game, I am awfully worried about how hard they're already trying to sell this.  A lot of what was in there seems choreographed.  But, here's hoping it does turn out to be worth the 60 dollars they're asking for, at least for the base game.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_14744">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14744/#Comment_14744" class="Permalink" name="Item_2" rel="nofollow"><time title="June 16, 2015 2:46AM" datetime="2015-06-16T02:46:59+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>They always create these heavily scripted trailers first time showing off the game, we probably will see normal mp gameplay soon, new video:</p>
+
+<p><span class="VideoWrap"><span class="Video YouTube" data-youtube="youtube-lg_ht2GfQJU?autoplay=1"><span class="VideoPreview"><a href="https://www.youtube.com/watch?v=lg_ht2GfQJU"><img src="https://img.youtube.com/vi/lg_ht2GfQJU/0.jpg" width="640" height="385" border="0" /></a></span><span class="VideoPlayer"></span></span></span></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_14750">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Stear" href="https://vanilla.29th.org/profile/PFC%20Stear" class="PhotoWrap"><img src="../../../uploads/userpics/304/nYHLIBEKDPTLG.jpg" alt="PFC Stear" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Stear" class="Username">PFC Stear</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14750/#Comment_14750" class="Permalink" name="Item_3" rel="nofollow"><time title="June 16, 2015 3:38AM" datetime="2015-06-16T03:38:33+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I'm honestly super excited and will pick up the game. Kinda hoping its really good.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_14767">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Tyson [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Tyson%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/262/nHQX6BWHSAOU5.JPG" alt="PFC Tyson [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Tyson%20%5BRet.%5D" class="Username">PFC Tyson [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14767/#Comment_14767" class="Permalink" name="Item_4" rel="nofollow"><time title="June 16, 2015 1:58PM" datetime="2015-06-16T13:58:16+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I was a serious Battlefront hardcore fan but instead I've ended up keeping my distance from this game. I'll sit on the sidelines and wait on what the early consumers think before I jump on the bandwagon.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_14801">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpl. Zenhenko [Ret.]" href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/683/nKP7ER5E1KJSU.jpg" alt="Cpl. Zenhenko [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="Username">Cpl. Zenhenko [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14801/#Comment_14801" class="Permalink" name="Item_5" rel="nofollow"><time title="June 16, 2015 9:32PM" datetime="2015-06-16T21:32:24+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Is there going to be a story campaign?</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment isOriginalPoster" id="Comment_14823">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14823/#Comment_14823" class="Permalink" name="Item_6" rel="nofollow"><time title="June 17, 2015 2:10AM" datetime="2015-06-17T02:10:22+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I believe its MP only, with Co-op.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_14873">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpl. Zenhenko [Ret.]" href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/683/nKP7ER5E1KJSU.jpg" alt="Cpl. Zenhenko [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="Username">Cpl. Zenhenko [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14873/#Comment_14873" class="Permalink" name="Item_7" rel="nofollow"><time title="June 17, 2015 2:20PM" datetime="2015-06-17T14:20:17+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>No galactic conquest, no story, limited to 20v20. Wow my expectations were low but even this has surprised me.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_14877">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T5 van Gemeren [Ret.]" href="https://vanilla.29th.org/profile/T5%20van%20Gemeren%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/defaultavatar/n154KLUS2L8EB.jpg" alt="T5 van Gemeren [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T5%20van%20Gemeren%20%5BRet.%5D" class="Username">T5 van Gemeren [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14877/#Comment_14877" class="Permalink" name="Item_8" rel="nofollow"><time title="June 17, 2015 3:54PM" datetime="2015-06-17T15:54:49+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Wait there was a story in the previous parts? Also I'm wondering how many players the previous instaltments supported. But the removing of galactic conquest is really a let down (although its not like we play campaign mode in RO2, but I remember having lots of fun with galactic conquest, although I was young at the time and memories are old so....)</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_14885">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Maj. Fritz" href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="PhotoWrap"><img src="../../../uploads/userpics/568/nJUUJQ5Q18774.jpeg" alt="Maj. Fritz" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="Username">Maj. Fritz</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/14885/#Comment_14885" class="Permalink" name="Item_9" rel="nofollow"><time title="June 17, 2015 4:46PM" datetime="2015-06-17T16:46:25+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Galactic Conquest, offline battles with AI support, all that made my battlefront experience and every now and then I will return to the first and second game.  I understand this is a different interpretation, but like I've said to other people, its a sequel in name only.  I'm still waiting for the real SWBF.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15006">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Stear" href="https://vanilla.29th.org/profile/PFC%20Stear" class="PhotoWrap"><img src="../../../uploads/userpics/304/nYHLIBEKDPTLG.jpg" alt="PFC Stear" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Stear" class="Username">PFC Stear</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15006/#Comment_15006" class="Permalink" name="Item_10" rel="nofollow"><time title="June 18, 2015 4:01PM" datetime="2015-06-18T16:01:02+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I was under the understanding that there was supposed to be single player.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15025">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpl. Zenhenko [Ret.]" href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/683/nKP7ER5E1KJSU.jpg" alt="Cpl. Zenhenko [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="Username">Cpl. Zenhenko [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15025/#Comment_15025" class="Permalink" name="Item_11" rel="nofollow"><time title="June 18, 2015 6:55PM" datetime="2015-06-18T18:55:45+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 18, 2015 6:55PM by Cpl. Zenhenko [Ret.]." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>No campaign at least <a rel="nofollow" href="http://www.forbes.com/sites/insertcoin/2015/04/17/dices-star-wars-battlefront-will-not-have-a-single-player-campaign/">exhibit A</a></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15037">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Stear" href="https://vanilla.29th.org/profile/PFC%20Stear" class="PhotoWrap"><img src="../../../uploads/userpics/304/nYHLIBEKDPTLG.jpg" alt="PFC Stear" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Stear" class="Username">PFC Stear</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15037/#Comment_15037" class="Permalink" name="Item_12" rel="nofollow"><time title="June 18, 2015 8:23PM" datetime="2015-06-18T20:23:51+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Ah crap. May not be picking this one up then. Atleast till the price drops.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_15054">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15054/#Comment_15054" class="Permalink" name="Item_13" rel="nofollow"><time title="June 18, 2015 11:12PM" datetime="2015-06-18T23:12:48+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>What does it matter? You also don't buy Battlefield for its singleplayer, (Battlefront was hugely inspired by Battlefield) MP is where it lies for Battlefront. I can't even remember the single player for Battlefront 1 and 2 because it was just MP maps with incredibly dumb bots.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15106">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Stear" href="https://vanilla.29th.org/profile/PFC%20Stear" class="PhotoWrap"><img src="../../../uploads/userpics/304/nYHLIBEKDPTLG.jpg" alt="PFC Stear" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Stear" class="Username">PFC Stear</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15106/#Comment_15106" class="Permalink" name="Item_14" rel="nofollow"><time title="June 19, 2015 11:57AM" datetime="2015-06-19T11:57:07+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I was under the understanding of a movie following campaign. And I was just looking forward to seeing how that would work the most. I'll pick it up for the MP for sure. But probably not till the price drops some.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15111">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Maj. Fritz" href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="PhotoWrap"><img src="../../../uploads/userpics/568/nJUUJQ5Q18774.jpeg" alt="Maj. Fritz" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="Username">Maj. Fritz</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15111/#Comment_15111" class="Permalink" name="Item_15" rel="nofollow"><time title="June 19, 2015 1:08PM" datetime="2015-06-19T13:08:14+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 19, 2015 2:22PM by Maj. Fritz." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I think its just that with AI, you had an experience that wasn't at all half bad.  Yeah, the bots weren't the best, but they were far from being the worst at the time.  When you introduce players to a game, you get the mixed experiences that either make a game great, or horrendous.  Yes, SWBF is made to be a multiplayer game, but I think getting rid of its notable offline modes will hurt its replaybility and the community that backs it (Hence a lot of old fans apprehension for this game).  PC gaming community can be good, but it can also be atrociously bad.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15112">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpl. Zenhenko [Ret.]" href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/683/nKP7ER5E1KJSU.jpg" alt="Cpl. Zenhenko [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="Username">Cpl. Zenhenko [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15112/#Comment_15112" class="Permalink" name="Item_16" rel="nofollow"><time title="June 19, 2015 1:15PM" datetime="2015-06-19T13:15:27+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Perhaps we're all hoping for a sequel to Star Wars Battlefront, instead we are getting a sequel to the original games we're getting a reskin of Battlefield 4 <em>coughHardlinecough</em> with some different game mechanics and a new setting.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15130">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15130/#Comment_15130" class="Permalink" name="Item_17" rel="nofollow"><time title="June 19, 2015 3:17PM" datetime="2015-06-19T15:17:49+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>We don't get the Battlefront we want, we get the Battlefront we deserve.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15271">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Junnila [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Junnila%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/510/nO2O7RRW0O04E.jpg" alt="PFC Junnila [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Junnila%20%5BRet.%5D" class="Username">PFC Junnila [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15271/#Comment_15271" class="Permalink" name="Item_18" rel="nofollow"><time title="June 21, 2015 5:35PM" datetime="2015-06-21T17:35:36+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>The only think i'm thinking is that does the game support mods? I think it will not. <img class="emoji" src="../../../resources/emoji/frowning.png" title=":(" alt=":(" height="20" /><br />
+Mods where fun for BF and BF2.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15316">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15316/#Comment_15316" class="Permalink" name="Item_19" rel="nofollow"><time title="June 21, 2015 11:05PM" datetime="2015-06-21T23:05:03+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Okay I just talked about this with my roommate so I'm all worked up.</p>
+
+<p>Here's my problems with Battlefront as I've seen it so far:<br />
+DICE can't seem to think outside the movies - to the point of forgetting what happened in the movies. What I mean by this is they can't get away from the movies on seemingly any level. Battle of Hoth? Obviously you need a counter for Vader on Hoth, why not a post-Dagobah strength Luke (not only is he able to shove groups of men when the last time we saw him on Hoth he LITERALLY HAD TO FOCUS TO MOVE A TINY LIGHTSABER but he's wearing the same outfit HE WORE IN ROTJ)? Also - you're on Hoth and during the "Walker Assault" gameplay.. your AT-AT can call in an "orbital bombardment". WHAT? You mean the thing that the PLANETARY DEFENSE SHIELD is supposed to protect the planet from?! THE SHIELD POWERED BY THE GENERATOR YOU YOURSELF ARE SUPPOSED TO DESTROY. I mean that's just.. wow. This is the level of thought being put into this game?</p>
+
+<p><img src="http://img2.wikia.nocookie.net/__cb20130424003615/starwars/images/1/1c/PowerGenerator-TESB.png" alt="enter image description here" title="enter image title here" /><br />
+<em>"The field is strong enough to deflect any bombardment."</em></p>
+
+<p>Now okay, sure that's just the trailer.. maybe I'm overreacting. (Hey, it's the internet) Maybe it's just Hoth that is nonsensical and terrible (on second thought let's not go to Camelot for it is a silly place). What other 12 maps can we expect? As of release we know 2 of the 3 are from the movies (Endor and the aforementioned/raged Hoth) with the last being the as of yet unseen on the big screen Sullust. But I swear to Obi-wan .. if I see that the 12 maps are mostly movies related I'm gonna choke a Hutt.</p>
+
+<p>There is absolutely no reason for us to be playing on Tatooine. None. It's a backwater that had nothing going on - hence Luke being bored and wanting to leave. The fact that Lucas, his brain long since withered and blown away decided to stage Episode 1 on Tatooine, should not be considered at this stage. Tatooine at the time of this game, should be the galactic equivalent of Napanee, Ontario. I mean that's just basic storyline. When the biggest excitement is going in to Toshi Station to pick up some power converters, you don't have a Team Death Match of Rebels and Imperials. Using maps from the movies is just being lazy and in my opinion doing a total disservice to the Star Wars Universe as a whole. Also if I see Naboo...</p>
+
+<p><img src="http://i.dailymail.co.uk/i/pix/2014/05/16/article-2630491-1DE8C2F100000578-891_634x424.jpg" alt="enter image description here" title="enter image title here" /><br />
+<em>The booming metropolis of Mos Eisley</em></p>
+
+<p>While on the subject of the ridiculous, the level of "ease of accessibility" is highly disconcerting from a replay value and skills progression perspective. Chances are if you're playing Star Wars Batllefront, or just like the Star Wars Universe, you've played some other Star Wars game. (my Star Wars gaming CV is long and distinguished). Yes I'm an ARMA guy, so having 18 different buttons and combos isn't something that shatters my brain. That being said.. if you're going to have X-Wings and TIE fighters you need to play X-Wing Alliance at the very least so you know what it's like in an Incom T-65b (XWing). Of course if you're going to have X-wings and TIEs it only makes sense to have space battles. Sure it's not promised in the release (or I believe any further in the mentioning of it) but it's <strong>Star</strong> Wars.  I don't want those <strong>stars</strong> to merely be a backdrop to my terrestrial bound combat. I mean to use the Holy Trilogy, the opening of A New Hope took place in a Blockade Running boarding action (I'm not saying - hey let's play as Yoda defending Princess Leia's Corellian Corvette - sweet Frank Oz no) and it was pretty damn awesome. Plus shipboard combat doesn't need half the environmental effects you get on a planet map so from a mapmaking perspective it seems like that'd be easier as well..</p>
+
+<p><img src="http://img2.wikia.nocookie.net/__cb20130225073704/starwars/images/f/f5/TantiveIVcapture-hd.png" alt="enter image description here" title="enter image title here" /><br />
+<em>Your ship here</em></p>
+
+<p>Maps again. So the way EA has done their Battlefield DLC maps is bass ackward. It divides the community by making you pay for maps to play. This means your player base is split and servers running complete maplists are going to be kicking players who don't own the DLC. You are going to actively be booting your player base and thus preventing them from playing. Will this be rectified for Battlefront? Maps need to be for everyone and if you want DLC you make it customization character junk. Have a Bothan head for your character. Maybe a purely cosmetic bandoleer or gunslinger holster for your blaster. Will EA go this route for making more money from this title? Or will they instead hamstring the servers/player base? Alas I feel that is a pessimistically rhetorical question.</p>
+
+<p><img src="http://egmr.net/wp-content/themes/egamer/scripts/timthumb.php?zc=1&amp;w=650&amp;h=300&amp;src=http://egmr.net/wp-content/uploads/2013/08/ea-logo.jpg" alt="enter image description here" title="enter image title here" /><br />
+<em>C-3PO: No, I don't think he likes you at all.<br />
+[R2 beeps]<br />
+C-3PO: No, I don't like you either</em></p>
+
+<p>So that's my rant exhausted. I'm sure there will be more facts and developments as time passes and maybe (hopefully) some of my fears and concerns will be allayed. Likely I'll just pass on this one and wait for the next. One thing that is satisfying is the knowledge that the Star Wars IP is out of Lucas' hands and now we can see more variety and creative projects come to fruition (provided Disney isn't as tightly hamfisted). So though this likely won't be the Star Wars I want, it'll be a stepping stone to the one I do (a new X-Wing/Dark Forces esque shooter would be lovely thanks).</p>
+
+<p><img src="https://33.media.tumblr.com/0f731073d7e766143e440f9fb484a64a/tumblr_miaakqVw5b1r81vzio3_500.gif" alt="enter image description here" title="enter image title here" /><br />
+<em>If you strike me down</em>...</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15351">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T5 Zim [Ret.]" href="https://vanilla.29th.org/profile/T5%20Zim%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/442/nVFCBYJPSRBLA.jpg" alt="T5 Zim [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T5%20Zim%20%5BRet.%5D" class="Username">T5 Zim [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15351/#Comment_15351" class="Permalink" name="Item_20" rel="nofollow"><time title="June 22, 2015 1:44PM" datetime="2015-06-22T13:44:31+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 22, 2015 1:45PM by T5 Zim [Ret.]." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Aw SSgt. you're just missing the big picture, of course if you want the extended universe you will have to buy the Extended Universe DLC, space battles ? Space Battle DLC complete with one Tie-fighter, one X-wing and 1 extra map !! Wanna play pre-dagobah Luke ? Buy the Jedi Wardrobe DLC, with pre-dagobah Luke and pre-dagobah Darth Vader (?!). In my opnion this is just a console oriented battlefield/call of duty game ( where is my 64 vs 64 battle with big maps? this is 2015 we know you guys can), this is battlefield 4 scalled down to fit console gameplay with star wars textures, any decent modder could do it but they just want your money, stay away from this one guys.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15364">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpl. Zenhenko [Ret.]" href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/683/nKP7ER5E1KJSU.jpg" alt="Cpl. Zenhenko [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpl.%20Zenhenko%20%5BRet.%5D" class="Username">Cpl. Zenhenko [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15364/#Comment_15364" class="Permalink" name="Item_21" rel="nofollow"><time title="June 22, 2015 3:27PM" datetime="2015-06-22T15:27:37+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/SSgt.%20Bergstrom" rel="nofollow">@SSgt. Bergstrom</a> said:<br />
+  Tatooine at the time of this game, should be the galactic equivalent of Napanee, Ontario.</p>
+</div></blockquote>
+
+<p>Woah, you're saying the home town of my role model isn't important!</p>
+
+<hr />
+
+<p>I think this game may have a lot of the problems that the new trilogy will have. Disney just completely abandoned the EU, and the only canon is the movies. I Feel like this game will be the same way, Disney is too scared to make a movie that may appeal for more people than the 14 year old kids who watched Revenge of the Sith and thought it was movie of the century, and DICE is too scared to make a game that isn't a Battlefield clone.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15367">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Maj. Fritz" href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="PhotoWrap"><img src="../../../uploads/userpics/568/nJUUJQ5Q18774.jpeg" alt="Maj. Fritz" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Maj.%20Fritz" class="Username">Maj. Fritz</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15367/#Comment_15367" class="Permalink" name="Item_22" rel="nofollow"><time title="June 22, 2015 4:13PM" datetime="2015-06-22T16:13:28+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 22, 2015 4:14PM by Maj. Fritz." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>I guess one positive we can give this horrid excuse for SWBF is that it looks pretty. Unfortunately that's enough for a lot of people to buy it.  I'll just be here, hoping this game goes bust. Much like the first Death Star.</p>
+
+<p><img src="http://img1.wikia.nocookie.net/__cb20140730070446/legomessageboards/images/4/4f/Death-star-explosion-o.gif" alt="explosion" title="enter image title here" /></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15373">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Junnila [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Junnila%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/510/nO2O7RRW0O04E.jpg" alt="PFC Junnila [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Junnila%20%5BRet.%5D" class="Username">PFC Junnila [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15373/#Comment_15373" class="Permalink" name="Item_23" rel="nofollow"><time title="June 22, 2015 5:09PM" datetime="2015-06-22T17:09:25+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/SSgt.%20Bergstrom" rel="nofollow">@SSgt. Bergstrom</a> said:</p>
+</div></blockquote>
+
+<p>but he's wearing the same outfit HE WORE IN ROTJ</p>
+
+<p>They haven't created the right texture for Luke yet.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15375">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Patty" href="https://vanilla.29th.org/profile/Cpt.%20Patty" class="PhotoWrap"><img src="../../../uploads/userpics/191/nB4KEDQG3EQCS.png" alt="Cpt. Patty" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Patty" class="Username">Cpt. Patty</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15375/#Comment_15375" class="Permalink" name="Item_24" rel="nofollow"><time title="June 22, 2015 5:13PM" datetime="2015-06-22T17:13:50+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>At least we still have Star Wars Galax-</p>
+
+<p><img class="emoji" src="../../../resources/emoji/frowning.png" title=":(" alt=":(" height="20" /></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15378">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15378/#Comment_15378" class="Permalink" name="Item_25" rel="nofollow"><time title="June 22, 2015 5:53PM" datetime="2015-06-22T17:53:53+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/PFC%20Junnila" rel="nofollow">@PFC Junnila</a> said:</p>
+</div></blockquote>
+
+<p>Ah so he'll be <em>dressed</em> like he's pre-Dagobah but have the <strong>powers</strong> of post-ROTJ. Makes sense.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15393">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="PFC Junnila [Ret.]" href="https://vanilla.29th.org/profile/PFC%20Junnila%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/510/nO2O7RRW0O04E.jpg" alt="PFC Junnila [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/PFC%20Junnila%20%5BRet.%5D" class="Username">PFC Junnila [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15393/#Comment_15393" class="Permalink" name="Item_26" rel="nofollow"><time title="June 22, 2015 8:18PM" datetime="2015-06-22T20:18:01+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/SSgt.%20Bergstrom" rel="nofollow">@SSgt. Bergstrom</a> said:<br />
+  I din't say that....</p>
+</div></blockquote>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment isOriginalPoster" id="Comment_15397">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="T3 Veld [Ret.]" href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="PhotoWrap"><img src="../../../uploads/userpics/374/n8INBEY57CHBB.jpg" alt="T3 Veld [Ret.]" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/T3%20Veld%20%5BRet.%5D" class="Username">T3 Veld [Ret.]</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15397/#Comment_15397" class="Permalink" name="Item_27" rel="nofollow"><time title="June 22, 2015 8:47PM" datetime="2015-06-22T20:47:10+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/Cpl.%20Fritz" rel="nofollow">@Cpl. Fritz</a> said:<br />
+  I guess one positive we can give this horrid excuse for SWBF is that it looks pretty. Unfortunately that's enough for a lot of people to buy it.  I'll just be here, hoping this game goes bust. Much like the first Death Star.</p>
+</div></blockquote>
+
+<p>&gt;</p>
+
+<p>It won't, just like with the previous battlefield games that lost their touch since BF3 for me, people will continue to buy it, just because of the name, and many will buy Battlefront just for the name alone.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15403">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="2Lt. Bergstrom" href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="PhotoWrap"><img src="../../../uploads/userpics/175/n267EJTY2RCB0.png" alt="2Lt. Bergstrom" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/2Lt.%20Bergstrom" class="Username">2Lt. Bergstrom</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15403/#Comment_15403" class="Permalink" name="Item_28" rel="nofollow"><time title="June 22, 2015 9:41PM" datetime="2015-06-22T21:41:27+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <blockquote class="UserQuote"><div class="QuoteText">
+  <p><a href="https://vanilla.29th.org/profile/PFC%20Junnila" rel="nofollow">@PFC Junnila</a> said:</p>
+</div></blockquote>
+
+<p>You mentioned that Skywalker hadn't textured yet, but that doesn't address the storyline issues that run deeper than the "skin". Haha. Basically my point is that if they do put Luke in Hoth appropriate clothing, will they also give him the appropriate Force powers that he would have at that point (i.e. wiggling a lightsaber in the snow and hallucinating)?</p>
+
+<p>I imagine Cpl. Veld is correct and it'll succeed on console more than anything.</p>
+
+<p>In a way Disney's love of money may be the re-vitalizing of the franchise though if they can sew their seeds far and seek to capitalize by saturating the market with Star Wars games for every genre. Third person sneaky game (Assassins Creed/Thief), space sim (Elite Dangerous/Star Citizen), FPS (RO2/DH/A3), and MOBA are all pretty booming markets if they can just drop a Star Wars brand item in there.. well I think we'd see the markets go towards the light.</p>
+
+<p>IF however, they're content with issuing one or two games per year that are basic cash grabs.. well that would be unfortunate.</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item Alt ItemComment" id="Comment_15765">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Cpt. Patty" href="https://vanilla.29th.org/profile/Cpt.%20Patty" class="PhotoWrap"><img src="../../../uploads/userpics/191/nB4KEDQG3EQCS.png" alt="Cpt. Patty" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Cpt.%20Patty" class="Username">Cpt. Patty</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15765/#Comment_15765" class="Permalink" name="Item_29" rel="nofollow"><time title="June 26, 2015 7:01AM" datetime="2015-06-26T07:01:21+00:00">June 2015</time></a>            </span>
+                                                                    </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p>Apparently it is not Hoth? It just looks like it?</p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+                <li class="Item ItemComment" id="Comment_15935">
+            <div class="Comment">
+
+                                <div class="Options">
+                                    </div>
+                                <div class="Item-Header CommentHeader">
+                    <div class="AuthorWrap">
+            <span class="Author">
+               <a title="Private Tom M. Kane" href="https://vanilla.29th.org/profile/Private%20Tom%20M.%20Kane" class="PhotoWrap"><img src="../../../uploads/userpics/546/nO7FZPP0PYSGR.jpg" alt="Private Tom M. Kane" class="ProfilePhoto ProfilePhotoMedium" /></a><a href="https://vanilla.29th.org/profile/Private%20Tom%20M.%20Kane" class="Username">Private Tom M. Kane</a>            </span>
+            <span class="AuthorInfo">
+                             </span>
+                    </div>
+                    <div class="Meta CommentMeta CommentInfo">
+            <span class="MItem DateCreated">
+               <a href="https://vanilla.29th.org/discussion/comment/15935/#Comment_15935" class="Permalink" name="Item_30" rel="nofollow"><time title="June 29, 2015 2:31AM" datetime="2015-06-29T02:31:52+00:00">June 2015</time></a>            </span>
+                        <span class="MItem"> <span title="Edited June 29, 2015 2:32AM by Private Tom M. Kane." class="DateUpdated">edited June 2015</span> </span>                                            </div>
+                </div>
+                <div class="Item-BodyWrap">
+                    <div class="Item-Body">
+                        <div class="Message userContent">
+                            <p><img src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11694039_10153065910337620_3024788167154288970_n.jpg?oh=5b763fa2e19541145d68b731bf1a07cb&amp;oe=55E9DAF3" alt="AWWW YEEAAAAHHHHH ALPHA TESTER!" title="enter image title here" /></p>
+                        </div>
+                        <div class="Reactions"></div>                    </div>
+                </div>
+            </div>
+        </li>
+            </ul>
+</div><div class="P PagerWrap"><div  role="navigation" aria-label="pagination" id="PagerAfter" class="Pager PagerLinkCount-4 NumberedPager"><span class="Previous Pager-nav" aria-disabled="true">«</span><a href="../star-wars-battlefront" class="Highlight Pager-p p-1 FirstPage" aria-label="Page 1" aria-current="page">1</a><a href="p2" class=" Pager-p p-2 LastPage" aria-label="Page 2" rel="next">2</a><a href="p2" class="Next Pager-nav" rel="next">»</a></div></div></div>                <div class="Foot Closed">
+                    <div class="Note Closed SignInOrRegister"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F4421%2Fstar-wars-battlefront%2F%5C%22%251%24s%5C%22%3F" class="Popup">Sign In</a> or <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F4421%2Fstar-wars-battlefront%2F%5C%22%251%24s%5C%22%3F">Register</a> to comment.                    </div>
+                                    </div>
+            
+        </main>
+
+        <aside class="page-sidebar" role="complementary">
+          <div class="Box GuestBox">
+    <h4>Howdy, Stranger!</h4>
+
+    <p>It looks like you're new here. If you want to get involved, click one of these buttons!</p>
+
+    <p></p>
+
+    <div class="P"><a href="https://vanilla.29th.org/entry/signin?Target=discussion%2F4421%2Fstar-wars-battlefront%2F%5C%22%251%24s%5C%22" class="Button Primary SignInPopup" rel="nofollow">Sign In</a> <a href="https://vanilla.29th.org/entry/register?Target=discussion%2F4421%2Fstar-wars-battlefront%2F%5C%22%251%24s%5C%22" class="Button ApplyButton" rel="nofollow">Register</a></div>    </div>
+<div class="BoxFilter BoxDiscussionFilter">
+    <span class="sr-only BoxFilter-HeadingWrap">
+        <h2 class="BoxFilter-Heading">
+            Quick Links        </h2>
+    </span>
+    <ul role="nav" class="FilterMenu">
+        <li class="AllCategories"><a href="../../../categories"><span aria-hidden="true" class="Sprite SpAllCategories"></span> Categories</a></li>         <li class="Discussions"><a href="../../../discussions" class=""><span aria-hidden="true" class="Sprite SpDiscussions"></span> Recent Discussions</a></li>
+        <li class="Activities"><a href="https://vanilla.29th.org/activity" class=""><span aria-hidden="true" class="Sprite SpActivity"></span> Activity</a></li>        <li class="Participated"><a href="../../../discussions/participated"><span aria-hidden="true" class="Sprite SpParticipated"></span>Participated</a></li>    </ul>
+</div>
+    <div class="Box BoxCategories">
+        <h4 aria-level="2">Categories</h4>        <ul class="PanelInfo PanelCategories">
+            <li><a href="../../../categories" class="ItemLink"><span class="Aside"><span class="Count"><span title="21,449 discussions" class="Number">21.4K</span></span></span> All Categories</a></li><li class="ClearFix Heading Category-civilian-headquarters"  aria-level="3"><span class="Aside"><span class="Count"><span title="20,915 discussions" class="Number">20.9K</span></span></span> Civilian Headquarters</li>
+<li class="ClearFix Depth2 Category-civil-announcements" ><a href="../../../categories/civil-announcements" class="ItemLink"><span class="Aside"><span class="Count"><span title="4,813 discussions" class="Number">4.8K</span></span></span> Civil Announcements</a></li>
+<li class="ClearFix Depth3 Category-transfers" ><a href="../../../categories/transfers" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,281 discussions" class="Number">2.3K</span></span></span> Transfers</a></li>
+<li class="ClearFix Depth3 Category-discharges" ><a href="../../../categories/discharges" class="ItemLink"><span class="Aside"><span class="Count"><span title="2,401 discussions" class="Number">2.4K</span></span></span> Discharges</a></li>
+<li class="ClearFix Depth2 Category-promotions-and-awards" ><a href="../../../categories/promotions-and-awards" class="ItemLink"><span class="Aside"><span class="Count"><span title="7,694 discussions" class="Number">7.7K</span></span></span> Promotions and Awards</a></li>
+<li class="ClearFix Depth2 Category-public-discussion" ><a href="../../../categories/public-discussion" class="ItemLink"><span class="Aside"><span class="Count"><span title="750 discussions" class="Number">750</span></span></span> Public Discussion</a></li>
+<li class="ClearFix Depth3 Category-ban-disputes" ><a href="../../../categories/ban-disputes" class="ItemLink"><span class="Aside"><span class="Count"><span title="339 discussions" class="Number">339</span></span></span> Ban Disputes </a></li>
+<li class="ClearFix Depth3 Category-server-feedback" ><a href="../../../categories/server-feedback" class="ItemLink"><span class="Aside"><span class="Count"><span title="113 discussions" class="Number">113</span></span></span> Server Feedback</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-arma-3" ><a href="../../../categories/[public-relations]-arma-3" class="ItemLink"><span class="Aside"><span class="Count"><span title="18 discussions" class="Number">18</span></span></span> [Public Relations] Arma 3</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-rising-storm-2:-vietnam" ><a href="../../../categories/[public-relations]-rising-storm-2:-vietnam" class="ItemLink"><span class="Aside"><span class="Count"><span title="57 discussions" class="Number">57</span></span></span> [Public Relations] Rising Storm 2: Vietnam</a></li>
+<li class="ClearFix Depth3 Category-[public-relations]-squad" ><a href="../../../categories/[public-relations]-squad" class="ItemLink"><span class="Aside"><span class="Count"><span title="4 discussions" class="Number">4</span></span></span> [Public Relations] Squad</a></li>
+<li class="ClearFix Depth2 Category-off-topic-forum" ><a href="../../../categories/off-topic-forum" class="ItemLink"><span class="Aside"><span class="Count"><span title="1,566 discussions" class="Number">1.6K</span></span></span> Off-Topic Forum</a></li>
+<li class="ClearFix Depth3 Active Category-other-games" ><a href="../../../categories/other-games" class="ItemLink"><span class="Aside"><span class="Count"><span title="524 discussions" class="Number">524</span></span></span> Other Games</a></li>
+<li class="ClearFix Depth2 Category-enlistment-office" ><a href="../../../categories/enlistment-office" class="ItemLink"><span class="Aside"><span class="Count"><span title="6,031 discussions" class="Number">6K</span></span></span> Enlistment Office</a></li>
+<li class="ClearFix Depth3 Category-matches" ><a href="../../../categories/matches" class="ItemLink"><span class="Aside"><span class="Count"><span title="15 discussions" class="Number">15</span></span></span> Matches</a></li>
+<li class="ClearFix Depth2 Category-29th-id-a3-operation-atavist" ><a href="../../../categories/29th-id-a3-operation-atavist" class="ItemLink"><span class="Aside"><span class="Count"><span title="11 discussions" class="Number">11</span></span></span> 29th ID A3 Charlie Operations</a></li>
+        </ul>
+    </div>
+
+        </aside>
+      </div>
+    </section>
+
+    <div class="page-footer">
+      <div class="container">
+        <div class="clearfix">
+          <p class="pull-left">Copyright &copy; 2025 <a href="../../../index.html">29th Infantry Division</a></p>
+          <p class="pull-right hidden-xs">Built with <i class="InformSprite Heart"></i> and <a href="http://getbootstrap.com">Bootstrap</a>. Powered by <a href="https://open.vanillaforums.com">Vanilla Forums</a>
+            <!-- A lot of time was put into this project - a "Follow" and a "Star" would be most appreciated! -->
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="145" height="20" style="vertical-align:top;margin-left:20px;"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=kasperisager&repo=vanilla-bootstrap&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="85" height="20" style="vertical-align:top;"></iframe>
+          </p>
+        </div>
+        
+      </div>
+    </div>
+
+    
+  </body>
+</html>
